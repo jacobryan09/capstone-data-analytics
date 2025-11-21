@@ -1,0 +1,4707 @@
+job_titles,Avg_AI_Risk_Score
+.Net Developer,65.0
+3D Animator,50.0
+3D Artist,50.0
+3D Designer,25.0
+3D Modeler,60.0
+911 Dispatcher,60.0
+911 Operator,60.0
+Aba Therapist,10.0
+Abap Developer,65.0
+Academic Administrator,10.0
+Academic Advisor,15.0
+Academic Counselor,15.0
+Academic Dean,10.0
+Academic Director,10.0
+Academic Tutor,10.0
+Accessioner,60.0
+Accompanist,5.0
+Account Administrator,30.0
+Account Analyst,45.0
+Account Assistant,10.0
+Account Coordinator,10.0
+Account Executive,15.0
+Account Representative,25.0
+Accountant,60.0
+Accounting Administrator,25.0
+Accounting Analyst,45.0
+Accounting Assistant,30.0
+Accounting Associate,30.0
+Accounting Auditor,40.0
+Accounting Clerk,75.0
+Accounting Consultant,35.0
+Accounting Director,25.0
+Accounting Instructor,10.0
+Accounting Professor,5.0
+Accounting Specialist,30.0
+Accounting Technician,35.0
+Accounting Tutor,5.0
+Accounts Payable,60.0
+Accounts Payable Analyst,45.0
+Accounts Payable Assistant,30.0
+Accounts Payable Clerk,30.0
+Accounts Payable Coordinator,25.0
+Accounts Payable Specialist,40.0
+Accounts Receivable Clerk,35.0
+Accounts Receivable Specialist,40.0
+Acquisition Specialist,25.0
+Activist,10.0
+Activities Coordinator,15.0
+Activities Director,10.0
+Activity Assistant,5.0
+Actor,10.0
+Actuarial Analyst,50.0
+Actuary,70.0
+Acupuncturist,10.0
+Acute Care Nurse Practitioner,35.0
+Addiction Counselor,15.0
+Adjunct Instructor,5.0
+Adjunct Nursing Faculty,5.0
+Adjunct Professor,5.0
+Adjunct Teacher,5.0
+Adjuster,35.0
+Admin,90.0
+Administration,60.0
+Administration Manager,55.0
+Administrative Analyst,30.0
+Administrative Assistant,80.0
+Administrative Associate,75.0
+Administrative Clerk,85.0
+Administrative Coordinator,75.0
+Administrative Director,60.0
+Administrative Law Judge,10.0
+Administrative Manager,50.0
+Administrative Officer,65.0
+Administrative Secretary,80.0
+Administrative Services Manager,35.0
+Administrative Specialist,65.0
+Administrator,30.0
+Admissions Advisor,5.0
+Admissions Assistant,25.0
+Admissions Coordinator,5.0
+Admissions Counselor,15.0
+Admissions Officer,10.0
+Admissions Representative,15.0
+Admitting Clerk,30.0
+Advertising Account Executive,30.0
+Advertising Assistant,10.0
+Advertising Coordinator,10.0
+Advertising Director,15.0
+Advertising Manager,75.0
+Advertising Sales,25.0
+Advertising Sales Representative,45.0
+Advocate,10.0
+Aerial Lineman,10.0
+Aeronautical Engineer,43.0
+Aerospace Engineer,55.0
+Aerospace Technician,28.0
+Aesthetic Nurse,35.0
+Aesthetician,5.0
+Affiliate Manager,5.0
+After School Teacher,20.0
+Agency Nurse,50.0
+Agent,40.0
+Agile Coach,10.0
+Agile Project Manager,45.0
+Agricultural Engineer,43.0
+Agriculture Teacher,15.0
+Agronomist,40.0
+Aide,25.0
+Air Marshal,40.0
+Air Traffic Controller,10.0
+Aircraft Assembler,35.0
+Aircraft Cleaner,11.0
+Aircraft Dispatcher,15.0
+Aircraft Electrician,15.0
+Aircraft Engineer,35.0
+Aircraft Fueler,40.0
+Aircraft Inspector,25.0
+Aircraft Maintenance Technician,35.0
+Aircraft Mechanic,35.0
+Aircraft Painter,40.0
+Aircraft Technician,40.0
+Airline Pilot,20.0
+Airport,5.0
+Airport Attendant,15.0
+Allocation Analyst,74.0
+Ambassador,10.0
+Aml Analyst,25.0
+Analog Design Engineer,65.0
+Analyst,55.0
+Analytical Chemist,35.0
+Analytical Scientist,50.0
+Analytics Consultant,30.0
+Analytics Manager,30.0
+Anchor,40.0
+Android Developer,75.0
+Anesthesiologist,30.0
+Anesthesiologist Assistant,40.0
+Animal Care Technician,5.0
+Animal Caretaker,5.0
+Animal Control Officer,25.0
+Animal Keeper,5.0
+Animal Technician,5.0
+Animal Trainer,10.0
+Animator,15.0
+Announcer,30.0
+Antenna Engineer,43.0
+Apartment Leasing Agent,25.0
+Apartment Property Manager,25.0
+Apparel Designer,5.0
+Application Developer,70.0
+Applications Engineer,55.0
+Appointment Scheduler,70.0
+Appointment Setter,60.0
+Appraiser,35.0
+Aquatics Director,10.0
+Arabic Linguist,70.0
+Arborist,30.0
+Archaeologist,15.0
+Architect,10.0
+Architectural Drafter,35.0
+Architectural Draftsman,50.0
+Architectural Engineer,15.0
+Architectural Project Manager,40.0
+Archivist,30.0
+Area Supervisor,25.0
+Armed Guard,40.0
+Armed Security,40.0
+Armed Security Officer,50.0
+Armored Truck Driver,65.0
+Armorer,30.0
+Art Director,40.0
+Art Handler,10.0
+Art Model,5.0
+Art Professor,10.0
+Art Therapist,10.0
+Artist,10.0
+Artistic Director,10.0
+Arts Manager,30.0
+Asic Design Engineer,35.0
+Asp.Net Developer,65.0
+Assembly Line Worker,60.0
+Assembly Operator,65.0
+Assembly Technician,40.0
+Assembly Worker,60.0
+Assessor,15.0
+Asset Management Analyst,15.0
+Asset Manager,30.0
+Asset Protection Manager,50.0
+Assignment Editor,60.0
+Assistant,82.0
+Assistant Account Executive,45.0
+Assistant Administrator,60.0
+Assistant Art Director,40.0
+Assistant Athletic Director,10.0
+Assistant Basketball Coach,10.0
+Assistant Bookkeeper,30.0
+Assistant Branch Manager,67.0
+Assistant Brand Manager,45.0
+Assistant Buyer,40.0
+Assistant Coach,10.0
+Assistant Community Manager,25.0
+Assistant Construction Manager,15.0
+Assistant Controller,25.0
+Assistant Cook,30.0
+Assistant Dean,10.0
+Assistant Designer,35.0
+Assistant Director,65.0
+Assistant Director Of Nursing,5.0
+Assistant District Attorney,40.0
+Assistant Engineer,15.0
+Assistant Facility Manager,25.0
+Assistant Football Coach,10.0
+Assistant Front Office Manager,25.0
+Assistant General Manager,10.0
+Assistant Golf Professional,10.0
+Assistant Hotel Manager,30.0
+Assistant Librarian,30.0
+Assistant Manager,28.0
+Assistant Marketing Manager,45.0
+Assistant Media Planner,50.0
+Assistant Nurse Manager,45.0
+Assistant Operations Manager,15.0
+Assistant Portfolio Manager,5.0
+Assistant Principal,15.0
+Assistant Producer,57.0
+Assistant Product Manager,40.0
+Assistant Professor,10.0
+Assistant Project Manager,35.0
+Assistant Property Manager,30.0
+Assistant Registrar,15.0
+Assistant Restaurant Manager,35.0
+Assistant Sales Manager,30.0
+Assistant Soccer Coach,10.0
+Assistant Store Manager,15.0
+Assistant Superintendent,15.0
+Assistant Teacher,25.0
+Assisted Living Administrator,30.0
+Associate,79.0
+Associate Attorney,40.0
+Associate Brand Manager,45.0
+Associate Buyer,40.0
+Associate Consultant,35.0
+Associate Creative Director,55.0
+Associate Dean,10.0
+Associate Dentist,15.0
+Associate Editor,45.0
+Associate Marketing Manager,45.0
+Associate Pastor,10.0
+Associate Product Manager,35.0
+Associate Professor,10.0
+Associate Project Manager,40.0
+Associate Scientist,40.0
+Associate Software Engineer,65.0
+Associate Veterinarian,5.0
+Athletic Coordinator,10.0
+Athletic Director,10.0
+Atm Technician,40.0
+Attorney,15.0
+Attorney General,15.0
+Au Pair,5.0
+Audio Engineer,30.0
+Audio Technician,45.0
+Audio Visual Technician,25.0
+Audiologist,10.0
+Audit Associate,40.0
+Audit Director,30.0
+Auditor,60.0
+Author,10.0
+Auto Appraiser,11.0
+Auto Body Painter,25.0
+Auto Body Technician,40.0
+Auto Damage Appraiser,19.0
+Auto Detailer,10.0
+Auto Glass Technician,30.0
+Auto Mechanic,35.0
+Auto Sales,55.0
+Auto Technician,35.0
+Autocad Designer,40.0
+Autocad Drafter,65.0
+Autocad Draftsman,45.0
+Automation Engineer,65.0
+Automation Specialist,40.0
+Automation Technician,40.0
+Automation Test Engineer,80.0
+Automation Tester,80.0
+Automotive Consultant,30.0
+Automotive Detailer,18.0
+Automotive Engineer,28.0
+Automotive Instructor,30.0
+Automotive Mechanic,35.0
+Automotive Sales Manager,30.0
+Automotive Service Advisor,18.0
+Automotive Service Manager,25.0
+Automotive Service Technician,48.0
+Automotive Technician,35.0
+Autopsy Assistant,60.0
+Aviation Maintenance Technician,35.0
+Aviation Mechanic,35.0
+Aviation Technician,40.0
+Avionics Engineer,42.0
+Avionics Technician,55.0
+Babysitter,10.0
+Backend Developer,75.0
+Background Investigator,30.0
+Baggage Handler,15.0
+Bailiff,5.0
+Baker,20.0
+Bakery Assistant,15.0
+Bakery Clerk,25.0
+Bakery Manager,84.0
+Band Director,45.0
+Bank Examiner,15.0
+Bank Teller,70.0
+Banker,10.0
+Banking Analyst,25.0
+Banking Consultant,15.0
+Bankruptcy Paralegal,30.0
+Bankruptcy Specialist,30.0
+Banquet Captain,35.0
+Banquet Chef,25.0
+Banquet Manager,83.0
+Bar Manager,40.0
+Bar Server,20.0
+Barback,15.0
+Barber,15.0
+Barista,14.0
+Bartender,14.0
+Baseball Coach,5.0
+Basketball Coach,5.0
+Basketball Referee,5.0
+Beach Attendant,10.0
+Beautician,5.0
+Beauty Advisor,5.0
+Beauty Consultant,5.0
+Behavior Analyst,15.0
+Behavior Interventionist,10.0
+Behavior Technician,15.0
+Behavioral Technician,40.0
+Behavioral Therapist,15.0
+Bellhop,10.0
+Bellman,10.0
+Bench Jeweler,25.0
+Bench Technician,30.0
+Benefits Administrator,30.0
+Benefits Analyst,30.0
+Benefits Consultant,30.0
+Benefits Manager,10.0
+Benefits Specialist,25.0
+Beverage Manager,25.0
+Beverage Server,20.0
+Bi Analyst,40.0
+Bi Developer,40.0
+Bid Manager,15.0
+Bike Mechanic,18.0
+Bilingual,15.0
+Bilingual Customer Service,15.0
+Bilingual Teacher,15.0
+Billing Analyst,40.0
+Billing Assistant,30.0
+Billing Clerk,45.0
+Billing Coordinator,45.0
+Billing Manager,55.0
+Billing Representative,45.0
+Billing Specialist,45.0
+Billing Supervisor,45.0
+Bindery Operator,30.0
+Biochemist,50.0
+Bioinformatician,30.0
+Bioinformatics,30.0
+Biological Scientist,40.0
+Biological Technician,40.0
+Biology Instructor,10.0
+Biology Tutor,30.0
+Biomedical Engineer,60.0
+Biomedical Equipment Technician,30.0
+Biomedical Technician,45.0
+Biostatistician,40.0
+Biotechnology,60.0
+Bishop,5.0
+Biztalk Developer,60.0
+Blackjack Dealer,50.0
+Blog Writer,35.0
+Blogger,35.0
+Board Operator,20.0
+Boat Captain,20.0
+Body Shop Manager,5.0
+Bodyguard,40.0
+Boiler Operator,15.0
+Boilermaker,25.0
+Book Reviewer,45.0
+Booking Agent,10.0
+Bookkeeper,65.0
+Bookkeeping,65.0
+Bookseller,55.0
+Bookstore,30.0
+Bookstore Manager,15.0
+Border Patrol Agent,5.0
+Bouncer,50.0
+Box Office Manager,25.0
+Box Truck Driver,40.0
+Branch Manager,10.0
+Branch Office Administrator,65.0
+Brand Ambassador,10.0
+Brand Consultant,30.0
+Brand Director,30.0
+Brand Manager,45.0
+Brand Marketing Manager,45.0
+Brand Representative,10.0
+Brand Specialist,30.0
+Brand Strategist,30.0
+Breakfast Attendant,13.0
+Brewer,35.0
+Brick Mason,10.0
+Bricklayer,85.0
+Bridal Consultant,10.0
+Bridge Engineer,28.0
+Bridge Inspector,15.0
+Broadband Technician,48.0
+Broadcast Engineer,30.0
+Broadcast Journalist,40.0
+Broadcast Producer,50.0
+Broadcast Technician,45.0
+Broker,30.0
+Broker Assistant,35.0
+Budget Analyst,60.0
+Budget Manager,40.0
+Budget Officer,40.0
+Budtender,25.0
+Build Engineer,28.0
+Builder,10.0
+Building Engineer,15.0
+Building Inspector,10.0
+Building Maintenance,30.0
+Building Manager,30.0
+Building Official,15.0
+Building Superintendent,10.0
+Bursar,50.0
+Bus Aide,15.0
+Bus Driver,45.0
+Bus Monitor,10.0
+Bus Operator,45.0
+Busboy,10.0
+Business Administrator,35.0
+Business Advisor,15.0
+Business Analyst,50.0
+Business Analyst Manager,30.0
+Business Architect,30.0
+Business Assistant,15.0
+Business Associate,50.0
+Business Banker,25.0
+Business Banking Relationship Manager,65.0
+Business Consultant,40.0
+Business Continuity Manager,35.0
+Business Controller,55.0
+Business Coordinator,40.0
+Business Data Analyst,50.0
+Business Developer,40.0
+Business Development Analyst,35.0
+Business Development Associate,35.0
+Business Development Consultant,35.0
+Business Development Coordinator,30.0
+Business Development Director,35.0
+Business Development Executive,30.0
+Business Development Manager,35.0
+Business Development Officer,40.0
+Business Development Representative,45.0
+Business Development Specialist,35.0
+Business Director,25.0
+Business Education Teacher,15.0
+Business Instructor,30.0
+Business Intelligence Analyst,30.0
+Business Intelligence Consultant,30.0
+Business Intelligence Developer,30.0
+Business Intelligence Manager,25.0
+Business Leader,10.0
+Business Management Consultant,60.0
+Business Manager,68.0
+Business Objects Developer,40.0
+Business Office Manager,30.0
+Business Operations Manager,71.0
+Business Operations Specialist,10.0
+Business Partner,35.0
+Business Process Analyst,25.0
+Business Process Manager,50.0
+Business Project Manager,53.0
+Business Relationship Manager,82.0
+Business Specialist,15.0
+Business Strategist,30.0
+Business Support,25.0
+Business Systems Analyst,30.0
+Business Teacher,10.0
+Business Unit Manager,30.0
+Busser,10.0
+Butcher,35.0
+Butler,20.0
+Buyer,45.0
+Buyer Planner,50.0
+C Developer,65.0
+C# Developer,65.0
+CNA,50.0
+CPA,40.0
+CPR Instructor,50.0
+CTO,10.0
+Cabin Cleaner,50.0
+Cabinet Installer,25.0
+Cabinet Maker,25.0
+Cable Installation Technician,50.0
+Cable Technician,50.0
+Cad Designer,55.0
+Cad Drafter,68.0
+Cad Engineer,50.0
+Cad Operator,65.0
+Cad Technician,65.0
+Cafe Manager,30.0
+Calibration Technician,40.0
+Call Center,40.0
+Call Center Agent,25.0
+Call Center Director,10.0
+Call Center Manager,20.0
+Call Center Operator,25.0
+Call Center Representative,15.0
+Call Center Specialist,30.0
+Call Center Supervisor,20.0
+Caller,75.0
+Camera Operator,20.0
+Camp Counselor,10.0
+Camp Director,15.0
+Campaign Coordinator,25.0
+Campaign Manager,30.0
+Campground Manager,20.0
+Campus Recruiter,10.0
+Cancer Registrar,25.0
+Cannabis,28.0
+Canvasser,30.0
+Captain,5.0
+Car Dealer,22.0
+Car Detailer,50.0
+Car Driver,35.0
+Car Mechanic,35.0
+Car Porter,20.0
+Car Sales,30.0
+Cardiac Sonographer,40.0
+Cardiologist,30.0
+Cardiology Nurse Practitioner,30.0
+Cardiothoracic Surgeon,30.0
+Cardiovascular Technologist,40.0
+Care Assistant,15.0
+Care Manager,35.0
+Care Provider,20.0
+Care Taker,15.0
+Career Advisor,10.0
+Career Coach,20.0
+Career Consultant,20.0
+Career Counselor,10.0
+Career Specialist,15.0
+Caregiver,5.0
+Caretaker,15.0
+Cargo Agent,40.0
+Cargo Handler,25.0
+Carpenter,30.0
+Carpenter Helper,30.0
+Carpentry,30.0
+Carpet Cleaner,60.0
+Carrier,35.0
+Cart Attendant,13.0
+Cartographer,30.0
+Case Aide,15.0
+Case Manager,40.0
+Case Worker,20.0
+Cash Manager,50.0
+Cashier,70.0
+Casino,25.0
+Casino Dealer,50.0
+Casino Host,25.0
+Casino Manager,45.0
+Category Manager,21.0
+Caterer,40.0
+Catering Assistant,20.0
+Catering Chef,25.0
+Catering Coordinator,30.0
+Catering Manager,40.0
+Catering Sales Manager,30.0
+Cdl Driver,50.0
+Center Manager,25.0
+Central Office Technician,10.0
+Central Service Technician,25.0
+Certified Athletic Trainer,10.0
+Certified Dental Assistant,30.0
+Certified Diabetes Educator,20.0
+Certified Dietary Manager,20.0
+Certified Home Health Aide,30.0
+Certified Medical Assistant,15.0
+Certified Medication Aide,20.0
+Certified Nurse Aide,35.0
+Certified Nurse Assistant,45.0
+Certified Nurse Midwife,5.0
+Certified Nursing Assistant,15.0
+Certified Occupational Therapy Assistant,40.0
+Certified Ophthalmic Assistant,30.0
+Certified Personal Trainer,40.0
+Certified Pharmacy Technician,40.0
+Certified Phlebotomy Technician,25.0
+Certified Professional Coder,65.0
+Certified Public Accountant,40.0
+Certified Surgical Technologist,60.0
+Certified Welding Inspector,45.0
+Cfd Engineer,42.0
+Chairman,30.0
+Change Management Consultant,20.0
+Change Manager,25.0
+Channel Manager,35.0
+Channel Marketing Manager,30.0
+Channel Sales Manager,35.0
+Chaplain,10.0
+Character Artist,40.0
+Charge Nurse,5.0
+Charter Pilot,20.0
+Chartered Accountant,40.0
+Chauffeur,30.0
+Cheerleading Coach,5.0
+Chef,20.0
+Chef Assistant,20.0
+Chef De Cuisine,25.0
+Chef De Partie,25.0
+Chef Manager,35.0
+Chemical Dependency Counselor,15.0
+Chemical Engineer,50.0
+Chemical Lab Technician,45.0
+Chemical Operator,40.0
+Chemical Process Engineer,28.0
+Chemical Technician,50.0
+Chemist,30.0
+Chemistry Professor,10.0
+Chemistry Teacher,20.0
+Chemistry Tutor,35.0
+Chief Administrative Officer,35.0
+Chief Communications Officer,85.0
+Chief Compliance Officer,5.0
+Chief Development Officer,25.0
+Chief Diversity Officer,15.0
+Chief Engineer,20.0
+Chief Estimator,15.0
+Chief Executive Officer (CEO),91.0
+Chief Financial Officer (CFO),5.0
+Chief Human Resources Officer,15.0
+Chief Information Officer,5.0
+Chief Information Security Officer,5.0
+Chief Investment Officer,45.0
+Chief Learning Officer,79.0
+Chief Marketing Officer,15.0
+Chief Medical Officer,20.0
+Chief Nursing Officer,25.0
+Chief Of Police,70.0
+Chief Of Staff,75.0
+Chief Risk Officer,35.0
+Chief Security Officer,88.0
+Chief Strategy Officer,90.0
+Chief Technology Officer,10.0
+Child Advocate,10.0
+Child Care Assistant,10.0
+Child Care Worker,5.0
+Child Life Specialist,50.0
+Child Psychiatrist,20.0
+Child Psychologist,55.0
+Childcare Teacher,35.0
+Chinese Teacher,20.0
+Chiropractic Assistant,15.0
+Chiropractor,5.0
+Choir Director,10.0
+Choreographer,5.0
+Church Musician,10.0
+Cinematographer,30.0
+Circuit Design Engineer,35.0
+Circulation Manager,40.0
+Cisco Engineer,40.0
+Cisco Network Engineer,40.0
+Cisco Voice Engineer,20.0
+Citrix Administrator,20.0
+Citrix Engineer,40.0
+City Attorney,10.0
+City Clerk,30.0
+City Driver,30.0
+City Engineer,20.0
+City Manager,20.0
+City Planner,20.0
+Civil Designer,30.0
+Civil Drafter,40.0
+Civil Engineer,10.0
+Civil Engineering Technician,15.0
+Civil Project Engineer,20.0
+Civil Structural Engineer,20.0
+Claim Adjuster,20.0
+Claim Analyst,40.0
+Claim Examiner,40.0
+Claim Representative,40.0
+Claim Specialist,35.0
+Claims,40.0
+Claims Adjuster,40.0
+Claims Analyst,45.0
+Claims Assistant,20.0
+Claims Auditor,60.0
+Claims Clerk,10.0
+Claims Examiner,35.0
+Claims Investigator,45.0
+Claims Manager,55.0
+Claims Processor,20.0
+Claims Representative,35.0
+Claims Supervisor,40.0
+Class A CDL,45.0
+Class A Driver,50.0
+Class B CDL,50.0
+Class B Driver,50.0
+Classroom Aide,10.0
+Classroom Assistant,25.0
+Classroom Teacher,20.0
+Cleaner,65.0
+Clerical Assistant,80.0
+Clerk,55.0
+Clerk Typist,83.0
+Client Advisor,10.0
+Client Associate,10.0
+Client Coordinator,10.0
+Client Manager,35.0
+Client Relations Manager,20.0
+Client Relationship Manager,20.0
+Client Service Associate,10.0
+Client Services Manager,15.0
+Client Success Manager,30.0
+Clinic Assistant,30.0
+Clinic Manager,50.0
+Clinic Receptionist,35.0
+Clinical Analyst,60.0
+Clinical Assistant,15.0
+Clinical Associate,15.0
+Clinical Consultant,20.0
+Clinical Coordinator,45.0
+Clinical Data Analyst,65.0
+Clinical Data Associate,40.0
+Clinical Data Coordinator,40.0
+Clinical Data Manager,45.0
+Clinical Dietitian,25.0
+Clinical Director,5.0
+Clinical Documentation Specialist,10.0
+Clinical Educator,30.0
+Clinical Engineer,15.0
+Clinical Exercise Physiologist,40.0
+Clinical Informatics Specialist,70.0
+Clinical Instructor,25.0
+Clinical Laboratory Scientist,30.0
+Clinical Laboratory Technician,30.0
+Clinical Laboratory Technologist,30.0
+Clinical Liaison,25.0
+Clinical Manager,10.0
+Clinical Medical Assistant,20.0
+Clinical Nurse,40.0
+Clinical Nurse Educator,40.0
+Clinical Nurse Manager,45.0
+Clinical Nurse Specialist,5.0
+Clinical Nursing Instructor,15.0
+Clinical Operations Manager,5.0
+Clinical Pharmacist,50.0
+Clinical Project Manager,57.0
+Clinical Psychologist,10.0
+Clinical Research,45.0
+Clinical Research Assistant,5.0
+Clinical Research Associate,20.0
+Clinical Research Coordinator,35.0
+Clinical Research Manager,35.0
+Clinical Research Nurse,5.0
+Clinical Scientist,10.0
+Clinical Social Worker,20.0
+Clinical Specialist,20.0
+Clinical Supervisor,40.0
+Clinical Support Specialist,45.0
+Clinical Systems Analyst,30.0
+Clinical Technician,25.0
+Clinical Therapist,30.0
+Clinical Trial Assistant,70.0
+Clinical Trial Associate,50.0
+Clinical Trial Manager,50.0
+Clinician,15.0
+Cloud Architect,60.0
+Cloud Consultant,40.0
+Cloud Engineer,70.0
+Club Manager,30.0
+Cmm Operator,20.0
+Cmm Programmer,40.0
+Cnc Machine Operator,45.0
+Cnc Machinist,30.0
+Cnc Operator,35.0
+Cnc Programmer,30.0
+Coach,10.0
+Coating Inspector,15.0
+Cobol Developer,75.0
+Cocktail Server,20.0
+Cocktail Waitress,20.0
+Code Enforcement Officer,30.0
+Coding Specialist,60.0
+Coffee Roaster,20.0
+Coffee Shop Manager,30.0
+Cognos Developer,50.0
+Coldfusion Developer,60.0
+Collection Agent,60.0
+Collection Analyst,30.0
+Collection Manager,40.0
+Collection Representative,60.0
+Collection Specialist,60.0
+Collection Supervisor,40.0
+Collections Agent,25.0
+Collections Specialist,60.0
+College Advisor,20.0
+College Counselor,20.0
+College Instructor,10.0
+Colorist,5.0
+Combat Engineer,25.0
+Combo Welder,30.0
+Comic,10.0
+Commercial Account Manager,35.0
+Commercial Analyst,65.0
+Commercial Banker,25.0
+Commercial Diver,20.0
+Commercial Driver,50.0
+Commercial Lender,30.0
+Commercial Loan Officer,35.0
+Commercial Manager,25.0
+Commercial Pilot,20.0
+Commercial Project Manager,53.0
+Commercial Property Manager,25.0
+Commercial Real Estate Appraiser,10.0
+Commercial Real Estate Broker,15.0
+Commercial Sales Manager,35.0
+Commercial Underwriter,50.0
+Commission Analyst,65.0
+Commissioning Engineer,15.0
+Commodity Buyer,55.0
+Commodity Trader,35.0
+Communication Technician,30.0
+Communications,40.0
+Communications Associate,50.0
+Communications Consultant,57.0
+Communications Coordinator,15.0
+Communications Manager,98.0
+Communications Officer,40.0
+Communications Specialist,20.0
+Communications Technician,35.0
+Communicator,20.0
+Community Assistant,30.0
+Community Association Manager,10.0
+Community Health Educator,50.0
+Community Health Nurse,30.0
+Community Health Worker,25.0
+Community Liaison,25.0
+Community Manager,25.0
+Community Organizer,10.0
+Community Outreach Coordinator,40.0
+Community Outreach Specialist,40.0
+Community Planner,15.0
+Community Service Officer,20.0
+Community Worker,10.0
+Companion,5.0
+Company Driver,45.0
+Compensation Manager,50.0
+Compensation Specialist,40.0
+Compliance Analyst,60.0
+Compliance Auditor,60.0
+Compliance Officer,92.0
+Compliance Specialist,30.0
+Component Engineer,32.0
+Composite Technician,30.0
+Compositor,60.0
+Compounder,50.0
+Computational Biologist,40.0
+Computational Linguist,70.0
+Computer Engineer,20.0
+Computer Operator,40.0
+Computer Programmer,50.0
+Computer Repair Technician,30.0
+Computer Science Teacher,25.0
+Computer Science Tutor,35.0
+Computer Scientist,60.0
+Computer Support Specialist,35.0
+Computer Systems Analyst,48.0
+Computer Teacher,40.0
+Computer Technician,45.0
+Concept Artist,40.0
+Concierge,10.0
+Concrete Finisher,10.0
+Concrete Pump Operator,45.0
+Concrete Truck Driver,40.0
+Concrete Worker,10.0
+Conductor,20.0
+Conference Coordinator,30.0
+Configuration Analyst,20.0
+Configuration Manager,40.0
+Conservationist,20.0
+Conservator,25.0
+Console Operator,20.0
+Constable,20.0
+Construction Administrator,10.0
+Construction Apprentice,20.0
+Construction Assistant,10.0
+Construction Consultant,25.0
+Construction Coordinator,15.0
+Construction Driver,35.0
+Construction Engineer,20.0
+Construction Estimator,50.0
+Construction Flagger,10.0
+Construction Foreman,15.0
+Construction Helper,10.0
+Construction Inspector,15.0
+Construction Laborer,20.0
+Construction Manager,15.0
+Construction Project Coordinator,20.0
+Construction Project Engineer,10.0
+Construction Project Manager,20.0
+Construction Superintendent,10.0
+Construction Supervisor,15.0
+Construction Technician,10.0
+Construction Worker,20.0
+Consultant,35.0
+Consulting Engineer,28.0
+Contact Center Manager,20.0
+Contact Tracer,10.0
+Contact Tracing,60.0
+Content Creator,20.0
+Content Developer,45.0
+Content Editor,45.0
+Content Manager,30.0
+Content Producer,57.0
+Content Specialist,40.0
+Content Strategist,30.0
+Content Writer,35.0
+Contract Administrator,30.0
+Contract Analyst,15.0
+Contract Attorney,40.0
+Contract Driver,35.0
+Contract Manager,15.0
+Contract Negotiator,35.0
+Contract Specialist,63.0
+Contracts Manager,55.0
+Control Engineer,48.0
+Control Room Operator,20.0
+Controller,15.0
+Controls Engineer,40.0
+Controls Technician,40.0
+Cook,30.0
+Coordinator,28.0
+Cop,10.0
+Copier Technician,35.0
+Copy Editor,20.0
+Copy Writer,10.0
+Copywriter,10.0
+Coroner,5.0
+Corporate Accountant,35.0
+Corporate Attorney,5.0
+Corporate Controller,15.0
+Corporate Counsel,20.0
+Corporate Event Planner,35.0
+Corporate Financial Analyst,65.0
+Corporate Lawyer,20.0
+Corporate Paralegal,35.0
+Corporate Pilot,20.0
+Corporate Receptionist,75.0
+Corporate Recruiter,25.0
+Corporate Trainer,45.0
+Corporate Travel Consultant,15.0
+Correction Officer,30.0
+Correctional Officer,65.0
+Corrosion Engineer,20.0
+Corrosion Technician,15.0
+Cosmetic Chemist,5.0
+Cosmetologist,5.0
+Cosmetology Instructor,20.0
+Cosmetology Teacher,20.0
+Cost Accountant,65.0
+Cost Accounting Manager,50.0
+Cost Analyst,40.0
+Cost Controller,60.0
+Cost Engineer,15.0
+Cost Estimator,50.0
+Costume Designer,5.0
+Counseling Psychologist,15.0
+Counselor,20.0
+Counter Manager,25.0
+Courier,35.0
+Courier Driver,40.0
+Court Administrator,10.0
+Court Clerk,5.0
+Court Interpreter,20.0
+Court Officer,5.0
+Court Reporter,5.0
+Court Security Officer,40.0
+Courtesy Clerk,40.0
+Cowboy,5.0
+Craftsman,5.0
+Crane Operator,10.0
+Creative Assistant,10.0
+Creative Consultant,40.0
+Creative Designer,30.0
+Creative Director,10.0
+Creative Producer,40.0
+Creative Project Manager,60.0
+Creative Strategist,30.0
+Creative Writer,10.0
+Credentialing Coordinator,50.0
+Credentialing Specialist,50.0
+Credit Analyst,70.0
+Credit Controller,60.0
+Credit Counselor,40.0
+Credit Manager,76.0
+Credit Officer,70.0
+Credit Risk Analyst,70.0
+Credit Specialist,70.0
+Crematory Operator,10.0
+Crew Chief,25.0
+Crew Member,18.0
+Crew Scheduler,25.0
+Crime Analyst,40.0
+Criminal Analyst,50.0
+Criminal Investigator,40.0
+Criminalist,55.0
+Crisis Counselor,38.0
+Critical Care Nurse,5.0
+Crm Administrator,50.0
+Crm Analyst,65.0
+Crm Manager,30.0
+Crna,10.0
+Crossing Guard,20.0
+Ct Technologist,30.0
+Culinary Instructor,30.0
+Cultivator,10.0
+Curator,15.0
+Curatorial Assistant,30.0
+Curriculum Designer,60.0
+Curriculum Developer,50.0
+Curriculum Specialist,60.0
+Curriculum Writer,20.0
+Custodial Supervisor,25.0
+Custodial Worker,55.0
+Custodian,60.0
+Customer Account Manager,45.0
+Customer Advocate,20.0
+Customer Assistant,60.0
+Customer Care Representative,55.0
+Customer Experience Manager,20.0
+Customer Representative,10.0
+Customer Service,15.0
+Customer Service Advisor,10.0
+Customer Service Agent,10.0
+Customer Service Assistant,10.0
+Customer Service Associate,10.0
+Customer Service Consultant,20.0
+Customer Service Coordinator,10.0
+Customer Service Director,20.0
+Customer Service Manager,10.0
+Customer Service Operator,10.0
+Customer Service Receptionist,10.0
+Customer Service Representative,15.0
+Customer Service Specialist,10.0
+Customer Service Supervisor,15.0
+Customer Service Trainer,20.0
+Customer Success Manager,20.0
+Customer Support Manager,25.0
+Customer Support Representative,25.0
+Customer Support Specialist,20.0
+Customs Broker,60.0
+Cyber Security,15.0
+Cyber Security Analyst,20.0
+Cyber Security Engineer,35.0
+Cyber Security Specialist,30.0
+Cytogenetic Technologist,35.0
+Cytotechnologist,30.0
+DBA,25.0
+DJ,5.0
+Dairy Manager,20.0
+Dance Instructor,5.0
+Dance Teacher,5.0
+Dancer,10.0
+Data Analyst,60.0
+Data Architect,75.0
+Data Center Manager,40.0
+Data Center Technician,30.0
+Data Clerk,90.0
+Data Collector,95.0
+Data Engineer,30.0
+Data Entry,95.0
+Data Entry Clerk,90.0
+Data Entry Operator,90.0
+Data Entry Specialist,90.0
+Data Manager,35.0
+Data Modeler,80.0
+Data Scientist,70.0
+Data Specialist,40.0
+Data Technician,60.0
+Database Administrator,65.0
+Database Analyst,80.0
+Database Architect,60.0
+Database Designer,75.0
+Database Developer,80.0
+Database Engineer,75.0
+Database Manager,40.0
+Database Programmer,70.0
+Database Specialist,60.0
+Day Camp Counselor,10.0
+Day Care Teacher,50.0
+Day Porter,10.0
+Deaconess,5.0
+Dealer,50.0
+Dean,10.0
+Debt Collector,60.0
+Deckhand,10.0
+Decorator,40.0
+Defense Attorney,40.0
+Deli Clerk,40.0
+Deli Manager,40.0
+Delivery Driver,88.0
+Delivery Manager,55.0
+Demand Planner,60.0
+Demonstrator,15.0
+Dental,5.0
+Dental Assistant,25.0
+Dental Ceramist,50.0
+Dental Hygienist,25.0
+Dental Lab Technician,50.0
+Dental Office Manager,40.0
+Dental Receptionist,35.0
+Dental Technician,50.0
+Dentist,5.0
+Department Assistant,55.0
+Department Manager,20.0
+Deployment Engineer,28.0
+Deployment Manager,20.0
+Deployment Technician,10.0
+Deputy Clerk,5.0
+Deputy Court Clerk,5.0
+Deputy Director,65.0
+Deputy Sheriff,30.0
+Derivatives Analyst,65.0
+Dermatologist,10.0
+Dermatology Nurse Practitioner,25.0
+Design Consultant,5.0
+Design Director,10.0
+Design Engineer,60.0
+Design Manager,15.0
+Designer,40.0
+Desk Clerk,70.0
+Desk Receptionist,75.0
+Desktop Administrator,30.0
+Desktop Engineer,25.0
+Desktop Publisher,10.0
+Desktop Support,40.0
+Desktop Support Analyst,25.0
+Desktop Support Engineer,30.0
+Desktop Support Manager,20.0
+Desktop Support Specialist,40.0
+Desktop Support Technician,30.0
+Detailer,10.0
+Detective,40.0
+Detention Officer,15.0
+Developer,70.0
+Development Assistant,25.0
+Development Associate,20.0
+Development Coordinator,30.0
+Development Director,20.0
+Development Engineer,20.0
+Development Manager,89.0
+Development Officer,30.0
+Developmental Psychologist,15.0
+Devops,15.0
+Devops Engineer,45.0
+Diabetes Educator,20.0
+Diagnostic Medical Sonographer,30.0
+Dialysis Nurse,40.0
+Dialysis Rn,25.0
+Dialysis Technician,50.0
+Die Maker,20.0
+Diesel Mechanic,35.0
+Diesel Technician,35.0
+Diet Clerk,20.0
+Diet Technician,30.0
+Dietary Aide,10.0
+Dietary Cook,20.0
+Dietary Manager,45.0
+Dietary Supervisor,30.0
+Dietetic Technician,45.0
+Dietitian,25.0
+Digital Account Executive,50.0
+Digital Account Manager,39.0
+Digital Archivist,20.0
+Digital Artist,50.0
+Digital Court Reporter,25.0
+Digital Designer,45.0
+Digital Marketing,55.0
+Digital Marketing Analyst,55.0
+Digital Marketing Consultant,55.0
+Digital Marketing Coordinator,55.0
+Digital Marketing Manager,55.0
+Digital Marketing Specialist,55.0
+Digital Marketing Strategist,55.0
+Digital Media Specialist,50.0
+Digital Producer,25.0
+Digital Project Manager,80.0
+Digital Strategist,30.0
+Dining Room Manager,25.0
+Direct Care Professional,15.0
+Direct Care Staff,20.0
+Direct Care Worker,20.0
+Direct Support Professional,86.0
+Directional Driller,10.0
+Director,5.0
+Director Of Accounting,10.0
+Director Of Admissions,20.0
+Director Of Analytics,10.0
+Director Of Business Development,35.0
+Director Of Construction,10.0
+Director Of Customer Service,15.0
+Director Of Development,40.0
+Director Of Digital Marketing,45.0
+Director Of Ecommerce,45.0
+Director Of Education,35.0
+Director Of Engineering,15.0
+Director Of Environmental Services,15.0
+Director Of Events,30.0
+Director Of Facilities,10.0
+Director Of Finance,35.0
+Director Of Food And Beverage,30.0
+Director Of Human Resources,20.0
+Director Of Logistics,25.0
+Director Of Manufacturing,25.0
+Director Of Marketing,45.0
+Director Of Nursing,60.0
+Director Of Operations,87.0
+Director Of Photography,25.0
+Director Of Product Management,45.0
+Director Of Public Safety,30.0
+Director Of Purchasing,25.0
+Director Of Quality,25.0
+Director Of Radiology,25.0
+Director Of Rehabilitation,30.0
+Director Of Sales,30.0
+Director Of Security,30.0
+Director Of Social Services,20.0
+Director Of Software Engineering,20.0
+Director Of Special Education,15.0
+Director Of Sustainability,15.0
+Director Of Training,20.0
+Disability Case Manager,45.0
+Discharge Planner,25.0
+Dishwasher,80.0
+Dispatch Manager,15.0
+Dispatcher,20.0
+Distribution Center Supervisor,20.0
+Distribution Clerk,70.0
+Distribution Manager,80.0
+Distribution Supervisor,22.0
+District Attorney,10.0
+District Manager,25.0
+District Sales Manager,30.0
+Diver,10.0
+Diversity Manager,15.0
+Diving Coach,5.0
+Division Order Analyst,45.0
+Dna Analyst,30.0
+Dock Supervisor,15.0
+Dock Worker,55.0
+Doctor,5.0
+Doctor Assistant,15.0
+Document Control Manager,50.0
+Document Control Specialist,45.0
+Document Controller,50.0
+Document Processor,70.0
+Document Review Attorney,5.0
+Document Specialist,55.0
+Documentation Specialist,40.0
+Dog Bather,10.0
+Dog Daycare,10.0
+Dog Groomer,20.0
+Dog Handler,10.0
+Dog Sitter,10.0
+Dog Trainer,20.0
+Dog Walker,10.0
+Domestic Violence Advocate,30.0
+Doorman,10.0
+Dosimetrist,40.0
+Dot Net Developer,65.0
+Doula,10.0
+Dozer Operator,40.0
+Drafter,60.0
+Draftsman,50.0
+Drama Teacher,20.0
+Driller,25.0
+Drilling Engineer,28.0
+Drilling Supervisor,35.0
+Driver,40.0
+Driver Helper,20.0
+Driver Recruiter,25.0
+Driving Instructor,25.0
+Drone Pilot,40.0
+Drug And Alcohol Counselor,20.0
+Drug Safety Associate,45.0
+Drupal Developer,60.0
+Drywall Finisher,20.0
+Dsp Engineer,35.0
+Dump Truck Driver,40.0
+EMT,20.0
+Early Childhood Education,40.0
+Early Childhood Teacher,50.0
+Early Intervention Specialist,50.0
+Echocardiographer,30.0
+Ecologist,20.0
+Ecommerce,70.0
+Ecommerce Manager,45.0
+Economic Analyst,25.0
+Economic Consultant,30.0
+Economics Teacher,25.0
+Economist,25.0
+Edi Analyst,38.0
+Edi Developer,55.0
+Editor,20.0
+Editor In Chief,20.0
+Editorial Assistant,20.0
+Education Administrator,15.0
+Education Consultant,40.0
+Education Coordinator,15.0
+Education Specialist,45.0
+Education Teacher,20.0
+Educational Assistant,25.0
+Educational Consultant,50.0
+Educational Diagnostician,30.0
+Educator,20.0
+Eeg Technician,30.0
+Ehs Manager,20.0
+Ehs Specialist,20.0
+Ekg Technician,30.0
+Elderly Caregiver,20.0
+Elderly Companion,5.0
+Electric Lineman,20.0
+Electrical Apprentice,15.0
+Electrical Assistant,15.0
+Electrical Design Engineer,42.0
+Electrical Designer,42.0
+Electrical Drafter,65.0
+Electrical Engineer,50.0
+Electrical Engineering,20.0
+Electrical Engineering Technician,15.0
+Electrical Estimator,30.0
+Electrical Helper,15.0
+Electrical Inspector,25.0
+Electrical Project Manager,40.0
+Electrical Superintendent,10.0
+Electrical Technician,70.0
+Electrician,15.0
+Electrician Apprentice,10.0
+Electrician Helper,15.0
+Electromechanical Technician,15.0
+Electronic Assembler,65.0
+Electronic Engineer,32.0
+Electronic Technician,20.0
+Electronics Engineer,42.0
+Electronics Technician,40.0
+Elementary Music Teacher,20.0
+Elementary School Principal,15.0
+Elementary School Teacher,20.0
+Elevator Mechanic,25.0
+Elevator Technician,30.0
+Eligibility Specialist,50.0
+Eligibility Worker,50.0
+Email Marketing Specialist,55.0
+Embalmer,20.0
+Embedded Engineer,48.0
+Embedded Software Engineer,55.0
+Embedded Systems Engineer,70.0
+Embroidery Machine Operator,30.0
+Embryologist,60.0
+Emergency Department Technician,20.0
+Emergency Dispatcher,70.0
+Emergency Management,15.0
+Emergency Management Specialist,35.0
+Emergency Medical Technician,20.0
+Emergency Medicine Physician,5.0
+Emergency Medicine Physician Assistant,15.0
+Emergency Room Nurse,5.0
+Emergency Room Technician,20.0
+Employee Relations Manager,25.0
+Employee Relations Specialist,35.0
+Employment Consultant,20.0
+Employment Specialist,30.0
+Endocrinologist,10.0
+Endodontist,5.0
+Endoscopy Technician,30.0
+Energy Analyst,65.0
+Energy Consultant,15.0
+Energy Engineer,32.0
+Energy Manager,15.0
+Engineer,15.0
+Engineering Assistant,5.0
+Engineering Consultant,20.0
+Engineering Director,15.0
+Engineering Manager,15.0
+Engineering Program Manager,20.0
+Engineering Project Manager,70.0
+Engineering Teacher,10.0
+Engineering Technician,15.0
+English Instructor,20.0
+English Teacher,20.0
+English Tutor,30.0
+Enologist,20.0
+Enrolled Agent,30.0
+Enrollment Specialist,50.0
+Enterprise Architect,25.0
+Enterprise Data Architect,45.0
+Entertainer,15.0
+Entertainment Writer,10.0
+Entomologist,30.0
+Entry Level Accountant,35.0
+Entry Level Developer,70.0
+Entry Level Electrical Engineer,28.0
+Entry Level Mechanical Engineer,20.0
+Environment Artist,10.0
+Environmental Analyst,65.0
+Environmental Attorney,20.0
+Environmental Chemist,40.0
+Environmental Consultant,25.0
+Environmental Coordinator,20.0
+Environmental Educator,45.0
+Environmental Engineer,60.0
+Environmental Health Specialist,25.0
+Environmental Manager,20.0
+Environmental Planner,25.0
+Environmental Project Manager,55.0
+Environmental Scientist,40.0
+Environmental Services Manager,20.0
+Environmental Specialist,35.0
+Environmental Technician,30.0
+Epic Analyst,75.0
+Epic Trainer,60.0
+Epidemiologist,30.0
+Equestrian,10.0
+Equipment Engineer,32.0
+Equipment Manager,10.0
+Equipment Operator,30.0
+Equipment Specialist,30.0
+Equipment Technician,40.0
+Equity Analyst,65.0
+Equity Research Analyst,65.0
+Equity Research Associate,65.0
+Equity Trader,35.0
+Er Nurse,50.0
+Er Rn,40.0
+Er Technician,20.0
+Erp Analyst,40.0
+Erp Consultant,25.0
+Erp Manager,20.0
+Erp Project Manager,60.0
+Escrow Assistant,45.0
+Escrow Officer,50.0
+Esl Instructor,20.0
+Esl Teacher,20.0
+Esl Tutor,30.0
+Estate Manager,10.0
+Estate Planning Attorney,20.0
+Esthetician,5.0
+Estimator,40.0
+Etl Developer,80.0
+Etl Informatica Developer,50.0
+Etl Tester,50.0
+Event Coordinator,35.0
+Event Designer,25.0
+Event Manager,30.0
+Event Planner,5.0
+Event Planning,5.0
+Event Producer,40.0
+Event Specialist,20.0
+Events Assistant,40.0
+Evidence Technician,50.0
+Excavator,10.0
+Excavator Operator,40.0
+Exchange Administrator,25.0
+Exchange Engineer,60.0
+Executive,15.0
+Executive Administrative Assistant,80.0
+Executive Administrator,55.0
+Executive Assistant,85.0
+Executive Chef,35.0
+Executive Creative Director,25.0
+Executive Director,15.0
+Executive Housekeeper,25.0
+Executive Manager,15.0
+Executive Pastry Chef,30.0
+Executive Personal Assistant,65.0
+Executive Producer,65.0
+Executive Recruiter,15.0
+Executive Secretary,75.0
+Executive Sous Chef,30.0
+Executive Steward,20.0
+Exercise Physiologist,20.0
+Exercise Specialist,20.0
+Expeditor,30.0
+Export Coordinator,45.0
+Export Specialist,50.0
+Exterminator,18.0
+External Wholesaler,30.0
+Fabrication Manager,50.0
+Fabricator,15.0
+Facilitator,25.0
+Facilities Administrator,40.0
+Facilities Assistant,18.0
+Facilities Coordinator,50.0
+Facilities Director,25.0
+Facilities Engineer,28.0
+Facilities Maintenance,55.0
+Facilities Management,25.0
+Facilities Manager,20.0
+Facility Coordinator,45.0
+Facility Engineer,28.0
+Facility Maintenance Manager,20.0
+Facility Manager,30.0
+Facility Security Officer,20.0
+Facility Supervisor,30.0
+Facility Technician,20.0
+Fact Checker,20.0
+Factory Worker,25.0
+Faculty,10.0
+Failure Analysis Engineer,32.0
+Family Advocate,25.0
+Family Consumer Science Teacher,20.0
+Family Counselor,30.0
+Family Medicine Physician,5.0
+Family Nurse Practitioner,40.0
+Family Physician,5.0
+Family Support Specialist,35.0
+Family Support Worker,35.0
+Family Therapist,25.0
+Farm,10.0
+Farm Hand,10.0
+Farm Manager,10.0
+Farm Worker,18.0
+Farmer,10.0
+Fashion Buyer,5.0
+Fashion Consultant,5.0
+Fashion Designer,15.0
+Fashion Stylist,5.0
+Fea Engineer,42.0
+Federal Air Marshal,10.0
+Federal Contractor,10.0
+Fence Installer,15.0
+Fiber Optic Splicer,55.0
+Fiber Optic Technician,55.0
+Field Application Engineer,35.0
+Field Engineer,28.0
+Field Inspector,30.0
+Field Interviewer,10.0
+Field Investigator,40.0
+Field Manager,25.0
+Field Marketing Manager,30.0
+Field Marketing Representative,10.0
+Field Operator,20.0
+Field Organizer,35.0
+Field Representative,40.0
+Field Sales Manager,25.0
+Field Sales Representative,45.0
+Field Service Engineer,35.0
+Field Service Representative,45.0
+Field Service Technician,43.0
+Field Technician,15.0
+Field Worker,10.0
+File Clerk,88.0
+Film,20.0
+Film Producer,30.0
+Finance Administrator,45.0
+Finance Analyst,65.0
+Finance Assistant,45.0
+Finance Associate,45.0
+Finance Consultant,45.0
+Finance Controller,15.0
+Finance Director,10.0
+Finance Executive,10.0
+Finance Manager,30.0
+Finance Officer,80.0
+Finance Professor,10.0
+Finance Specialist,65.0
+Financial Accountant,35.0
+Financial Advisor,15.0
+Financial Advisor Trainee,15.0
+Financial Aid Advisor,30.0
+Financial Analyst,70.0
+Financial Assistant,45.0
+Financial Associate,45.0
+Financial Auditor,65.0
+Financial Business Analyst,30.0
+Financial Consultant,35.0
+Financial Controller,15.0
+Financial Coordinator,45.0
+Financial Counselor,40.0
+Financial Data Analyst,60.0
+Financial Engineer,60.0
+Financial Examiner,60.0
+Financial Manager,15.0
+Financial Officer,30.0
+Financial Planner,20.0
+Financial Planning Analyst,45.0
+Financial Reporting Analyst,35.0
+Financial Reporting Manager,40.0
+Financial Representative,45.0
+Financial Risk Analyst,35.0
+Financial Services Representative,45.0
+Financial Specialist,70.0
+Financial Systems Analyst,55.0
+Fine Dining Server,20.0
+Fingerprint Technician,60.0
+Finish Carpenter,25.0
+Finisher,10.0
+Fire Alarm Technician,35.0
+Fire Chief,20.0
+Fire Inspector,30.0
+Fire Investigator,35.0
+Fire Marshal,25.0
+Fire Protection Engineer,20.0
+Fire Safety Director,50.0
+Fire Watch,5.0
+Firearms Instructor,15.0
+Firefighter,10.0
+Firefighter Paramedic,20.0
+Fireman,10.0
+Firmware Engineer,65.0
+First Officer,20.0
+Fisheries Biologist,20.0
+Fisheries Technician,20.0
+Fitness Coach,20.0
+Fitness Consultant,25.0
+Fitness Coordinator,20.0
+Fitness Director,25.0
+Fitness Instructor,20.0
+Fitness Manager,25.0
+Fitness Specialist,20.0
+Fitness Trainer,20.0
+Fitter,30.0
+Flagger,10.0
+Flatbed Driver,45.0
+Fleet Administrator,10.0
+Fleet Coordinator,15.0
+Fleet Manager,10.0
+Fleet Mechanic,15.0
+Flight Attendant,10.0
+Flight Coordinator,15.0
+Flight Dispatcher,20.0
+Flight Engineer,15.0
+Flight Instructor,50.0
+Flight Nurse,28.0
+Flight Paramedic,20.0
+Flight Test Engineer,15.0
+Floor Manager,30.0
+Floor Supervisor,40.0
+Floor Technician,20.0
+Flooring Installer,70.0
+Floral Assistant,15.0
+Floral Designer,20.0
+Florist,20.0
+Food And Beverage Manager,30.0
+Food Broker,30.0
+Food Handler,10.0
+Food Inspector,40.0
+Food Manager,30.0
+Food Prep,25.0
+Food Production Manager,45.0
+Food Production Worker,35.0
+Food Runner,15.0
+Food Safety Specialist,20.0
+Food Scientist,35.0
+Food Server,20.0
+Food Service Director,40.0
+Food Service Manager,25.0
+Food Service Specialist,20.0
+Food Service Supervisor,25.0
+Food Service Worker,25.0
+Food Services Manager,30.0
+Food Stylist,20.0
+Food Technologist,35.0
+Food Worker,25.0
+Football Coach,15.0
+Footwear Designer,5.0
+Foreclosure Specialist,30.0
+Foreign Language Teacher,15.0
+Foreman,30.0
+Forensic Accountant,65.0
+Forensic Chemist,65.0
+Forensic Engineer,55.0
+Forensic Examiner,60.0
+Forensic Investigator,40.0
+Forensic Nurse,20.0
+Forensic Pathologist,5.0
+Forensic Psychologist,5.0
+Forensic Scientist,60.0
+Forensic Social Worker,20.0
+Forensic Specialist,55.0
+Forest Firefighter,10.0
+Forester,10.0
+Forestry Technician,10.0
+Fork Lift Operator,15.0
+Forklift,60.0
+Forklift Driver,35.0
+Forklift Mechanic,40.0
+Forklift Operator,30.0
+Form Carpenter,25.0
+Formulation Chemist,30.0
+Formulation Scientist,45.0
+Foster Care Case Manager,30.0
+Founder,5.0
+Fpga Design Engineer,55.0
+Fpga Engineer,30.0
+Framer,20.0
+Franchise Business Consultant,10.0
+Franchise Consultant,20.0
+Franchise Manager,25.0
+Fraud Analyst,40.0
+Fraud Investigator,50.0
+Fraud Specialist,50.0
+Freelance,65.0
+Freelance Artist,20.0
+Freelance Copywriter,20.0
+Freelance Makeup Artist,20.0
+Freelance Photographer,20.0
+Freelance Producer,20.0
+Freelance Translator,55.0
+Freelance Writer,20.0
+Freelancer,63.0
+Freight Agent,40.0
+Freight Associate,25.0
+Freight Broker,20.0
+Freight Coordinator,25.0
+Freight Handler,15.0
+French Teacher,20.0
+Front Desk,77.0
+Front Desk Agent,60.0
+Front Desk Assistant,55.0
+Front Desk Associate,40.0
+Front Desk Attendant,67.0
+Front Desk Clerk,75.0
+Front Desk Coordinator,60.0
+Front Desk Manager,15.0
+Front Desk Receptionist,75.0
+Front Desk Supervisor,35.0
+Front End Developer,70.0
+Front End Engineer,70.0
+Front End Web Developer,70.0
+Front Of House Manager,35.0
+Front Office Assistant,35.0
+Front Office Clerk,67.0
+Front Office Coordinator,40.0
+Front Office Manager,20.0
+Front Office Receptionist,75.0
+Front Office Supervisor,35.0
+Fuel Truck Driver,40.0
+Full Charge Bookkeeper,75.0
+Full Stack Developer,70.0
+Functional Consultant,20.0
+Fund Accountant,70.0
+Fund Accounting Manager,35.0
+Fund Manager,25.0
+Fundraiser,50.0
+Fundraising Manager,40.0
+Funeral Arranger,30.0
+Funeral Assistant,20.0
+Funeral Attendant,30.0
+Funeral Director,5.0
+Fx Artist,60.0
+Game Artist,65.0
+Game Designer,60.0
+Game Developer,60.0
+Game Master,10.0
+Game Programmer,70.0
+Game Tester,30.0
+Game Warden,40.0
+Gamer,10.0
+Garbage Truck Driver,40.0
+Gardener,10.0
+Gas Controller,50.0
+Gas Station Attendant,60.0
+Gas Station Cashier,10.0
+Gas Technician,15.0
+Gastroenterologist,10.0
+Gate Agent,45.0
+Gate Guard,10.0
+Ged Instructor,20.0
+Gemologist,15.0
+General Accountant,35.0
+General Clerk,90.0
+General Contractor,35.0
+General Counsel,15.0
+General Dentist,5.0
+General Engineer,15.0
+General Labor,60.0
+General Laborer,60.0
+General Ledger Accountant,35.0
+General Maintenance Technician,45.0
+General Manager,25.0
+General Office Clerk,85.0
+General Practitioner,5.0
+General Service Technician,45.0
+General Surgeon,10.0
+General Worker,60.0
+Generalist,40.0
+Generator Technician,35.0
+Genetic Counselor,30.0
+Geneticist,20.0
+Geographer,5.0
+Geologist,15.0
+Geophysicist,20.0
+Geoscientist,30.0
+Geospatial Analyst,35.0
+Geotechnical Engineer,20.0
+Geriatric Nursing Assistant,10.0
+German Teacher,20.0
+Gis Analyst,35.0
+Gis Developer,75.0
+Gis Manager,25.0
+Gis Specialist,40.0
+Gis Technician,35.0
+Glazier,10.0
+Global Account Manager,15.0
+Golf Cart Attendant,13.0
+Golf Coach,5.0
+Golf Course Superintendent,10.0
+Golf Professional,10.0
+Government Contractor,10.0
+Graduate Assistant,25.0
+Graduate Nurse,45.0
+Grant Accountant,75.0
+Grant Coordinator,35.0
+Grant Writer,10.0
+Grants Administrator,30.0
+Grants Manager,15.0
+Graphic Artist,50.0
+Graphic Designer,20.0
+Graphics Designer,35.0
+Greeter,35.0
+Grill Cook,20.0
+Grocer,80.0
+Grocery Bagger,10.0
+Grocery Clerk,20.0
+Grocery Manager,15.0
+Grocery Stocker,25.0
+Grocery Store Manager,10.0
+Groomer,20.0
+Groundman,5.0
+Grounds Manager,10.0
+Groundskeeper,20.0
+Groundsman,5.0
+Group Exercise Instructor,20.0
+Group Fitness Instructor,20.0
+Group Home Manager,20.0
+Group Sales Manager,45.0
+Gse Mechanic,35.0
+Guard,15.0
+Guest Relations Manager,30.0
+Guest Services,40.0
+Guest Services Manager,30.0
+Guidance Counselor,20.0
+Guide,20.0
+Guitar Teacher,15.0
+Gunsmith,40.0
+Gutter,20.0
+Gym,10.0
+Gymnastics Coach,15.0
+Gymnastics Instructor,20.0
+Gynecologist,10.0
+Hacker,5.0
+Hadoop Developer,80.0
+Hair Stylist,5.0
+Hairdresser,5.0
+Hairstylist,25.0
+Handyman,18.0
+Hardware Engineer,50.0
+Hardware Technician,15.0
+Head Cashier,30.0
+Head Chef,20.0
+Head Coach,20.0
+Head Football Coach,10.0
+Head Of Security,30.0
+Head Start Teacher,40.0
+Head Teller,5.0
+Headhunter,10.0
+Health Aide,15.0
+Health And Safety Coordinator,30.0
+Health And Safety Manager,20.0
+Health Assistant,15.0
+Health Care Assistant,20.0
+Health Coach,35.0
+Health Coordinator,20.0
+Health Data Analyst,60.0
+Health Educator,20.0
+Health Information Manager,40.0
+Health Inspector,40.0
+Health Insurance Agent,20.0
+Health Insurance Specialist,20.0
+Health Physicist,25.0
+Health Policy Analyst,15.0
+Health Psychologist,25.0
+Health Services Manager,35.0
+Health Specialist,30.0
+Health Teacher,20.0
+Health Technician,25.0
+Health Unit Coordinator,25.0
+Healthcare Analyst,45.0
+Healthcare Business Analyst,60.0
+Healthcare Consultant,50.0
+Healthcare Data Analyst,65.0
+Healthcare Management,45.0
+Healthcare Project Manager,60.0
+Healthcare Recruiter,40.0
+Hearing Aid Specialist,40.0
+Hearing Instrument Specialist,40.0
+Hearing Officer,20.0
+Heavy Construction,10.0
+Heavy Equipment Mechanic,40.0
+Heavy Equipment Operator,30.0
+Heavy Equipment Operators,18.0
+Heavy Truck Driver,40.0
+Hebrew Teacher,20.0
+Hedge Fund Accountant,30.0
+Helicopter Mechanic,15.0
+Helicopter Pilot,20.0
+Help Desk,65.0
+Help Desk Administrator,48.0
+Help Desk Analyst,48.0
+Help Desk Manager,20.0
+Help Desk Specialist,40.0
+Help Desk Technician,50.0
+Helper,15.0
+Hemodialysis Technician,50.0
+Herbalist,5.0
+High School Counselor,10.0
+High School English Teacher,9.0
+High School History Teacher,9.0
+High School Math Teacher,8.0
+High School Science Teacher,8.0
+High School Spanish Teacher,8.0
+High School Teacher,8.0
+Highway Engineer,20.0
+Highway Maintenance Worker,10.0
+Histologist,30.0
+Histology Technician,30.0
+Historian,5.0
+History Teacher,8.0
+History Tutor,8.0
+Histotechnician,30.0
+Histotechnologist,30.0
+Home Attendant,15.0
+Home Builder,25.0
+Home Care Aide,25.0
+Home Care Provider,15.0
+Home Caregiver,15.0
+Home Health Aide,20.0
+Home Health Care,30.0
+Home Health Nurse,5.0
+Home Inspector,60.0
+Homemaker,10.0
+Horse Trainer,15.0
+Horticulturist,20.0
+Hospice Aide,15.0
+Hospice Chaplain,10.0
+Hospice Nurse,5.0
+Hospice Social Worker,20.0
+Hospital Chaplain,10.0
+Hospital Cleaner,50.0
+Hospital Director,25.0
+Hospital Housekeeping,65.0
+Hospital Pharmacist,50.0
+Hospital Receptionist,25.0
+Hospital Security Officer,25.0
+Hospital Social Worker,20.0
+Hospital Technician,25.0
+Hospital Volunteer,5.0
+Hospitalist,10.0
+Hospitality Aide,20.0
+Hospitality Manager,30.0
+Hostess,45.0
+Hostler,5.0
+Hot Shot,10.0
+Hotel Assistant Manager,30.0
+Hotel Concierge,30.0
+Hotel Front Desk,45.0
+Hotel Front Office Manager,35.0
+Hotel General Manager,35.0
+Hotel Housekeeping,30.0
+Hotel Manager,30.0
+Hotel Night Auditor,40.0
+Hotel Operations Manager,35.0
+Hotel Receptionist,45.0
+Hotel Sales Manager,30.0
+House Cleaner,20.0
+House Manager,20.0
+House Painter,20.0
+House Sitter,5.0
+Housekeeper,5.0
+Housekeeping,20.0
+Housekeeping Attendant,60.0
+Housekeeping Manager,30.0
+Housekeeping Supervisor,30.0
+Houseman,20.0
+Houseperson,25.0
+Housing Coordinator,15.0
+Housing Counselor,25.0
+Housing Specialist,35.0
+Hr Administrative Assistant,5.0
+Hr Analyst,40.0
+Hr Assistant,10.0
+Hr Consultant,15.0
+Hr Coordinator,20.0
+Hr Generalist,25.0
+Hr Manager,20.0
+Hr Recruiter,15.0
+Hr Representative,10.0
+Hr Specialist,30.0
+Hris Analyst,50.0
+Hris Manager,20.0
+Hse Manager,10.0
+Human Factors Engineer,15.0
+Human Resource Assistant,10.0
+Human Resource Consultant,15.0
+Human Resources Analyst,20.0
+Human Resources Assistant,10.0
+Human Resources Associate,15.0
+Human Resources Business Partner,25.0
+Human Resources Clerk,5.0
+Human Resources Coordinator,20.0
+Human Resources Executive,25.0
+Human Resources Generalist,25.0
+Human Resources Manager,25.0
+Human Resources Officer,10.0
+Human Resources Recruiter,15.0
+Human Resources Representative,35.0
+Human Resources Specialist,30.0
+Hvac,35.0
+Hvac Apprentice,25.0
+Hvac Design Engineer,41.0
+Hvac Engineer,32.0
+Hvac Helper,25.0
+Hvac Installer,28.0
+Hvac Instructor,35.0
+Hvac Mechanic,35.0
+Hvac Sales,35.0
+Hvac Service Technician,40.0
+Hvac Technician,40.0
+Hydraulic Engineer,28.0
+Hydrogeologist,20.0
+Hydrologist,20.0
+Hygienist,25.0
+Ic Design Engineer,35.0
+Icu Nurse,50.0
+Illustrator,40.0
+Imagery Analyst,30.0
+Immigration Attorney,40.0
+Immigration Officer,15.0
+Immigration Paralegal,40.0
+Immigration Specialist,10.0
+Immunologist,10.0
+Implementation Analyst,70.0
+Implementation Consultant,30.0
+Implementation Coordinator,45.0
+Implementation Manager,20.0
+Implementation Project Manager,53.0
+Implementation Specialist,55.0
+Import Coordinator,60.0
+Import Specialist,60.0
+In House Counsel,15.0
+Incident Manager,40.0
+Independent Adjuster,10.0
+Independent Consultant,20.0
+Independent Contractor,40.0
+Independent Sales Representative,45.0
+Industrial Cleaner,15.0
+Industrial Designer,20.0
+Industrial Electrician,15.0
+Industrial Engineer,27.0
+Industrial Hygienist,25.0
+Industrial Maintenance Mechanic,45.0
+Industrial Maintenance Technician,45.0
+Industrial Mechanic,15.0
+Industrial Organizational Psychologist,60.0
+Industrial Painter,40.0
+Infant Teacher,8.0
+Infantry,5.0
+Infantryman,5.0
+Informatica Developer,75.0
+Informatics Nurse,35.0
+Information Analyst,60.0
+Information Architect,50.0
+Information Assurance,70.0
+Information Manager,10.0
+Information Officer,25.0
+Information Security,15.0
+Information Security Analyst,20.0
+Information Security Consultant,30.0
+Information Security Engineer,38.0
+Information Security Manager,20.0
+Information Security Officer,10.0
+Information Security Specialist,30.0
+Information Specialist,60.0
+Information Systems Manager,10.0
+Information Technology,15.0
+Information Technology Director,10.0
+Information Technology Manager,35.0
+Information Technology Technician,20.0
+Infrastructure Analyst,55.0
+Infrastructure Architect,70.0
+Infrastructure Engineer,27.0
+Infrastructure Manager,15.0
+Infrastructure Project Manager,70.0
+Infusion Nurse,35.0
+Innkeeper,20.0
+Inpatient Coder,68.0
+Inside Sales Associate,55.0
+Inside Sales Executive,50.0
+Inside Sales Manager,35.0
+Inside Sales Representative,55.0
+Inspector,30.0
+Inspector General,10.0
+Installation Coordinator,40.0
+Installation Manager,18.0
+Installation Technician,20.0
+Installer,25.0
+Instructional Aide,30.0
+Instructional Assistant,30.0
+Instructional Coach,20.0
+Instructional Coordinator,25.0
+Instructional Designer,15.0
+Instructional Technology Specialist,25.0
+Instructor,35.0
+Instrument Engineer,15.0
+Instrument Fitter,20.0
+Instrument Technician,15.0
+Instrumentation Technician,50.0
+Insulator,18.0
+Insurance,10.0
+Insurance Adjuster,30.0
+Insurance Agent,20.0
+Insurance Analyst,50.0
+Insurance Appraiser,45.0
+Insurance Assistant,20.0
+Insurance Broker,35.0
+Insurance Clerk,40.0
+Insurance Consultant,30.0
+Insurance Coordinator,30.0
+Insurance Fraud Investigator,30.0
+Insurance Investigator,45.0
+Insurance Manager,40.0
+Insurance Producer,55.0
+Insurance Sales,60.0
+Insurance Sales Agent,55.0
+Insurance Sales Manager,45.0
+Insurance Sales Representative,60.0
+Insurance Specialist,35.0
+Insurance Underwriter,45.0
+Insurance Verification Specialist,25.0
+Intake Coordinator,35.0
+Intake Specialist,40.0
+Integration Analyst,38.0
+Integration Architect,20.0
+Integration Consultant,30.0
+Integration Developer,48.0
+Integration Engineer,35.0
+Integration Specialist,20.0
+Intellectual Property Attorney,30.0
+Intelligence,60.0
+Intelligence Analyst,75.0
+Intelligence Officer,40.0
+Intelligence Specialist,50.0
+Interaction Designer,25.0
+Interior Decorator,50.0
+Interior Design,20.0
+Interior Design Assistant,10.0
+Interior Design Consultant,20.0
+Interior Designer,20.0
+Interior Painter,50.0
+Interpreter,15.0
+Intervention Specialist,25.0
+Interventional Radiologist,15.0
+Interviewer,33.0
+Inventor,5.0
+Inventory,40.0
+Inventory Accountant,20.0
+Inventory Analyst,45.0
+Inventory Associate,35.0
+Inventory Auditor,20.0
+Inventory Clerk,35.0
+Inventory Control Clerk,30.0
+Inventory Control Manager,35.0
+Inventory Control Supervisor,45.0
+Inventory Controller,45.0
+Inventory Coordinator,45.0
+Inventory Manager,10.0
+Inventory Planner,40.0
+Inventory Specialist,35.0
+Inventory Supervisor,15.0
+Investigative Analyst,70.0
+Investigator,40.0
+Investment Accountant,30.0
+Investment Advisor,20.0
+Investment Analyst,40.0
+Investment Associate,30.0
+Investment Banker,25.0
+Investment Banking Analyst,35.0
+Investment Banking Associate,30.0
+Investment Consultant,10.0
+Investment Manager,15.0
+Investment Officer,15.0
+Investment Specialist,20.0
+Investor,5.0
+Ios Developer,75.0
+Ironworker,10.0
+Irrigation Technician,20.0
+It Analyst,30.0
+It Architect,40.0
+It Auditor,20.0
+It Business Analyst,30.0
+It Consultant,30.0
+It Director,10.0
+It Engineer,50.0
+It Manager,10.0
+It Operations Manager,15.0
+It Program Manager,15.0
+It Project Coordinator,40.0
+It Project Manager,75.0
+It Recruiter,47.0
+It Security Engineer,55.0
+It Specialist,38.0
+It Support,40.0
+It Support Analyst,40.0
+It Support Specialist,30.0
+J2Ee Developer,70.0
+Jailer,20.0
+Janitor,65.0
+Janitorial Manager,40.0
+Janitorial Supervisor,20.0
+Java,60.0
+Java Architect,20.0
+Java Consultant,50.0
+Java Developer,60.0
+Java Engineer,60.0
+Java Programmer,60.0
+Java Software Developer,60.0
+Java Software Engineer,60.0
+Java Web Developer,60.0
+Javascript Developer,70.0
+Jeweler,10.0
+Jewelry Consultant,22.0
+Job Coach,10.0
+Journalism,20.0
+Journalist,20.0
+Journeyman,18.0
+Journeyman Electrician,15.0
+Journeyman Lineman,15.0
+Journeyman Plumber,20.0
+Judge,5.0
+Judicial Law Clerk,15.0
+Junior Accountant,25.0
+Junior Analyst,30.0
+Junior Architect,60.0
+Junior Art Director,15.0
+Junior Business Analyst,30.0
+Junior Copywriter,15.0
+Junior Data Analyst,45.0
+Junior Designer,25.0
+Junior Developer,60.0
+Junior Engineer,15.0
+Junior Financial Analyst,40.0
+Junior Graphic Designer,15.0
+Junior Java Developer,65.0
+Junior Loan Processor,50.0
+Junior Mechanical Engineer,20.0
+Junior Network Engineer,38.0
+Junior Project Manager,40.0
+Junior Recruiter,20.0
+Junior Software Engineer,65.0
+Junior Systems Administrator,40.0
+Junior Underwriter,50.0
+Junior Web Developer,47.0
+Justice,5.0
+Juvenile Detention Officer,15.0
+Juvenile Probation Officer,35.0
+K9 Handler,10.0
+Kennel Assistant,15.0
+Kennel Attendant,15.0
+Kennel Technician,15.0
+Key Account Manager,25.0
+Key Holder,10.0
+Kindergarten Teacher,8.0
+Kitchen Assistant,25.0
+Kitchen Designer,25.0
+Kitchen Hand,20.0
+Kitchen Helper,20.0
+Kitchen Manager,30.0
+Kitchen Staff,25.0
+Kitchen Steward,25.0
+Kitchen Supervisor,30.0
+Kitchen Worker,20.0
+Knowledge Management Specialist,20.0
+Knowledge Manager,35.0
+Kyc Analyst,45.0
+Lab Aide,40.0
+Lab Analyst,30.0
+Lab Assistant,35.0
+Lab Technician,25.0
+Lab Technologist,40.0
+Labor Relations Manager,25.0
+Labor Relations Specialist,15.0
+Laboratory Analyst,40.0
+Laboratory Assistant,35.0
+Laboratory Director,20.0
+Laboratory Manager,25.0
+Laboratory Supervisor,20.0
+Laboratory Technician,45.0
+Laboratory Technologist,30.0
+Laborer,10.0
+Lacrosse Coach,15.0
+Lactation Consultant,60.0
+Land Surveyor,45.0
+Landscape Architect,55.0
+Landscape Designer,15.0
+Landscape Foreman,10.0
+Landscape Laborer,10.0
+Landscape Manager,30.0
+Landscape Technician,20.0
+Landscaper,5.0
+Landscaping,10.0
+Language Arts Teacher,8.0
+Language Specialist,20.0
+Laser Operator,30.0
+Laser Technician,30.0
+Lathe Machinist,18.0
+Lathe Operator,35.0
+Latin Teacher,8.0
+Laundry,30.0
+Laundry Aide,10.0
+Laundry Attendant,30.0
+Law Clerk,15.0
+Law Enforcement Officer,5.0
+Law Librarian,15.0
+Law Office Assistant,20.0
+Law Professor,10.0
+Lawyer,15.0
+Lead Auditor,10.0
+Lead Carpenter,30.0
+Lead Developer,20.0
+Lead Engineer,25.0
+Lead Generator,25.0
+Lead Mechanical Engineer,20.0
+Lead Medical Assistant,25.0
+Lead Pastor,5.0
+Lead Pharmacy Technician,25.0
+Lead Software Engineer,25.0
+Lead Teacher,10.0
+Lead Technician,35.0
+Leadership Development Program,10.0
+Lean Consultant,30.0
+Learning And Development Manager,25.0
+Learning And Development Specialist,10.0
+Learning Consultant,15.0
+Learning Specialist,20.0
+Lease Administrator,40.0
+Lease Operator,15.0
+Leasing Agent,25.0
+Leasing Consultant,25.0
+Leasing Manager,20.0
+Leasing Specialist,25.0
+Lecturer,10.0
+Legal Administrative Assistant,40.0
+Legal Administrator,25.0
+Legal Analyst,30.0
+Legal Assistant,40.0
+Legal Clerk,25.0
+Legal Consultant,30.0
+Legal Counsel,20.0
+Legal Editor,25.0
+Legal Officer,25.0
+Legal Receptionist,35.0
+Legal Secretary,40.0
+Legislative Assistant,35.0
+Lending Manager,15.0
+Librarian,30.0
+Library Aide,15.0
+Library Assistant,20.0
+Library Associate,20.0
+Library Clerk,25.0
+Library Director,25.0
+Library Media Specialist,35.0
+Library Page,10.0
+Library Technician,40.0
+Licensed Customs Broker,22.0
+Licensed Insurance Agent,50.0
+Licensed Massage Therapist,10.0
+Licensed Practical Nurse,35.0
+Licensed Practical Nurse Lpn,34.0
+Licensed Professional Counselor,15.0
+Life Coach,10.0
+Life Insurance Agent,60.0
+Lifeguard,12.0
+Lift Operator,30.0
+Lighting Designer,20.0
+Lighting Technician,20.0
+Line Cook,20.0
+Line Leader,30.0
+Line Operator,65.0
+Line Producer,25.0
+Line Service Technician,18.0
+Lineman,20.0
+Lineman Apprentice,20.0
+Linguist,20.0
+Linux Administrator,46.0
+Linux Engineer,50.0
+Linux System Administrator,50.0
+Linux System Engineer,55.0
+Literacy Specialist,20.0
+Litigation Associate,40.0
+Litigation Attorney,40.0
+Litigation Legal Assistant,40.0
+Litigation Paralegal,40.0
+Live In Caregiver,10.0
+Live In Nanny,5.0
+Loader,25.0
+Loader Operator,10.0
+Loadmaster,10.0
+Loan Administrator,20.0
+Loan Analyst,40.0
+Loan Assistant,30.0
+Loan Closer,60.0
+Loan Consultant,15.0
+Loan Coordinator,20.0
+Loan Officer,30.0
+Loan Officer Assistant,15.0
+Loan Originator,25.0
+Loan Processor,50.0
+Loan Servicing Specialist,20.0
+Loan Specialist,45.0
+Loan Underwriter,60.0
+Lobby Attendant,40.0
+Local Cdl,45.0
+Local Delivery Driver,45.0
+Local Truck Driver,45.0
+Locker Room Attendant,30.0
+Locksmith,10.0
+Locomotive Engineer,20.0
+Logger,10.0
+Logistician,30.0
+Logistics Administrator,40.0
+Logistics Analyst,40.0
+Logistics Assistant,50.0
+Logistics Associate,45.0
+Logistics Clerk,65.0
+Logistics Consultant,30.0
+Logistics Coordinator,60.0
+Logistics Engineer,20.0
+Logistics Manager,20.0
+Logistics Planner,40.0
+Logistics Specialist,35.0
+Logistics Supervisor,30.0
+Long Term Substitute Teacher,10.0
+Loss Mitigation Specialist,40.0
+Loss Prevention,40.0
+Loss Prevention Detective,40.0
+Loss Prevention Investigator,50.0
+Loss Prevention Manager,35.0
+Loss Prevention Officer,50.0
+Loss Prevention Specialist,5.0
+Lot Attendant,45.0
+Low Voltage Electrician,10.0
+Low Voltage Technician,18.0
+Lpn,15.0
+Lpn Nurse,33.0
+Lube Technician,25.0
+Lumberjack,10.0
+Lumper,10.0
+Luthier,10.0
+Lvn,15.0
+Machine Builder,25.0
+Machine Learning Engineer,5.0
+Machine Operator,30.0
+Machinist,20.0
+Maid,20.0
+Mail Carrier,50.0
+Mail Clerk,95.0
+Mail Handler,90.0
+Mail Processing,88.0
+Mail Sorter,75.0
+Mailroom Clerk,70.0
+Mainframe Developer,20.0
+Mainframe Programmer,65.0
+Maintenance,18.0
+Maintenance Assistant,10.0
+Maintenance Coordinator,20.0
+Maintenance Director,40.0
+Maintenance Electrician,20.0
+Maintenance Engineer,30.0
+Maintenance Manager,40.0
+Maintenance Mechanic,20.0
+Maintenance Planner,30.0
+Maintenance Specialist,25.0
+Maintenance Superintendent,40.0
+Maintenance Supervisor,20.0
+Maintenance Technician,25.0
+Maintenance Worker,18.0
+Major Gifts Officer,30.0
+Make Up Artist,5.0
+Makeup Artist,10.0
+Male Model,5.0
+Mall,10.0
+Mammographer,30.0
+Mammography Technologist,30.0
+Management Accountant,10.0
+Management Analyst,35.0
+Management Assistant,15.0
+Management Consultant,35.0
+Management Consulting,45.0
+Management Engineer,30.0
+Management Trainee,15.0
+Manager,15.0
+Manager Trainee,10.0
+Managing Consultant,35.0
+Managing Director,15.0
+Managing Editor,20.0
+Managing Partner,10.0
+Mandarin Teacher,8.0
+Manicurist,5.0
+Manual Machinist,10.0
+Manual Qa Tester,60.0
+Manual Tester,60.0
+Manufacturing,10.0
+Manufacturing Analyst,40.0
+Manufacturing Associate,45.0
+Manufacturing Engineer,30.0
+Manufacturing Manager,25.0
+Manufacturing Operations Manager,25.0
+Manufacturing Operator,50.0
+Manufacturing Planner,25.0
+Manufacturing Process Engineer,35.0
+Manufacturing Specialist,30.0
+Manufacturing Technician,40.0
+Marine,5.0
+Marine Biologist,10.0
+Marine Electrician,10.0
+Marine Engineer,25.0
+Marine Mammal Trainer,5.0
+Marine Mechanic,18.0
+Marine Surveyor,18.0
+Marine Technician,20.0
+Market Analyst,40.0
+Market Manager,15.0
+Market Research Analyst,40.0
+Market Research Interviewer,80.0
+Market Research Manager,20.0
+Market Researcher,40.0
+Marketer,30.0
+Marketing,45.0
+Marketing Account Executive,45.0
+Marketing Account Manager,45.0
+Marketing Administrator,20.0
+Marketing Analyst,40.0
+Marketing Assistant,20.0
+Marketing Associate,25.0
+Marketing Automation Specialist,55.0
+Marketing Communications,25.0
+Marketing Communications Manager,25.0
+Marketing Communications Specialist,25.0
+Marketing Consultant,55.0
+Marketing Coordinator,20.0
+Marketing Copywriter,10.0
+Marketing Data Analyst,40.0
+Marketing Director,45.0
+Marketing Engineer,25.0
+Marketing Executive,45.0
+Marketing Manager,45.0
+Marketing Officer,20.0
+Marketing Operations Manager,55.0
+Marketing Professional,30.0
+Marketing Project Manager,52.0
+Marketing Representative,10.0
+Marketing Research Analyst,40.0
+Marketing Specialist,20.0
+Marketing Strategist,30.0
+Marriage And Family Therapist,20.0
+Mascot,5.0
+Mason,10.0
+Massage Therapist,10.0
+Master Control Operator,60.0
+Master Electrician,10.0
+Master Esthetician,5.0
+Master Plumber,10.0
+Master Scheduler,25.0
+Material Controller,20.0
+Material Engineer,31.0
+Material Handler,40.0
+Materials Coordinator,50.0
+Materials Engineer,25.0
+Materials Manager,30.0
+Materials Planner,35.0
+Materials Scientist,20.0
+Math Instructor,7.0
+Math Teacher,10.0
+Math Tutor,7.0
+Mathematician,55.0
+Mds Coordinator,15.0
+Mds Nurse,15.0
+Meat Cutter,10.0
+Meat Manager,15.0
+Mechanic,18.0
+Mechanic Helper,10.0
+Mechanical Assembler,20.0
+Mechanical Design Engineer,31.0
+Mechanical Designer,40.0
+Mechanical Drafter,37.0
+Mechanical Engineer,30.0
+Mechanical Engineering Technician,15.0
+Mechanical Inspector,30.0
+Mechanical Project Engineer,25.0
+Mechanical Technician,20.0
+Mechatronics Engineer,40.0
+Media Analyst,20.0
+Media Assistant,20.0
+Media Buyer,40.0
+Media Consultant,25.0
+Media Coordinator,35.0
+Media Director,25.0
+Media Planner,25.0
+Media Producer,25.0
+Media Relations Manager,25.0
+Media Specialist,20.0
+Media Strategist,30.0
+Mediator,10.0
+Medical Administrative Assistant,50.0
+Medical Administrative Specialist,55.0
+Medical Administrator,45.0
+Medical Assembler,50.0
+Medical Assistant,15.0
+Medical Assistant Instructor,20.0
+Medical Biller,65.0
+Medical Billing Specialist,70.0
+Medical Case Manager,40.0
+Medical Claims Processor,65.0
+Medical Clerk,30.0
+Medical Coder,75.0
+Medical Coding Specialist,78.0
+Medical Collector,70.0
+Medical Consultant,50.0
+Medical Courier,20.0
+Medical Director,15.0
+Medical Doctor,10.0
+Medical Dosimetrist,30.0
+Medical Editor,25.0
+Medical Engineer,15.0
+Medical Examiner,20.0
+Medical Illustrator,40.0
+Medical Information Specialist,40.0
+Medical Instructor,30.0
+Medical Interpreter,35.0
+Medical Lab Assistant,20.0
+Medical Laboratory Scientist,35.0
+Medical Laboratory Technician,35.0
+Medical Laboratory Technologist,35.0
+Medical Liaison,20.0
+Medical Librarian,10.0
+Medical Manager,40.0
+Medical Office Administrator,45.0
+Medical Office Assistant,60.0
+Medical Office Manager,20.0
+Medical Office Receptionist,45.0
+Medical Office Specialist,50.0
+Medical Officer,25.0
+Medical Physicist,40.0
+Medical Practice Manager,45.0
+Medical Receptionist,45.0
+Medical Records Clerk,45.0
+Medical Records Specialist,45.0
+Medical Records Technician,45.0
+Medical Recruiter,25.0
+Medical Sales,45.0
+Medical Sales Representative,50.0
+Medical Scheduler,40.0
+Medical Science Liaison,20.0
+Medical Scientist,15.0
+Medical Scribe,85.0
+Medical Secretary,35.0
+Medical Social Worker,20.0
+Medical Sonographer,20.0
+Medical Staff Coordinator,20.0
+Medical Support Assistant,20.0
+Medical Technician,35.0
+Medical Technologist,35.0
+Medical Transcriptionist,90.0
+Medical Writer,25.0
+Medication Aide,10.0
+Medication Technician,30.0
+Meeting Planner,20.0
+Membership Director,15.0
+Mental Health Assistant,15.0
+Mental Health Associate,10.0
+Mental Health Case Manager,25.0
+Mental Health Clinician,10.0
+Mental Health Counselor,10.0
+Mental Health Nurse,33.0
+Mental Health Professional,10.0
+Mental Health Specialist,10.0
+Mental Health Technician,10.0
+Mental Health Therapist,10.0
+Mental Health Worker,12.0
+Mentor,10.0
+Merchandise Buyer,45.0
+Merchandise Coordinator,40.0
+Merchandise Planner,30.0
+Merchandiser,25.0
+Merchandising,10.0
+Merchandising Assistant,35.0
+Merchandising Coordinator,60.0
+Merchandising Manager,20.0
+Merchant Marine,10.0
+Messenger,20.0
+Metallurgical Engineer,30.0
+Metallurgist,20.0
+Meteorologist,25.0
+Meter Reader,60.0
+Microbiologist,20.0
+Microbiology,30.0
+Microbiology Technician,25.0
+Microbiology Technologist,20.0
+Microstrategy Developer,25.0
+Middle School Science Teacher,7.0
+Middle School Teacher,7.0
+Middleware Engineer,46.0
+Midwife,25.0
+Mig Welder,10.0
+Military,5.0
+Military Analyst,60.0
+Military Officer,15.0
+Military Police,10.0
+Military Police Officer,10.0
+Millwright,18.0
+Miner,10.0
+Mining Engineer,20.0
+Minister,5.0
+Mobile Application Developer,20.0
+Mobile Developer,20.0
+Mobile Engineer,50.0
+Mobile Phlebotomist,35.0
+Model,5.0
+Model Maker,10.0
+Modeler,20.0
+Molecular Biologist,20.0
+Molecular Technologist,20.0
+Money Manager,5.0
+Monitor,30.0
+Monitor Technician,15.0
+Montessori Teacher,7.0
+Mortgage Advisor,15.0
+Mortgage Assistant,20.0
+Mortgage Banker,20.0
+Mortgage Broker,30.0
+Mortgage Closer,60.0
+Mortgage Consultant,10.0
+Mortgage Loan Closer,60.0
+Mortgage Loan Officer,30.0
+Mortgage Loan Processor,70.0
+Mortgage Originator,20.0
+Mortgage Processor,50.0
+Mortgage Specialist,15.0
+Mortgage Underwriter,50.0
+Motion Graphics Designer,30.0
+Motorcycle Mechanic,10.0
+Motorcycle Technician,18.0
+Mover,25.0
+Mover Helper,10.0
+Mri Technician,25.0
+Mri Technologist,25.0
+Multimedia Artist,25.0
+Multimedia Designer,25.0
+Multimedia Journalist,10.0
+Multimedia Specialist,35.0
+Museum Educator,20.0
+Music Director,10.0
+Music Teacher,7.0
+Music Therapist,5.0
+Musician,5.0
+Mystery Shopper,70.0
+Nail Technician,5.0
+Nanny,5.0
+National Account Executive,55.0
+National Account Manager,25.0
+National Guard,5.0
+National Sales Director,30.0
+National Sales Manager,29.0
+Naturalist,10.0
+Naval Architect,20.0
+Ndt Technician,30.0
+Negotiator,15.0
+Neonatal Nurse,45.0
+Neonatal Nurse Practitioner,35.0
+Neonatologist,12.0
+Nephrologist,12.0
+Net Developer,70.0
+Netsuite Administrator,30.0
+Netsuite Consultant,40.0
+Network Administrator,50.0
+Network Analyst,30.0
+Network Architect,40.0
+Network Consultant,38.0
+Network Designer,30.0
+Network Engineer,55.0
+Network Manager,20.0
+Network Operations Manager,15.0
+Network Security Administrator,50.0
+Network Security Analyst,45.0
+Network Security Engineer,55.0
+Network Specialist,40.0
+Network Support Engineer,55.0
+Network Support Specialist,38.0
+Network Support Technician,40.0
+Network Systems Administrator,60.0
+Network Systems Engineer,55.0
+Network Technician,30.0
+Neurodiagnostic Technologist,20.0
+Neurologist,12.0
+Neuropsychologist,12.0
+Neurosurgeon,12.0
+New Home Sales Consultant,20.0
+News Anchor,10.0
+News Director,20.0
+News Editor,20.0
+News Photographer,10.0
+News Producer,20.0
+News Reporter,10.0
+Newspaper Delivery,40.0
+Newspaper Reporter,10.0
+Night,15.0
+Night Auditor,40.0
+Night Manager,40.0
+Night Stocker,35.0
+Noc Engineer,40.0
+Noc Manager,10.0
+Noc Technician,25.0
+Non Cdl Driver,40.0
+Notary Public,5.0
+Nuclear Engineer,15.0
+Nuclear Medicine Technologist,25.0
+Nuclear Pharmacist,20.0
+Nuclear Physicist,10.0
+Nurse,5.0
+Nurse Administrator,20.0
+Nurse Aide,55.0
+Nurse Anesthetist,15.0
+Nurse Assistant,45.0
+Nurse Case Manager,20.0
+Nurse Clinician,40.0
+Nurse Consultant,20.0
+Nurse Coordinator,20.0
+Nurse Educator,15.0
+Nurse Extern,21.0
+Nurse Liaison,5.0
+Nurse Manager,20.0
+Nurse Midwife,5.0
+Nurse Practitioner,45.0
+Nurse Recruiter,15.0
+Nurse Rn,50.0
+Nurse Specialist,5.0
+Nurse Supervisor,15.0
+Nurse Technician,55.0
+Nursery Worker,5.0
+Nursing,35.0
+Nursing Assistant,50.0
+Nursing Attendant,55.0
+Nursing Faculty,15.0
+Nursing Home,5.0
+Nursing Home Administrator,40.0
+Nursing Instructor,15.0
+Nursing Supervisor,20.0
+Nutrition Assistant,20.0
+Nutrition Director,20.0
+Nutrition Educator,30.0
+Nutrition Manager,30.0
+Nutritionist,20.0
+Ob Gyn,12.0
+Obstetrician,12.0
+Occupational Health Nurse,33.0
+Occupational Medicine Physician,12.0
+Occupational Nurse,5.0
+Occupational Therapist,20.0
+Occupational Therapy Aide,20.0
+Occupational Therapy Assistant,20.0
+Office,10.0
+Office Administrative Assistant,20.0
+Office Administrator,10.0
+Office Assistant,20.0
+Office Associate,15.0
+Office Cleaner,70.0
+Office Cleaning,35.0
+Office Clerk,60.0
+Office Coordinator,30.0
+Office Engineer,40.0
+Office Manager,15.0
+Office Receptionist,50.0
+Office Secretary,30.0
+Office Support,25.0
+Office Technician,20.0
+Office Worker,10.0
+Officer,10.0
+Oil Field,10.0
+Ombudsman,5.0
+Onboarding Specialist,35.0
+Oncologist,12.0
+Oncology Nurse,40.0
+Oncology Pharmacist,20.0
+Online English Teacher,30.0
+Online Instructor,40.0
+Online Sales Manager,35.0
+Online Teacher,25.0
+Online Tutor,25.0
+Operating Engineer,40.0
+Operating Room Assistant,25.0
+Operating Room Nurse,5.0
+Operation Specialist,45.0
+Operations Analyst,35.0
+Operations Assistant,20.0
+Operations Associate,15.0
+Operations Clerk,60.0
+Operations Coordinator,30.0
+Operations Engineer,45.0
+Operations Manager,25.0
+Operations Research Analyst,65.0
+Operations Specialist,33.0
+Operations Supervisor,30.0
+Operations Team Leader,25.0
+Operations Technician,20.0
+Operator,45.0
+Ophthalmic Assistant,20.0
+Ophthalmic Technician,20.0
+Ophthalmologist,12.0
+Optical Assistant,20.0
+Optical Engineer,20.0
+Optical Manager,15.0
+Optical Technician,20.0
+Optician,50.0
+Options Trader,10.0
+Optometric Assistant,20.0
+Optometric Technician,20.0
+Optometrist,20.0
+Optometrist Assistant,20.0
+Oracle Consultant,40.0
+Oracle Database Administrator,45.0
+Oracle Database Developer,65.0
+Oracle Dba,35.0
+Oracle Developer,70.0
+Oral Surgeon,12.0
+Oral Surgery Assistant,30.0
+Orchestra Teacher,7.0
+Order Builder,40.0
+Order Clerk,75.0
+Order Filler,80.0
+Order Picker,40.0
+Order Processor,65.0
+Order Puller,40.0
+Order Selector,45.0
+Orderly,20.0
+Ordinary Seaman,10.0
+Organic Chemist,20.0
+Organist,5.0
+Organizational Development Consultant,25.0
+Organizational Psychologist,10.0
+Organizer,35.0
+Orthodontic Assistant,30.0
+Orthodontist,12.0
+Orthopaedic Surgeon,12.0
+Orthopedic Nurse Practitioner,12.0
+Orthopedic Surgeon,12.0
+Orthopedic Technician,35.0
+Orthotist,30.0
+Osp Engineer,30.0
+Otr Driver,45.0
+Otr Truck Driver,50.0
+Outdoor Guide,20.0
+Outpatient Therapist,12.0
+Outreach Coordinator,40.0
+Outreach Specialist,20.0
+Outreach Worker,30.0
+Outside Machinist,30.0
+Outside Sales,45.0
+Outside Sales Rep,50.0
+Outside Sales Representative,50.0
+Overnight Stocker,35.0
+Owner Operator,45.0
+Package Designer,20.0
+Package Handler,50.0
+Packager,50.0
+Packaging,35.0
+Packaging Designer,25.0
+Packaging Engineer,25.0
+Packaging Machine Operator,30.0
+Packaging Manager,30.0
+Packaging Operator,30.0
+Packaging Specialist,30.0
+Packaging Technician,20.0
+Packer,30.0
+Pacs Administrator,20.0
+Pacu Rn,20.0
+Paint Mixer,25.0
+Paint Technician,18.0
+Painter,5.0
+Palliative Care Nurse Practitioner,20.0
+Para Educator,25.0
+Paraeducator,30.0
+Paralegal,50.0
+Paralegal Assistant,45.0
+Paramedic,20.0
+Paraprofessional,15.0
+Parent Educator,20.0
+Park Manager,20.0
+Park Naturalist,10.0
+Park Ranger,20.0
+Parking Attendant,26.0
+Parking Enforcement Officer,40.0
+Parking Lot Attendant,26.0
+Parking Manager,30.0
+Parole Officer,10.0
+Part Time Sales Associate,15.0
+Partner,5.0
+Parts Advisor,35.0
+Parts Clerk,15.0
+Parts Delivery Driver,45.0
+Parts Driver,20.0
+Parts Manager,20.0
+Parts Runner,25.0
+Parts Specialist,18.0
+Party Chief,15.0
+Party Planner,20.0
+Passenger Service Agent,10.0
+Pastor,5.0
+Pastry Chef,20.0
+Pastry Cook,20.0
+Patent Agent,35.0
+Patent Analyst,40.0
+Patent Attorney,30.0
+Patent Examiner,35.0
+Patent Paralegal,45.0
+Pathologist,12.0
+Pathologist Assistant,25.0
+Patient Access Manager,15.0
+Patient Access Representative,35.0
+Patient Access Specialist,35.0
+Patient Account Representative,50.0
+Patient Advocate,20.0
+Patient Care Assistant,20.0
+Patient Care Associate,25.0
+Patient Care Coordinator,20.0
+Patient Care Manager,20.0
+Patient Care Specialist,20.0
+Patient Care Technician,20.0
+Patient Coordinator,25.0
+Patient Escort,15.0
+Patient Financial Counselor,40.0
+Patient Liaison,20.0
+Patient Navigator,20.0
+Patient Registrar,40.0
+Patient Representative,30.0
+Patient Service Representative,40.0
+Patient Service Specialist,40.0
+Patient Services Coordinator,20.0
+Patient Services Representative,40.0
+Patient Sitter,20.0
+Patient Transport,20.0
+Patient Transporter,20.0
+Patrol Officer,15.0
+Pattern Maker,25.0
+Paver,15.0
+Payment Processor,70.0
+Payroll,5.0
+Payroll Accountant,20.0
+Payroll Administrator,40.0
+Payroll Analyst,20.0
+Payroll Assistant,20.0
+Payroll Clerk,30.0
+Payroll Consultant,10.0
+Payroll Coordinator,20.0
+Payroll Director,5.0
+Payroll Manager,25.0
+Payroll Processor,70.0
+Payroll Specialist,20.0
+Payroll Supervisor,35.0
+Pbx Operator,10.0
+Pc Specialist,30.0
+Pc Technician,20.0
+Pcb Design Engineer,45.0
+Pcb Designer,45.0
+Peace Officer,10.0
+Pediatric Cardiologist,12.0
+Pediatric Dentist,12.0
+Pediatric Hospitalist,12.0
+Pediatric Nurse,44.0
+Pediatric Occupational Therapist,20.0
+Pediatric Oncology Nurse,45.0
+Pediatric Physical Therapist,20.0
+Pediatric Physician Assistant,20.0
+Pediatrician,12.0
+Peer Counselor,25.0
+Peer Mentor,10.0
+Peer Support Specialist,25.0
+Pega Developer,70.0
+Penetration Tester,35.0
+Peoplesoft Consultant,45.0
+Peoplesoft Developer,35.0
+Performance Analyst,60.0
+Performance Engineer,25.0
+Performance Test Engineer,30.0
+Performance Tester,40.0
+Performer,10.0
+Perfusionist,25.0
+Periodontist,12.0
+Perl Developer,70.0
+Personal Assistant,15.0
+Personal Banker,10.0
+Personal Care Aide,20.0
+Personal Care Assistant,25.0
+Personal Care Attendant,20.0
+Personal Care Worker,10.0
+Personal Caregiver,15.0
+Personal Chef,20.0
+Personal Driver,30.0
+Personal Financial Advisor,15.0
+Personal Fitness Trainer,25.0
+Personal Injury Attorney,25.0
+Personal Injury Paralegal,45.0
+Personal Shopper,50.0
+Personal Stylist,5.0
+Personal Trainer,20.0
+Personnel Security Specialist,40.0
+Pest Control Technician,28.0
+Pet Groomer,20.0
+Pet Sitter,10.0
+Pet Stylist,20.0
+Petroleum Engineer,20.0
+Petroleum Inspector,20.0
+Pharmaceutical,10.0
+Pharmaceutical Sales,20.0
+Pharmaceutical Sales Representative,55.0
+Pharmacist,20.0
+Pharmacist Manager,10.0
+Pharmacist Technician,40.0
+Pharmacy Analyst,25.0
+Pharmacy Assistant,25.0
+Pharmacy Cashier,30.0
+Pharmacy Clerk,45.0
+Pharmacy Manager,15.0
+Pharmacy Supervisor,20.0
+Pharmacy Technician,40.0
+Pharmacy Technician Instructor,10.0
+Pharmacy Technician Trainee,50.0
+Phlebotomist,30.0
+Phlebotomy,40.0
+Phlebotomy Supervisor,30.0
+Phlebotomy Technician,40.0
+Phone Operator,10.0
+Phone Sales,75.0
+Photo Editor,30.0
+Photo Retoucher,75.0
+Photo Stylist,5.0
+Photographer,20.0
+Photography,20.0
+Photography Assistant,25.0
+Photojournalist,10.0
+Php Developer,40.0
+Php Web Developer,40.0
+Physical Design Engineer,30.0
+Physical Education Teacher,6.0
+Physical Scientist,15.0
+Physical Therapist,5.0
+Physical Therapist Aide,5.0
+Physical Therapist Assistant,25.0
+Physical Therapy Aide,5.0
+Physical Therapy Assistant,5.0
+Physical Therapy Technician,5.0
+Physician,12.0
+Physician Assistant,12.0
+Physician Liaison,10.0
+Physician Recruiter,30.0
+Physicist,10.0
+Physics Teacher,6.0
+Physiologist,20.0
+Pianist,5.0
+Piano Teacher,6.0
+Picker,40.0
+Pilates Instructor,20.0
+Pilot,20.0
+Pipe Fitter,25.0
+Pipe Welder,20.0
+Pipefitter,10.0
+Pipeline,18.0
+Pipeline Controller,40.0
+Pipeline Engineer,20.0
+Pipeline Operator,20.0
+Pipeline Technician,25.0
+Piping Designer,20.0
+Piping Engineer,20.0
+Pizza Cook,20.0
+Pizza Delivery Driver,45.0
+Pizza Maker,20.0
+Pl Sql Developer,80.0
+Placement Coordinator,40.0
+Planner,20.0
+Planning Analyst,40.0
+Planning Engineer,30.0
+Plans Examiner,20.0
+Plant Controller,20.0
+Plant Engineer,20.0
+Plant Manager,10.0
+Plant Supervisor,15.0
+Plant Technician,20.0
+Plant Worker,20.0
+Plasterer,10.0
+Plastic Surgeon,12.0
+Plastics Engineer,20.0
+Platform Engineer,15.0
+Plumber,15.0
+Plumber Helper,10.0
+Plumbing Engineer,15.0
+Plumbing Inspector,10.0
+Pmo Analyst,45.0
+Pmo Manager,52.0
+Podiatrist,12.0
+Poker Dealer,30.0
+Police Cadet,15.0
+Police Chief,10.0
+Police Dispatcher,70.0
+Police Lieutenant,15.0
+Police Officer,10.0
+Police Records Clerk,50.0
+Police Sergeant,15.0
+Policy Advisor,35.0
+Policy Analyst,25.0
+Polygraph Examiner,70.0
+Pool Attendant,10.0
+Pool Manager,20.0
+Pool Technician,20.0
+Port Engineer,20.0
+Porter,10.0
+Portfolio Analyst,40.0
+Portfolio Manager,20.0
+Post Office,60.0
+Postal Clerk,70.0
+Postdoc,5.0
+Potter,5.0
+Power Engineer,20.0
+Power Plant Engineer,15.0
+Power Plant Operator,10.0
+Practical Nurse,33.0
+Practice Administrator,15.0
+Practice Manager,15.0
+Pre K Teacher,5.0
+Pre Sales Consultant,50.0
+Premium Auditor,15.0
+Prep Cook,30.0
+Prepress,35.0
+Prepress Technician,35.0
+Preschool Assistant,10.0
+Preschool Director,30.0
+Preschool Teacher,5.0
+Presenter,10.0
+President,15.0
+Press Brake Operator,25.0
+Press Operator,80.0
+Press Secretary,25.0
+Pressman,80.0
+Pressure Washer,18.0
+Pricing Analyst,50.0
+Pricing Specialist,65.0
+Priest,5.0
+Primary Care Physician,10.0
+Primary Teacher,5.0
+Principal,15.0
+Principal Consultant,45.0
+Principal Electrical Engineer,30.0
+Principal Engineer,30.0
+Principal Mechanical Engineer,30.0
+Principal Software Engineer,20.0
+Print Designer,20.0
+Print Production Manager,25.0
+Printer Technician,25.0
+Printing Press Operator,80.0
+Privacy Officer,40.0
+Private Banker,10.0
+Private Caregiver,15.0
+Private Chef,20.0
+Private Duty Nurse,21.0
+Private Equity,5.0
+Private Equity Analyst,35.0
+Private Equity Associate,30.0
+Private Investigator,49.0
+Private Pilot,20.0
+Private Tutor,5.0
+Prn,30.0
+Probation Officer,15.0
+Process Analyst,45.0
+Process Consultant,35.0
+Process Control Engineer,40.0
+Process Development Engineer,10.0
+Process Engineer,30.0
+Process Improvement Engineer,45.0
+Process Improvement Manager,30.0
+Process Improvement Specialist,40.0
+Process Manager,30.0
+Process Operator,30.0
+Process Safety Engineer,20.0
+Process Server,60.0
+Process Technician,15.0
+Processor,60.0
+Proctor,20.0
+Procurement Administrator,25.0
+Procurement Agent,60.0
+Procurement Analyst,45.0
+Procurement Assistant,80.0
+Procurement Clerk,60.0
+Procurement Coordinator,20.0
+Procurement Director,20.0
+Procurement Engineer,40.0
+Procurement Manager,20.0
+Procurement Officer,30.0
+Procurement Specialist,50.0
+Produce Clerk,20.0
+Produce Manager,15.0
+Producer,15.0
+Product Analyst,45.0
+Product Assistant,20.0
+Product Coordinator,25.0
+Product Demonstrator,35.0
+Product Design Engineer,25.0
+Product Designer,20.0
+Product Developer,40.0
+Product Development Engineer,25.0
+Product Development Manager,45.0
+Product Director,35.0
+Product Engineer,30.0
+Product Manager,60.0
+Product Marketing Manager,51.0
+Product Owner,35.0
+Product Photographer,20.0
+Product Safety Engineer,20.0
+Product Specialist,20.0
+Product Support Specialist,30.0
+Product Tester,15.0
+Product Trainer,35.0
+Production Accountant,20.0
+Production Artist,25.0
+Production Associate,30.0
+Production Chemist,20.0
+Production Clerk,40.0
+Production Controller,30.0
+Production Coordinator,33.0
+Production Designer,20.0
+Production Editor,20.0
+Production Engineer,37.0
+Production Manager,15.0
+Production Operator,40.0
+Production Planner,20.0
+Production Scheduler,25.0
+Production Specialist,10.0
+Production Supervisor,15.0
+Production Team Leader,35.0
+Production Technician,10.0
+Production Worker,10.0
+Professional Driver,40.0
+Professional Engineer,30.0
+Professional Organizer,50.0
+Professional Services Consultant,40.0
+Professional Tutor,5.0
+Professor,10.0
+Program Administrator,20.0
+Program Analyst,35.0
+Program Assistant,20.0
+Program Associate,20.0
+Program Coordinator,30.0
+Program Director,20.0
+Program Evaluator,50.0
+Program Manager,24.0
+Program Officer,25.0
+Program Specialist,25.0
+Program Supervisor,10.0
+Programmer,50.0
+Programmer Analyst,35.0
+Programming,30.0
+Project Accountant,10.0
+Project Administrator,40.0
+Project Analyst,45.0
+Project Architect,30.0
+Project Assistant,25.0
+Project Consultant,60.0
+Project Control Analyst,45.0
+Project Controller,51.0
+Project Coordinator,40.0
+Project Director,40.0
+Project Engineer,40.0
+Project Engineering Manager,10.0
+Project Estimator,35.0
+Project Executive,30.0
+Project Lead,35.0
+Project Leader,35.0
+Project Management Assistant,40.0
+Project Management Consultant,45.0
+Project Management Specialist,35.0
+Project Manager,60.0
+Project Officer,40.0
+Project Scheduler,40.0
+Project Specialist,20.0
+Project Superintendent,30.0
+Project Supervisor,40.0
+Promoter,10.0
+Promotions Assistant,10.0
+Promotions Coordinator,20.0
+Promotions Manager,35.0
+Proofreader,40.0
+Property Accountant,20.0
+Property Administrator,20.0
+Property Caretaker,20.0
+Property Claims Adjuster,50.0
+Property Management,20.0
+Property Management Assistant,30.0
+Property Manager,15.0
+Proposal Coordinator,35.0
+Proposal Manager,55.0
+Proposal Specialist,35.0
+Proposal Writer,10.0
+Proprietary Trader,10.0
+Propulsion Engineer,30.0
+Prosecutor,20.0
+Prosthetist,12.0
+Prosthodontist,12.0
+Provider,25.0
+Provider Relations Representative,35.0
+Provost,20.0
+Psychiatric Aide,20.0
+Psychiatric Nurse,30.0
+Psychiatric Nurse Practitioner,35.0
+Psychiatric Social Worker,20.0
+Psychiatric Technician,20.0
+Psychiatrist,10.0
+Psychological Assistant,20.0
+Psychologist,10.0
+Psychology Instructor,5.0
+Psychology Professor,5.0
+Psychology Teacher,5.0
+Psychometrician,15.0
+Psychometrist,10.0
+Psychotherapist,10.0
+Public Address Announcer,10.0
+Public Affairs Specialist,40.0
+Public Defender,20.0
+Public Health Advisor,20.0
+Public Health Analyst,10.0
+Public Health Dentist,12.0
+Public Health Educator,20.0
+Public Health Nurse,15.0
+Public Information Officer,25.0
+Public Relations,40.0
+Public Relations Assistant,30.0
+Public Relations Coordinator,35.0
+Public Relations Director,25.0
+Public Relations Manager,24.0
+Public Relations Specialist,30.0
+Public Safety Dispatcher,70.0
+Public Safety Officer,15.0
+Public Works Director,20.0
+Publicist,20.0
+Publisher,25.0
+Pump Operator,17.0
+Pumper,20.0
+Purchaser,59.0
+Purchasing Agent,35.0
+Purchasing Analyst,50.0
+Purchasing Assistant,75.0
+Purchasing Buyer,70.0
+Purchasing Clerk,85.0
+Purchasing Coordinator,60.0
+Purchasing Director,20.0
+Purchasing Manager,20.0
+Purchasing Specialist,40.0
+Python Developer,25.0
+QA Automation Engineer,80.0
+Qa Analyst,40.0
+Qa Consultant,30.0
+Qa Director,25.0
+Qa Engineer,45.0
+Qa Inspector,30.0
+Qa Lead,30.0
+Qa Manager,25.0
+Qa Software Tester,70.0
+Qa Specialist,25.0
+Qa Supervisor,25.0
+Qa Test Lead,30.0
+Qa Tester,50.0
+Quality Analyst,25.0
+Quality Assurance,20.0
+Quality Assurance Analyst,25.0
+Quality Assurance Associate,20.0
+Quality Assurance Auditor,20.0
+Quality Assurance Director,20.0
+Quality Assurance Engineer,30.0
+Quality Assurance Inspector,30.0
+Quality Assurance Manager,20.0
+Quality Assurance Specialist,25.0
+Quality Assurance Technician,30.0
+Quality Assurance Tester,50.0
+Quality Auditor,20.0
+Quality Consultant,20.0
+Quality Control,20.0
+Quality Control Analyst,25.0
+Quality Control Assistant,20.0
+Quality Control Associate,20.0
+Quality Control Chemist,20.0
+Quality Control Engineer,30.0
+Quality Control Inspector,25.0
+Quality Control Manager,20.0
+Quality Control Specialist,25.0
+Quality Control Supervisor,20.0
+Quality Control Technician,30.0
+Quality Coordinator,20.0
+Quality Engineer,30.0
+Quality Improvement Specialist,20.0
+Quality Inspector,25.0
+Quality Manager,20.0
+Quality Specialist,20.0
+Quality Supervisor,20.0
+Quality Technician,30.0
+Quantitative Analyst,75.0
+Quantitative Developer,80.0
+Quantitative Research Analyst,75.0
+Quantity Surveyor,50.0
+R&D Engineer,50.0
+Rabbi,5.0
+Radar Technician,20.0
+Radiation Safety Officer,15.0
+Radiation Therapist,30.0
+Radio,10.0
+Radio Host,10.0
+Radio Operator,60.0
+Radio Producer,20.0
+Radiographer,45.0
+Radiologic Technologist,70.0
+Radiologist,20.0
+Radiology,25.0
+Radiology Assistant,65.0
+Radiology Manager,40.0
+Radiology Technician,40.0
+Radiology Technologist,70.0
+Railroad Engineer,20.0
+Rails Developer,30.0
+Ramp Agent,10.0
+Ranch Hand,5.0
+Ranch Manager,5.0
+Ranger,35.0
+Reactor Operator,10.0
+Reader,5.0
+Reading Specialist,20.0
+Reading Teacher,5.0
+Reading Tutor,5.0
+Real Estate Accountant,20.0
+Real Estate Administrative Assistant,15.0
+Real Estate Agent,15.0
+Real Estate Analyst,10.0
+Real Estate Appraiser,15.0
+Real Estate Assistant,15.0
+Real Estate Associate,15.0
+Real Estate Attorney,20.0
+Real Estate Broker,15.0
+Real Estate Consultant,20.0
+Real Estate Developer,15.0
+Real Estate Manager,24.0
+Real Estate Paralegal,40.0
+Real Estate Photographer,25.0
+Real Estate Sales Agent,10.0
+Real Estate Salesperson,20.0
+Realtor,20.0
+Receiver,60.0
+Receiving Associate,80.0
+Receiving Clerk,70.0
+Receiving Manager,25.0
+Receptionist,50.0
+Reconciliation Analyst,30.0
+Reconciliation Specialist,20.0
+Recording Engineer,20.0
+Records Clerk,80.0
+Records Manager,40.0
+Recovery Specialist,25.0
+Recreation Aide,15.0
+Recreation Coordinator,10.0
+Recreation Director,10.0
+Recreation Leader,25.0
+Recreation Specialist,25.0
+Recreation Supervisor,20.0
+Recreation Therapist,10.0
+Recreational Therapist,10.0
+Recruiter,45.0
+Recruiting Assistant,40.0
+Recruiting Coordinator,40.0
+Recruiting Manager,30.0
+Recruitment Consultant,20.0
+Recruitment Manager,40.0
+Recruitment Specialist,45.0
+Referee,10.0
+Reference Librarian,30.0
+Referral Coordinator,50.0
+Referral Specialist,50.0
+Refinery,20.0
+Refinery Operator,20.0
+Refrigeration Engineer,15.0
+Refrigeration Mechanic,20.0
+Refrigeration Technician,25.0
+Regional Account Manager,10.0
+Regional Director,15.0
+Regional Manager,35.0
+Regional Operations Manager,24.0
+Regional Property Manager,25.0
+Regional Sales Director,24.0
+Regional Sales Executive,45.0
+Regional Sales Manager,35.0
+Regional Sales Representative,50.0
+Registered Behavior Technician,20.0
+Registered Dental Assistant,60.0
+Registered Dietitian,12.0
+Registered Medical Assistant,60.0
+Registered Respiratory Therapist,20.0
+Registrar,30.0
+Registration Clerk,60.0
+Registration Specialist,60.0
+Regulatory Affairs Associate,43.0
+Regulatory Affairs Manager,24.0
+Regulatory Affairs Specialist,45.0
+Regulatory Analyst,70.0
+Regulatory Specialist,40.0
+Rehab Aide,20.0
+Rehab Director,20.0
+Rehab Technician,20.0
+Rehabilitation Aide,5.0
+Rehabilitation Counselor,15.0
+Rehabilitation Nurse,5.0
+Rehabilitation Specialist,10.0
+Rehabilitation Technician,5.0
+Rehabilitation Therapist,10.0
+Reimbursement Manager,10.0
+Reimbursement Specialist,15.0
+Relationship Banker,10.0
+Relationship Manager,35.0
+Relay Technician,25.0
+Release Engineer,15.0
+Release Manager,10.0
+Reliability Engineer,25.0
+Religion Teacher,5.0
+Relocation Consultant,10.0
+Renal Dietitian,12.0
+Renewable Energy,25.0
+Repair Technician,20.0
+Report Analyst,60.0
+Report Developer,75.0
+Report Writer,10.0
+Reporter,20.0
+Reporting Analyst,30.0
+Representative,35.0
+Requirements Analyst,62.0
+Research Administrator,30.0
+Research Analyst,45.0
+Research And Development Engineer,50.0
+Research Assistant,20.0
+Research Associate,40.0
+Research Chemist,20.0
+Research Consultant,20.0
+Research Coordinator,30.0
+Research Director,30.0
+Research Engineer,30.0
+Research Manager,25.0
+Research Nurse,5.0
+Research Psychologist,10.0
+Research Scientist,15.0
+Research Specialist,20.0
+Research Technician,45.0
+Researcher,25.0
+Reservation Agent,40.0
+Reservation Specialist,40.0
+Reservationist,40.0
+Reservations Agent,40.0
+Reservoir Engineer,20.0
+Residence Counselor,25.0
+Residence Hall Director,15.0
+Residence Manager,20.0
+Resident Assistant,5.0
+Resident Director,15.0
+Resident Engineer,40.0
+Resident Manager,20.0
+Residential Appraiser,10.0
+Residential Director,20.0
+Residential Electrician,20.0
+Residential Property Manager,15.0
+Resort Manager,30.0
+Resource Specialist,20.0
+Respiratory Care Practitioner,20.0
+Respiratory Therapist,20.0
+Restaurant,30.0
+Restaurant Assistant Manager,30.0
+Restaurant Cashier,30.0
+Restaurant Consultant,20.0
+Restaurant General Manager,40.0
+Restaurant Host,50.0
+Restaurant Manager,30.0
+Restaurant Operations Manager,40.0
+Restaurant Server,40.0
+Restaurant Supervisor,40.0
+Restaurant Worker,26.0
+Retail Assistant,20.0
+Retail Assistant Manager,10.0
+Retail Associate,20.0
+Retail Banker,5.0
+Retail Buyer,58.0
+Retail Cashier,30.0
+Retail Clerk,20.0
+Retail Consultant,25.0
+Retail Director,10.0
+Retail District Manager,10.0
+Retail Management,10.0
+Retail Manager,10.0
+Retail Marketing Manager,20.0
+Retail Merchandiser,25.0
+Retail Operations Manager,20.0
+Retail Pharmacist,12.0
+Retail Sales,25.0
+Retail Sales Associate,25.0
+Retail Sales Consultant,30.0
+Retail Sales Manager,25.0
+Retail Sales Representative,45.0
+Retail Salesperson,25.0
+Retail Specialist,25.0
+Retail Store Manager,10.0
+Retail Supervisor,20.0
+Retention Specialist,25.0
+Retirement Specialist,20.0
+Retoucher,30.0
+Revenue Accountant,20.0
+Revenue Analyst,20.0
+Revenue Cycle Analyst,60.0
+Revenue Cycle Manager,30.0
+Revenue Manager,15.0
+Revenue Officer,5.0
+Reviewer,10.0
+Rf Design Engineer,40.0
+Rf Engineer,40.0
+Rheumatologist,10.0
+Rig Welder,10.0
+Rigger,10.0
+Right Of Way Agent,30.0
+Risk Analyst,35.0
+Risk Management Analyst,60.0
+Risk Management Specialist,40.0
+Risk Manager,32.0
+Rn Case Manager,20.0
+Rn Supervisor,20.0
+Robotics Engineer,70.0
+Roll Off Driver,30.0
+Roofer,10.0
+Room Attendant,40.0
+Room Service Server,40.0
+Roughneck,20.0
+Roustabout,17.0
+Route Driver,40.0
+Route Sales Representative,45.0
+Rpg Programmer,65.0
+Ruby Developer,30.0
+Runner,20.0
+Safety Advisor,20.0
+Safety Assistant,40.0
+Safety Consultant,65.0
+Safety Coordinator,60.0
+Safety Director,50.0
+Safety Engineer,20.0
+Safety Inspector,50.0
+Safety Officer,25.0
+Safety Professional,35.0
+Safety Specialist,35.0
+Safety Supervisor,48.0
+Safety Technician,20.0
+Sailing Instructor,10.0
+Sales Account Executive,55.0
+Sales Account Manager,50.0
+Sales Administrator,45.0
+Sales Advisor,45.0
+Sales Agent,55.0
+Sales Analyst,50.0
+Sales Assistant,20.0
+Sales Associate,65.0
+Sales Clerk,15.0
+Sales Coach,22.0
+Sales Consultant,35.0
+Sales Contractor,15.0
+Sales Coordinator,35.0
+Sales Development Representative,55.0
+Sales Director,22.0
+Sales Engineer,15.0
+Sales Executive,50.0
+Sales Lead,15.0
+Sales Manager,23.0
+Sales Marketing,50.0
+Sales Merchandiser,25.0
+Sales Operations Analyst,65.0
+Sales Operations Manager,29.0
+Sales Professional,15.0
+Sales Recruiter,40.0
+Sales Representative,45.0
+Sales Specialist,35.0
+Sales Supervisor,22.0
+Sales Support Specialist,50.0
+Sales Team Leader,15.0
+Sales Trader,5.0
+Sales Trainer,29.0
+Salesforce Administrator,38.0
+Salesforce Business Analyst,60.0
+Salesforce Consultant,30.0
+Salesforce Developer,35.0
+Salesman,15.0
+Salesperson,15.0
+Salon Assistant,5.0
+Salon Manager,30.0
+Salon Receptionist,20.0
+Sandwich Maker,20.0
+Sanitation Worker,30.0
+Sap Abap Developer,40.0
+Sap Administrator,40.0
+Sap Analyst,45.0
+Sap Basis Administrator,50.0
+Sap Business Analyst,50.0
+Sap Consultant,30.0
+Sap Developer,70.0
+Sap Functional Consultant,38.0
+Sap Project Manager,70.0
+Sap Security Consultant,40.0
+Sas Analyst,45.0
+Sas Developer,75.0
+Sas Programmer,45.0
+Sat Tutor,5.0
+Satellite Engineer,30.0
+Satellite Technician,20.0
+Saw Filer,10.0
+Scaffold Builder,15.0
+Scanner,45.0
+Scenic Artist,10.0
+Scheduler,30.0
+Scheduling Coordinator,40.0
+Scheduling Manager,20.0
+School Administrator,40.0
+School Aide,20.0
+School Bus Driver,45.0
+School Counselor,10.0
+School Custodian,17.0
+School Director,15.0
+School Librarian,35.0
+School Nurse,5.0
+School Principal,20.0
+School Psychologist,10.0
+School Secretary,5.0
+School Social Worker,20.0
+School Teacher,10.0
+Science Teacher,5.0
+Science Writer,30.0
+Scientific Writer,30.0
+Scientist,25.0
+Scout,30.0
+Screen Printer,25.0
+Screener,40.0
+Scribe,80.0
+Script Writer,20.0
+Scrum Master,5.0
+Sculptor,5.0
+Seamstress,10.0
+Secondary Teacher,5.0
+Secretary,35.0
+Security Administrator,50.0
+Security Agent,25.0
+Security Analyst,30.0
+Security Architect,50.0
+Security Assistant,20.0
+Security Consultant,70.0
+Security Coordinator,48.0
+Security Director,30.0
+Security Dispatcher,65.0
+Security Engineer,37.0
+Security Guard,25.0
+Security Manager,55.0
+Security Officer,20.0
+Security Receptionist,50.0
+Security Specialist,50.0
+Security Supervisor,40.0
+Security Technician,60.0
+Segment Producer,25.0
+Seismologist,25.0
+Senior Account Executive,30.0
+Senior Account Manager,10.0
+Senior Accountant,10.0
+Senior Administrative Assistant,25.0
+Senior Analyst,25.0
+Senior Architect,15.0
+Senior Art Director,20.0
+Senior Auditor,15.0
+Senior Business Analyst,30.0
+Senior Buyer,40.0
+Senior Caregiver,15.0
+Senior Civil Engineer,30.0
+Senior Consultant,45.0
+Senior Copywriter,10.0
+Senior Credit Analyst,25.0
+Senior Data Analyst,45.0
+Senior Database Administrator,30.0
+Senior Design Engineer,50.0
+Senior Designer,25.0
+Senior Editor,20.0
+Senior Electrical Engineer,30.0
+Senior Engineer,30.0
+Senior Executive Assistant,15.0
+Senior Finance Manager,10.0
+Senior Financial Analyst,20.0
+Senior Graphic Designer,35.0
+Senior Instructional Designer,20.0
+Senior Interior Designer,20.0
+Senior Manager,15.0
+Senior Manufacturing Engineer,30.0
+Senior Marketing Manager,45.0
+Senior Mechanical Design Engineer,30.0
+Senior Mechanical Engineer,30.0
+Senior Merchandiser,29.0
+Senior Network Engineer,40.0
+Senior Operations Manager,23.0
+Senior Paralegal,40.0
+Senior Pastor,5.0
+Senior Pharmacy Technician,50.0
+Senior Planner,25.0
+Senior Process Engineer,25.0
+Senior Product Manager,50.0
+Senior Program Manager,15.0
+Senior Programmer,50.0
+Senior Project Engineer,25.0
+Senior Quality Engineer,30.0
+Senior Recruiter,45.0
+Senior Sales Executive,35.0
+Senior Sales Manager,35.0
+Senior Scientist,20.0
+Senior Software Developer,25.0
+Senior Software Engineer,25.0
+Senior Staff Accountant,15.0
+Senior Structural Engineer,25.0
+Senior Systems Administrator,45.0
+Senior Systems Analyst,55.0
+Senior Systems Engineer,60.0
+Senior Tax Accountant,15.0
+Senior Technical Writer,20.0
+Senior Treasury Analyst,15.0
+Senior Vice President,15.0
+Senior Web Developer,20.0
+Sensor Operator,30.0
+Seo Consultant,61.0
+Seo Manager,60.0
+Seo Specialist,60.0
+Server,40.0
+Server Administrator,25.0
+Server Assistant,40.0
+Server Engineer,40.0
+Service Advisor,45.0
+Service Assistant,30.0
+Service Cashier,30.0
+Service Consultant,25.0
+Service Coordinator,30.0
+Service Delivery Manager,40.0
+Service Desk Analyst,40.0
+Service Desk Manager,10.0
+Service Desk Technician,30.0
+Service Director,30.0
+Service Engineer,45.0
+Service Manager,50.0
+Service Representative,10.0
+Service Technician,30.0
+Service Worker,20.0
+Service Writer,20.0
+Set Designer,15.0
+Sewing,40.0
+Sewing Machine Operator,25.0
+Sharepoint Administrator,35.0
+Sharepoint Consultant,40.0
+Sharepoint Developer,45.0
+Sheet Metal Mechanic,20.0
+Sheriff,20.0
+Shift Engineer,25.0
+Shift Leader,15.0
+Shift Manager,35.0
+Shift Supervisor,15.0
+Ship Fitter,20.0
+Shipping,65.0
+Shipping Clerk,60.0
+Shipping Coordinator,60.0
+Shipping Manager,25.0
+Shipping Supervisor,45.0
+Shop Foreman,40.0
+Shop Manager,35.0
+Shopper,25.0
+Short Order Cook,20.0
+Showroom Manager,10.0
+Shuttle Bus Driver,40.0
+Shuttle Driver,40.0
+Sign Language Interpreter,25.0
+Signal Maintainer,15.0
+Signing Agent,15.0
+Simulation Engineer,37.0
+Singer,5.0
+Site Engineer,40.0
+Ski Patrol,20.0
+Skip Tracer,60.0
+Sleep Technician,30.0
+Slot Attendant,30.0
+Slot Technician,20.0
+Small Business Consultant,20.0
+Small Engine Mechanic,25.0
+Smt Operator,30.0
+Soccer Coach,15.0
+Social Media Analyst,55.0
+Social Media Assistant,20.0
+Social Media Consultant,55.0
+Social Media Coordinator,20.0
+Social Media Director,25.0
+Social Media Marketing,55.0
+Social Media Marketing Manager,45.0
+Social Media Strategist,45.0
+Social Science Teacher,5.0
+Social Scientist,10.0
+Social Service,10.0
+Social Service Worker,10.0
+Social Services Assistant,20.0
+Social Services Specialist,25.0
+Social Studies Teacher,5.0
+Social Work Assistant,30.0
+Social Work Case Manager,25.0
+Social Worker,20.0
+Social Worker Assistant,20.0
+Software Analyst,30.0
+Software Architect,20.0
+Software Developer,25.0
+Software Development Engineer,20.0
+Software Development Manager,15.0
+Software Engineer,60.0
+Software Engineering Manager,15.0
+Software Manager,20.0
+Software Product Manager,70.0
+Software Programmer,50.0
+Software Project Manager,75.0
+Software Qa Engineer,50.0
+Software Quality Assurance,50.0
+Software Quality Assurance Engineer,50.0
+Software Support Engineer,30.0
+Software Test Engineer,50.0
+Software Tester,50.0
+Software Trainer,40.0
+Soil Scientist,20.0
+Solar Engineer,30.0
+Solar Installer,10.0
+Solar Panel Installer,10.0
+Solar Sales,70.0
+Solar Technician,10.0
+Solution Architect,50.0
+Solutions Architect,40.0
+Solutions Consultant,40.0
+Solutions Engineer,25.0
+Sommelier,10.0
+Sonographer,65.0
+Sound Designer,25.0
+Sound Engineer,25.0
+Sound Technician,40.0
+Sourcing Analyst,55.0
+Sourcing Manager,30.0
+Sourcing Specialist,50.0
+Sous Chef,25.0
+Spa Attendant,20.0
+Spa Coordinator,10.0
+Spa Director,20.0
+Spa Manager,5.0
+Spa Receptionist,30.0
+Space Planner,60.0
+Spanish Interpreter,50.0
+Spanish Teacher,5.0
+Spanish Tutor,10.0
+Speaker,10.0
+Special Agent,85.0
+Special Education Aide,30.0
+Special Education Assistant,30.0
+Special Education Coordinator,25.0
+Special Education Paraprofessional,30.0
+Special Education Teacher,10.0
+Special Educator,10.0
+Special Events Coordinator,35.0
+Special Events Manager,35.0
+Special Needs Teacher,15.0
+Special Police Officer,10.0
+Specialist,55.0
+Specimen Processor,40.0
+Speech Language Pathologist,5.0
+Speech Language Pathology Assistant,10.0
+Speech Pathologist,10.0
+Speech Pathologist Assistant,20.0
+Speech Pathology Assistant,10.0
+Speech Therapist,5.0
+Speech Therapy Assistant,5.0
+Speech Writer,10.0
+Sponsor,10.0
+Sports,25.0
+Sports Analyst,70.0
+Sports Anchor,10.0
+Sports Coordinator,30.0
+Sports Director,25.0
+Sports Information Director,40.0
+Sports Medicine Physician,12.0
+Sports Nutritionist,20.0
+Sports Photographer,20.0
+Sports Physical Therapist,5.0
+Sports Producer,20.0
+Sports Psychologist,5.0
+Sports Reporter,10.0
+Sports Writer,20.0
+Spotter,10.0
+Sprinkler Fitter,10.0
+Sql Analyst,80.0
+Sql Data Analyst,65.0
+Sql Database Administrator,60.0
+Sql Database Developer,70.0
+Sql Dba,60.0
+Sql Developer,70.0
+Sql Programmer,85.0
+Sql Server Dba,60.0
+Sql Server Developer,70.0
+Staff Accountant,20.0
+Staff Assistant,20.0
+Staff Attorney,30.0
+Staff Auditor,45.0
+Staff Engineer,15.0
+Staff Nurse,35.0
+Staff Pharmacist,12.0
+Staff Writer,20.0
+Staffing Consultant,40.0
+Staffing Coordinator,40.0
+Staffing Manager,40.0
+Staffing Recruiter,35.0
+Staffing Specialist,40.0
+Stage Hand,30.0
+Stage Technician,20.0
+Starter,5.0
+State Trooper,5.0
+Stationary Engineer,15.0
+Statistical Analyst,75.0
+Statistical Programmer,80.0
+Statistician,50.0
+Steamfitter,17.0
+Steel Worker,17.0
+Stenographer,75.0
+Sterile Processing Technician,40.0
+Steward,10.0
+Stitcher,10.0
+Stock Clerk,25.0
+Stock Manager,35.0
+Stocker,25.0
+Stockroom Associate,30.0
+Stockroom Clerk,20.0
+Storage Engineer,40.0
+Storage Manager,25.0
+Store Assistant,20.0
+Store Associate,20.0
+Store Cashier,30.0
+Store Clerk,20.0
+Store Detective,30.0
+Store Director,10.0
+Store Manager,10.0
+Store Shopper,50.0
+Store Supervisor,20.0
+Storyboard Artist,15.0
+Strategic Account Manager,15.0
+Strategic Consultant,40.0
+Strategic Planner,35.0
+Strategic Planning Manager,35.0
+Strategic Sourcing Manager,45.0
+Strategist,35.0
+Strategy Analyst,30.0
+Strategy Consultant,45.0
+Strategy Manager,35.0
+Street Sweeper,90.0
+Strength And Conditioning Coach,20.0
+Stress Engineer,30.0
+Structural Design Engineer,30.0
+Structural Designer,65.0
+Structural Engineer,30.0
+Structural Welder,20.0
+Student Advisor,20.0
+Student Assistant,10.0
+Student Counselor,20.0
+Student Mentor,10.0
+Student Nurse,21.0
+Student Tutor,5.0
+Student Worker,5.0
+Studio Assistant,25.0
+Studio Engineer,25.0
+Studio Manager,20.0
+Studio Photographer,20.0
+Study Abroad Advisor,20.0
+Study Coordinator,25.0
+Stylist,5.0
+Subject Matter Expert,10.0
+Substance Abuse Counselor,25.0
+Substation Electrician,20.0
+Substation Technician,16.0
+Substitute Teacher,40.0
+Summer Associate,10.0
+Summer Camp Counselor,15.0
+Summer Nanny,5.0
+Superintendent,25.0
+Supervisor,15.0
+Supplier Quality Engineer,40.0
+Supplier Quality Manager,20.0
+Supply Chain,30.0
+Supply Chain Analyst,20.0
+Supply Chain Consultant,25.0
+Supply Chain Coordinator,60.0
+Supply Chain Director,20.0
+Supply Chain Management,10.0
+Supply Chain Manager,20.0
+Supply Chain Planner,40.0
+Supply Chain Specialist,30.0
+Supply Clerk,90.0
+Supply Coordinator,60.0
+Supply Manager,25.0
+Supply Planner,35.0
+Supply Technician,75.0
+Support Analyst,25.0
+Support Coordinator,30.0
+Support Engineer,40.0
+Support Manager,20.0
+Support Specialist,30.0
+Support Technician,38.0
+Support Worker,25.0
+Surgeon,12.0
+Surgery Scheduler,60.0
+Surgical Assistant,60.0
+Surgical Coordinator,30.0
+Surgical First Assistant,50.0
+Surgical Nurse,5.0
+Surgical Physician Assistant,50.0
+Surgical Technician,40.0
+Surgical Technologist,40.0
+Surveillance Investigator,50.0
+Surveillance Operator,15.0
+Survey Researcher,65.0
+Survey Technician,60.0
+Surveyor,50.0
+Sushi Chef,15.0
+Sustainability Consultant,15.0
+Sustainability Coordinator,15.0
+Sustainability Manager,20.0
+Swim Coach,15.0
+Swim Instructor,20.0
+System Administrator,50.0
+System Engineer,55.0
+Systems Administrator,60.0
+Systems Analyst,60.0
+Systems Architect,40.0
+Systems Engineer,55.0
+Systems Manager,15.0
+Systems Programmer,50.0
+Table Games Dealer,30.0
+Tableau Developer,80.0
+Tailor,10.0
+Talent Acquisition,50.0
+Talent Acquisition Manager,50.0
+Talent Acquisition Specialist,50.0
+Talent Coordinator,20.0
+Talent Director,10.0
+Talent Manager,30.0
+Tanker,35.0
+Tanker Driver,45.0
+Tankerman,10.0
+Tattoo Artist,5.0
+Tax Accountant,60.0
+Tax Advisor,50.0
+Tax Analyst,60.0
+Tax Assistant,30.0
+Tax Associate,55.0
+Tax Attorney,20.0
+Tax Auditor,50.0
+Tax Consultant,50.0
+Tax Director,45.0
+Tax Examiner,70.0
+Tax Manager,45.0
+Tax Preparer,80.0
+Tax Professional,55.0
+Tax Specialist,50.0
+Taxi Driver,35.0
+Taxonomist,35.0
+Teacher,15.0
+Teacher Aide,10.0
+Teacher Assistant,10.0
+Teachers Aide,10.0
+Teaching Artist,5.0
+Teaching Assistant,10.0
+Team Coordinator,25.0
+Team Lead,15.0
+Team Leader,20.0
+Team Manager,15.0
+Team Member,25.0
+Teamster,10.0
+Tech Support,40.0
+Technical Account Manager,15.0
+Technical Analyst,25.0
+Technical Architect,20.0
+Technical Artist,30.0
+Technical Assistant,40.0
+Technical Business Analyst,30.0
+Technical Consultant,35.0
+Technical Coordinator,20.0
+Technical Designer,40.0
+Technical Director,30.0
+Technical Editor,20.0
+Technical Engineer,30.0
+Technical Illustrator,30.0
+Technical Lead,15.0
+Technical Manager,10.0
+Technical Marketing Engineer,70.0
+Technical Product Manager,70.0
+Technical Program Manager,10.0
+Technical Project Manager,80.0
+Technical Recruiter,20.0
+Technical Sales,22.0
+Technical Sales Engineer,28.0
+Technical Sales Manager,15.0
+Technical Sales Representative,22.0
+Technical Services Manager,10.0
+Technical Specialist,20.0
+Technical Support,45.0
+Technical Support Agent,45.0
+Technical Support Analyst,50.0
+Technical Support Manager,30.0
+Technical Support Representative,45.0
+Technical Support Specialist,50.0
+Technical Trainer,25.0
+Technical Writer,40.0
+Technician,5.0
+Technologist,20.0
+Technology,65.0
+Technology Analyst,50.0
+Technology Consultant,35.0
+Technology Coordinator,40.0
+Technology Director,20.0
+Technology Manager,30.0
+Technology Project Manager,75.0
+Technology Sales,22.0
+Technology Specialist,45.0
+Technology Teacher,15.0
+Technology Trainer,40.0
+Telecom Engineer,40.0
+Telecom Sales,35.0
+Telecom Technician,35.0
+Telecommunications,30.0
+Telecommunications Analyst,40.0
+Telecommunications Manager,20.0
+Telemarketer,85.0
+Telemetry Technician,50.0
+Telephone Interviewer,35.0
+Telephone Operator,10.0
+Telephone Triage Nurse,15.0
+Telesales Representative,75.0
+Television Producer,25.0
+Teller,30.0
+Tennis Coach,15.0
+Tennis Instructor,20.0
+Teradata Developer,70.0
+Terminal Manager,10.0
+Terminal Operator,15.0
+Territory Account Manager,15.0
+Territory Manager,15.0
+Territory Sales Manager,15.0
+Territory Sales Representative,22.0
+Test Analyst,50.0
+Test Architect,30.0
+Test Coordinator,20.0
+Test Driver,20.0
+Test Engineer,50.0
+Test Manager,20.0
+Test Pilot,20.0
+Test Proctor,40.0
+Test Technician,30.0
+Tester,50.0
+Testing Coordinator,20.0
+Theater Manager,40.0
+Theater Teacher,5.0
+Theatre,10.0
+Theology Teacher,5.0
+Therapist,90.0
+Therapy Aide,5.0
+Ticket Agent,64.0
+Ticket Taker,60.0
+Ticketing Agent,40.0
+Tig Welder,20.0
+Timekeeper,60.0
+Tire Technician,25.0
+Title Clerk,65.0
+Title Examiner,50.0
+Title Officer,25.0
+Title Processor,35.0
+Toll Collector,10.0
+Tool And Die Maker,15.0
+Tool Crib Attendant,25.0
+Tooling Engineer,30.0
+Toolmaker,25.0
+Tour Guide,20.0
+Tour Manager,22.0
+Tow Truck Driver,40.0
+Tower Climber,30.0
+Tower Crane Operator,16.0
+Tower Technician,20.0
+Toxicologist,20.0
+Tractor Trailer Driver,50.0
+Trademark Paralegal,45.0
+Trader,60.0
+Tradesman,20.0
+Trading Analyst,50.0
+Trading Assistant,35.0
+Traffic Controller,15.0
+Traffic Coordinator,25.0
+Traffic Engineer,20.0
+Traffic Manager,35.0
+Trailer Mechanic,30.0
+Train Conductor,20.0
+Train Engineer,20.0
+Trainee,20.0
+Trainer,25.0
+Training Administrator,30.0
+Training Consultant,50.0
+Training Coordinator,40.0
+Training Director,10.0
+Training Instructor,20.0
+Training Manager,45.0
+Training Officer,20.0
+Training Specialist,35.0
+Training Supervisor,40.0
+Transaction Coordinator,25.0
+Transcriber,85.0
+Transcriptionist,45.0
+Transit Bus Driver,15.0
+Transit Operator,15.0
+Transmission Engineer,20.0
+Transplant Coordinator,30.0
+Transport Driver,15.0
+Transportation Analyst,35.0
+Transportation Coordinator,30.0
+Transportation Dispatcher,40.0
+Transportation Driver,20.0
+Transportation Engineer,20.0
+Transportation Inspector,25.0
+Transportation Manager,35.0
+Transportation Planner,25.0
+Transportation Security Officer,5.0
+Transportation Specialist,20.0
+Transportation Supervisor,25.0
+Transporter,20.0
+Trash Collector,30.0
+Trauma Surgeon,12.0
+Travel Agent,40.0
+Travel Assistant,40.0
+Travel Cna,20.0
+Travel Consultant,10.0
+Travel Coordinator,30.0
+Travel Counselor,40.0
+Travel Manager,50.0
+Travel Nurse,50.0
+Travel Rn,50.0
+Travel Specialist,40.0
+Traveler,15.0
+Traveling Nurse,55.0
+Treasurer,25.0
+Treasury Accountant,60.0
+Treasury Analyst,40.0
+Treasury Manager,35.0
+Tree Climber,15.0
+Tree Trimmer,15.0
+Triage Nurse,15.0
+Trial Attorney,25.0
+Truck Driver,45.0
+Trucker,45.0
+Truss Designer,60.0
+Trust Accountant,30.0
+Trust Officer,25.0
+Tutor,5.0
+Typist,80.0
+Ui Designer,40.0
+Ui Developer,75.0
+Ultrasonographer,65.0
+Ultrasound Technician,70.0
+Ultrasound Technologist,70.0
+Umpire,10.0
+Unarmed Security Guard,5.0
+Underground Miner,36.0
+Underwriter,40.0
+Underwriting Assistant,50.0
+Underwriting Manager,30.0
+Union Carpenter,10.0
+Unit Assistant,20.0
+Unit Clerk,50.0
+Unit Coordinator,40.0
+Unit Manager,22.0
+Unit Secretary,60.0
+Universal Banker,20.0
+University Counselor,20.0
+University President,15.0
+Unix Administrator,60.0
+Unix Engineer,36.0
+Unix System Administrator,60.0
+Unloader,40.0
+Upholsterer,35.0
+Urban Planner,60.0
+Urologist,12.0
+Usability Engineer,25.0
+User Experience Researcher,5.0
+User Interface Designer,40.0
+Usher,60.0
+Utility Engineer,20.0
+Utility Locator,15.0
+Utility Operator,15.0
+Utility Worker,25.0
+Utilization Review Nurse,15.0
+Ux Designer,50.0
+Ux Developer,75.0
+Vaccinator,25.0
+Valet,30.0
+Valet Attendant,30.0
+Valet Driver,20.0
+Validation Engineer,30.0
+Validation Manager,22.0
+Validation Specialist,45.0
+Valuation Analyst,45.0
+Value Stream Manager,30.0
+Van Driver,15.0
+Vascular Sonographer,65.0
+Vascular Surgeon,12.0
+Vascular Technician,65.0
+Vascular Technologist,65.0
+Vault Teller,30.0
+Vba Developer,85.0
+Vendor,15.0
+Vendor Manager,20.0
+Venue Manager,15.0
+Verification Engineer,36.0
+Veterinarian,5.0
+Veterinary,5.0
+Veterinary Assistant,25.0
+Veterinary Pathologist,15.0
+Veterinary Receptionist,20.0
+Veterinary Technician,20.0
+Vfx Artist,30.0
+Vice President,15.0
+Vice President Of Finance,15.0
+Vice President Of Human Resources,10.0
+Vice President Of Marketing,55.0
+Vice President Of Operations,15.0
+Vice President Of Sales,22.0
+Vice Principal,5.0
+Victim Advocate,25.0
+Video Coordinator,50.0
+Video Editor,30.0
+Video Engineer,25.0
+Video Game Tester,40.0
+Video Journalist,10.0
+Video Producer,25.0
+Video Production,25.0
+Video Production Assistant,20.0
+Videographer,20.0
+Virtual Assistant,40.0
+Virtual Teacher,60.0
+Virtualization Engineer,45.0
+Visual Designer,45.0
+Visual Information Specialist,30.0
+Visual Manager,20.0
+Visual Merchandiser,30.0
+Visual Merchandising Manager,25.0
+Vmware Administrator,60.0
+Vmware Engineer,50.0
+Vocational Counselor,35.0
+Vocational Rehabilitation Counselor,15.0
+Voice Engineer,36.0
+Voice Over Artist,5.0
+Voip Engineer,40.0
+Volleyball Coach,15.0
+Volunteer,40.0
+Volunteer Coordinator,35.0
+Volunteer Manager,30.0
+Vp Engineering,5.0
+Vp Marketing,54.0
+Vp Of Engineering,10.0
+Vp Of Finance,15.0
+Vp Sales,5.0
+Wait Staff,10.0
+Waiter,10.0
+Waitress,10.0
+Ward Clerk,50.0
+Warehouse Administrator,30.0
+Warehouse Assistant,25.0
+Warehouse Associate,80.0
+Warehouse Clerk,20.0
+Warehouse Coordinator,25.0
+Warehouse Driver,20.0
+Warehouse Lead,15.0
+Warehouse Manager,20.0
+Warehouse Operator,40.0
+Warehouse Packer,45.0
+Warehouse Picker,45.0
+Warehouse Selector,45.0
+Warehouse Specialist,30.0
+Warehouse Supervisor,15.0
+Warehouse Technician,25.0
+Warehouse Worker,90.0
+Warehouseman,30.0
+Warranty Clerk,65.0
+Warranty Manager,20.0
+Wastewater Operator,20.0
+Wastewater Treatment Operator,10.0
+Watchmaker,40.0
+Water Engineer,20.0
+Water Operator,20.0
+Water Resource Engineer,20.0
+Water Treatment Plant Operator,10.0
+Web Analyst,30.0
+Web Application Developer,20.0
+Web Architect,25.0
+Web Content Editor,70.0
+Web Content Manager,65.0
+Web Designer,40.0
+Web Developer,20.0
+Web Editor,20.0
+Web Manager,30.0
+Web Producer,30.0
+Web Programmer,50.0
+Web Project Manager,78.0
+Web Search Evaluator,90.0
+Wedding Coordinator,10.0
+Wedding Planner,25.0
+Welder,15.0
+Welder Apprentice,15.0
+Welder Fabricator,20.0
+Welder Helper,15.0
+Welding,40.0
+Welding Engineer,20.0
+Welding Inspector,25.0
+Welding Instructor,5.0
+Welding Supervisor,25.0
+Wellness Coach,20.0
+Wellness Consultant,25.0
+Wellness Coordinator,25.0
+Wellness Director,20.0
+Wellness Nurse,25.0
+Wholesale Account Executive,15.0
+Wholesaler,10.0
+Wic Nutritionist,11.0
+Wildlife Biologist,15.0
+Wildlife Technician,10.0
+Wind Technician,10.0
+Wind Turbine Technician,10.0
+Window Cleaner,20.0
+Windows Administrator,60.0
+Windows Server Administrator,45.0
+Windows System Administrator,60.0
+Wine Consultant,25.0
+Wine Sales Representative,22.0
+Winemaker,20.0
+Wire Technician,35.0
+Wireless Consultant,45.0
+Wireless Engineer,50.0
+Wireless Network Engineer,50.0
+Woodworker,10.0
+Word Processor,80.0
+Wordpress Developer,30.0
+Workforce Analyst,35.0
+Workforce Management Analyst,40.0
+Workforce Manager,25.0
+Worship Leader,10.0
+Wound Care Nurse,5.0
+Wrangler,10.0
+Wrestling Coach,15.0
+Writer,20.0
+Writing Assistant,25.0
+Writing Tutor,5.0
+X Ray Technician,65.0
+Yacht Broker,15.0
+Yard Driver,30.0
+Yard Jockey,35.0
+Yard Laborer,20.0
+Yard Manager,20.0
+Yard Supervisor,20.0
+Yield Engineer,10.0
+Youth Advocate,25.0
+Youth Coordinator,25.0
+Youth Counselor,30.0
+Youth Development Specialist,40.0
+Youth Mentor,10.0
+Youth Minister,10.0
+Youth Program Director,40.0
+Youth Specialist,25.0
+Youth Worker,30.0
+Zamboni Driver,10.0
+Zoologist,5.0

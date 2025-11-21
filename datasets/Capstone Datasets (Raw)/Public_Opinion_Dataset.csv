@@ -1,0 +1,742 @@
+% of respondents that “agree”,Opinion on products and services using AI,Year,source_file,Country,"% of respondents that ""Agree""",Statement,% agreeing with statement,pp. change
+67%,I have a good understanding of what artificial intelligence is,2024,fig_8.1.1.csv,,,,,
+52%,I know which types of products and services use artificial intelligence,2024,fig_8.1.1.csv,,,,,
+50%,Products and services using artificial intelligence have profoundly changed my daily life in the past 3–5 years,2024,fig_8.1.1.csv,,,,,
+66%,Products and services using artificial intelligence will profoundly change my daily life in the next 3–5 years,2024,fig_8.1.1.csv,,,,,
+55%,Products and services using artificial intelligence have more benefits than drawbacks,2024,fig_8.1.1.csv,,,,,
+45%,I trust people not to discriminate or show bias toward any group of people,2024,fig_8.1.1.csv,,,,,
+54%,I trust artificial intelligence to not discriminate or show bias toward any group of people,2024,fig_8.1.1.csv,,,,,
+47%,I trust that companies that use artificial intelligence will protect my personal data,2024,fig_8.1.1.csv,,,,,
+50%,Products and services using artificial intelligence make me nervous,2024,fig_8.1.1.csv,,,,,
+67%,I have a good understanding of what artificial intelligence is,2023,fig_8.1.1.csv,,,,,
+51%,I know which types of products and services use artificial intelligence,2023,fig_8.1.1.csv,,,,,
+49%,Products and services using artificial intelligence have profoundly changed my daily life in the past 3–5 years,2023,fig_8.1.1.csv,,,,,
+66%,Products and services using artificial intelligence will profoundly change my daily life in the next 3–5 years,2023,fig_8.1.1.csv,,,,,
+54%,Products and services using artificial intelligence have more benefits than drawbacks,2023,fig_8.1.1.csv,,,,,
+56%,I trust artificial intelligence to not discriminate or show bias toward any group of people,2023,fig_8.1.1.csv,,,,,
+50%,I trust that companies that use artificial intelligence will protect my personal data,2023,fig_8.1.1.csv,,,,,
+52%,Products and services using artificial intelligence make me nervous,2023,fig_8.1.1.csv,,,,,
+64%,I have a good understanding of what artificial intelligence is,2022,fig_8.1.1.csv,,,,,
+50%,I know which types of products and services use artificial intelligence,2022,fig_8.1.1.csv,,,,,
+49%,Products and services using artificial intelligence have profoundly changed my daily life in the past 3–5 years,2022,fig_8.1.1.csv,,,,,
+60%,Products and services using artificial intelligence will profoundly change my daily life in the next 3–5 years,2022,fig_8.1.1.csv,,,,,
+52%,Products and services using artificial intelligence have more benefits than drawbacks,2022,fig_8.1.1.csv,,,,,
+39%,Products and services using artificial intelligence make me nervous,2022,fig_8.1.1.csv,,,,,
+,,2022,fig_8.1.2.csv,China ,78%,,,
+,,2022,fig_8.1.2.csv,Indonesia ,,,,
+,,2022,fig_8.1.2.csv,Thailand ,,,,
+,,2022,fig_8.1.2.csv,Mexico ,65%,,,
+,,2022,fig_8.1.2.csv,Peru ,70%,,,
+,,2022,fig_8.1.2.csv,Turkey ,60%,,,
+,,2022,fig_8.1.2.csv,Colombia ,64%,,,
+,,2022,fig_8.1.2.csv,Singapore ,,,,
+,,2022,fig_8.1.2.csv,South Korea ,62%,,,
+,,2022,fig_8.1.2.csv,Malaysia ,65%,,,
+,,2022,fig_8.1.2.csv,India ,71%,,,
+,,2022,fig_8.1.2.csv,South Africa ,57%,,,
+,,2022,fig_8.1.2.csv,Chile ,63%,,,
+,,2022,fig_8.1.2.csv,Argentina ,55%,,,
+,,2022,fig_8.1.2.csv,Brazil ,57%,,,
+,,2022,fig_8.1.2.csv,Italy ,50%,,,
+,,2022,fig_8.1.2.csv,Hungary ,49%,,,
+,,2022,fig_8.1.2.csv,Spain ,53%,,,
+,,2022,fig_8.1.2.csv,Japan ,42%,,,
+,,2022,fig_8.1.2.csv,New Zealand ,,,,
+,,2022,fig_8.1.2.csv,Germany ,37%,,,
+,,2022,fig_8.1.2.csv,Great Britain ,38%,,,
+,,2022,fig_8.1.2.csv,Ireland ,,,,
+,,2022,fig_8.1.2.csv,Australia ,37%,,,
+,,2022,fig_8.1.2.csv,Poland ,48%,,,
+,,2022,fig_8.1.2.csv,Sweden ,40%,,,
+,,2022,fig_8.1.2.csv,Switzerland ,,,,
+,,2022,fig_8.1.2.csv,France ,31%,,,
+,,2022,fig_8.1.2.csv,Canada ,32%,,,
+,,2022,fig_8.1.2.csv,United States ,35%,,,
+,,2022,fig_8.1.2.csv,Belgium ,38%,,,
+,,2022,fig_8.1.2.csv,Netherlands ,33%,,,
+,,2022,fig_8.1.2.csv,Romania ,,,,
+,,2022,fig_8.1.2.csv,Russia ,53%,,,
+,,2022,fig_8.1.2.csv,Saudi Arabia ,76%,,,
+,,2023,fig_8.1.2.csv,China ,,,,
+,,2023,fig_8.1.2.csv,Indonesia ,78%,,,
+,,2023,fig_8.1.2.csv,Thailand ,74%,,,
+,,2023,fig_8.1.2.csv,Mexico ,73%,,,
+,,2023,fig_8.1.2.csv,Peru ,67%,,,
+,,2023,fig_8.1.2.csv,Turkey ,67%,,,
+,,2023,fig_8.1.2.csv,Colombia ,65%,,,
+,,2023,fig_8.1.2.csv,Singapore ,64%,,,
+,,2023,fig_8.1.2.csv,South Korea ,66%,,,
+,,2023,fig_8.1.2.csv,Malaysia ,69%,,,
+,,2023,fig_8.1.2.csv,India ,65%,,,
+,,2023,fig_8.1.2.csv,South Africa ,59%,,,
+,,2023,fig_8.1.2.csv,Chile ,59%,,,
+,,2023,fig_8.1.2.csv,Argentina ,57%,,,
+,,2023,fig_8.1.2.csv,Brazil ,64%,,,
+,,2023,fig_8.1.2.csv,Italy ,55%,,,
+,,2023,fig_8.1.2.csv,Hungary ,48%,,,
+,,2023,fig_8.1.2.csv,Spain ,50%,,,
+,,2023,fig_8.1.2.csv,Japan ,52%,,,
+,,2023,fig_8.1.2.csv,New Zealand ,44%,,,
+,,2023,fig_8.1.2.csv,Germany ,42%,,,
+,,2023,fig_8.1.2.csv,Great Britain ,46%,,,
+,,2023,fig_8.1.2.csv,Ireland ,40%,,,
+,,2023,fig_8.1.2.csv,Australia ,40%,,,
+,,2023,fig_8.1.2.csv,Poland ,47%,,,
+,,2023,fig_8.1.2.csv,Sweden ,39%,,,
+,,2023,fig_8.1.2.csv,Switzerland ,,,,
+,,2023,fig_8.1.2.csv,France ,37%,,,
+,,2023,fig_8.1.2.csv,Canada ,38%,,,
+,,2023,fig_8.1.2.csv,United States ,37%,,,
+,,2023,fig_8.1.2.csv,Belgium ,39%,,,
+,,2023,fig_8.1.2.csv,Netherlands ,43%,,,
+,,2023,fig_8.1.2.csv,Romania ,61%,,,
+,,2023,fig_8.1.2.csv,Russia ,,,,
+,,2023,fig_8.1.2.csv,Saudi Arabia ,,,,
+,,2024,fig_8.1.2.csv,China ,83%,,,
+,,2024,fig_8.1.2.csv,Indonesia ,80%,,,
+,,2024,fig_8.1.2.csv,Thailand ,77%,,,
+,,2024,fig_8.1.2.csv,Mexico ,70%,,,
+,,2024,fig_8.1.2.csv,Peru ,70%,,,
+,,2024,fig_8.1.2.csv,Turkey ,69%,,,
+,,2024,fig_8.1.2.csv,Colombia ,66%,,,
+,,2024,fig_8.1.2.csv,Singapore ,66%,,,
+,,2024,fig_8.1.2.csv,South Korea ,66%,,,
+,,2024,fig_8.1.2.csv,Malaysia ,63%,,,
+,,2024,fig_8.1.2.csv,India ,62%,,,
+,,2024,fig_8.1.2.csv,South Africa ,62%,,,
+,,2024,fig_8.1.2.csv,Chile ,60%,,,
+,,2024,fig_8.1.2.csv,Argentina ,57%,,,
+,,2024,fig_8.1.2.csv,Brazil ,56%,,,
+,,2024,fig_8.1.2.csv,Italy ,53%,,,
+,,2024,fig_8.1.2.csv,Hungary ,51%,,,
+,,2024,fig_8.1.2.csv,Spain ,50%,,,
+,,2024,fig_8.1.2.csv,Japan ,48%,,,
+,,2024,fig_8.1.2.csv,New Zealand ,48%,,,
+,,2024,fig_8.1.2.csv,Germany ,47%,,,
+,,2024,fig_8.1.2.csv,Great Britain ,46%,,,
+,,2024,fig_8.1.2.csv,Ireland ,45%,,,
+,,2024,fig_8.1.2.csv,Australia ,44%,,,
+,,2024,fig_8.1.2.csv,Poland ,44%,,,
+,,2024,fig_8.1.2.csv,Sweden ,43%,,,
+,,2024,fig_8.1.2.csv,Switzerland ,42%,,,
+,,2024,fig_8.1.2.csv,France ,41%,,,
+,,2024,fig_8.1.2.csv,Canada ,40%,,,
+,,2024,fig_8.1.2.csv,United States ,39%,,,
+,,2024,fig_8.1.2.csv,Belgium ,38%,,,
+,,2024,fig_8.1.2.csv,Netherlands ,36%,,,
+,,2024,fig_8.1.2.csv,Romania ,,,,
+,,2024,fig_8.1.2.csv,Russia ,,,,
+,,2024,fig_8.1.2.csv,Saudi Arabia ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,China ,5%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Indonesia ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Thailand ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Mexico ,5%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Peru ,0%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Turkey ,9%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Colombia ,2%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Singapore ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,South Korea ,4%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Malaysia ,-2%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,India ,-9%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,South Africa ,5%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Chile ,-3%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Argentina ,2%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Brazil ,-1%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Italy ,3%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Hungary ,2%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Spain ,-3%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Japan ,6%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,New Zealand ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Germany ,10%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Great Britain ,8%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Ireland ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Australia ,7%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Poland ,-4%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Sweden ,3%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Switzerland ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,France ,10%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Canada ,8%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,United States ,4%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Belgium ,0%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Netherlands ,3%,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Romania ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Russia ,,,,
+,,Point change 2022 vs. 2024,fig_8.1.2.csv,Saudi Arabia ,,,,
+,,,fig_8.1.3.csv,Global,,I have a good understanding of what  artificial intelligence is ,67%,
+,,,fig_8.1.3.csv,Global,,I know which types of products and  services use artificial intelligence ,52%,
+,,,fig_8.1.3.csv,Global,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,50%,
+,,,fig_8.1.3.csv,Global,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,66%,
+,,,fig_8.1.3.csv,Global,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,54%,
+,,,fig_8.1.3.csv,Global,,I trust that companies that use  artificial intelligence will protect  my personal data ,47%,
+,,,fig_8.1.3.csv,Global,,Products and services using  artificial intelligence  make me excited,53%,
+,,,fig_8.1.3.csv,Global,,Products and services using artificial intelligence make me nervous,50%,
+,,,fig_8.1.3.csv,Argentina,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,48%,
+,,,fig_8.1.3.csv,Argentina,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,67%,
+,,,fig_8.1.3.csv,Argentina,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,60%,
+,,,fig_8.1.3.csv,Argentina,,I trust that companies that use  artificial intelligence will protect  my personal data ,46%,
+,,,fig_8.1.3.csv,Argentina,,Products and services using  artificial intelligence  make me excited,52%,
+,,,fig_8.1.3.csv,Argentina,,Products and services using artificial intelligence make me nervous,47%,
+,,,fig_8.1.3.csv,Argentina,,I know which types of products and  services use artificial intelligence ,51%,
+,,,fig_8.1.3.csv,Argentina,,I have a good understanding of what  artificial intelligence is ,72%,
+,,,fig_8.1.3.csv,Australia,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,42%,
+,,,fig_8.1.3.csv,Australia,,I have a good understanding of what  artificial intelligence is ,63%,
+,,,fig_8.1.3.csv,Australia,,I know which types of products and  services use artificial intelligence ,38%,
+,,,fig_8.1.3.csv,Australia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,40%,
+,,,fig_8.1.3.csv,Australia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,61%,
+,,,fig_8.1.3.csv,Australia,,I trust that companies that use  artificial intelligence will protect  my personal data ,32%,
+,,,fig_8.1.3.csv,Australia,,Products and services using  artificial intelligence  make me excited,39%,
+,,,fig_8.1.3.csv,Australia,,Products and services using artificial intelligence make me nervous,64%,
+,,,fig_8.1.3.csv,Belgium,,Products and services using artificial intelligence make me nervous,51%,
+,,,fig_8.1.3.csv,Belgium,,I know which types of products and  services use artificial intelligence ,37%,
+,,,fig_8.1.3.csv,Belgium,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,34%,
+,,,fig_8.1.3.csv,Belgium,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,61%,
+,,,fig_8.1.3.csv,Belgium,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,37%,
+,,,fig_8.1.3.csv,Belgium,,I trust that companies that use  artificial intelligence will protect  my personal data ,40%,
+,,,fig_8.1.3.csv,Belgium,,Products and services using  artificial intelligence  make me excited,33%,
+,,,fig_8.1.3.csv,Belgium,,I have a good understanding of what  artificial intelligence is ,65%,
+,,,fig_8.1.3.csv,Brazil,,I have a good understanding of what  artificial intelligence is ,64%,
+,,,fig_8.1.3.csv,Brazil,,I know which types of products and  services use artificial intelligence ,57%,
+,,,fig_8.1.3.csv,Brazil,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,53%,
+,,,fig_8.1.3.csv,Brazil,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,62%,
+,,,fig_8.1.3.csv,Brazil,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,56%,
+,,,fig_8.1.3.csv,Brazil,,I trust that companies that use  artificial intelligence will protect  my personal data ,45%,
+,,,fig_8.1.3.csv,Brazil,,Products and services using  artificial intelligence  make me excited,56%,
+,,,fig_8.1.3.csv,Brazil,,Products and services using artificial intelligence make me nervous,47%,
+,,,fig_8.1.3.csv,Canada,,I have a good understanding of what  artificial intelligence is ,65%,
+,,,fig_8.1.3.csv,Canada,,I know which types of products and  services use artificial intelligence ,36%,
+,,,fig_8.1.3.csv,Canada,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,37%,
+,,,fig_8.1.3.csv,Canada,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,61%,
+,,,fig_8.1.3.csv,Canada,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,41%,
+,,,fig_8.1.3.csv,Canada,,I trust that companies that use  artificial intelligence will protect  my personal data ,28%,
+,,,fig_8.1.3.csv,Canada,,Products and services using  artificial intelligence  make me excited,37%,
+,,,fig_8.1.3.csv,Canada,,Products and services using artificial intelligence make me nervous,63%,
+,,,fig_8.1.3.csv,Chile,,I know which types of products and  services use artificial intelligence ,53%,
+,,,fig_8.1.3.csv,Chile,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,51%,
+,,,fig_8.1.3.csv,Chile,,I trust that companies that use  artificial intelligence will protect  my personal data ,43%,
+,,,fig_8.1.3.csv,Chile,,Products and services using  artificial intelligence  make me excited,46%,
+,,,fig_8.1.3.csv,Chile,,Products and services using artificial intelligence make me nervous,51%,
+,,,fig_8.1.3.csv,Chile,,I have a good understanding of what  artificial intelligence is ,65%,
+,,,fig_8.1.3.csv,Chile,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,59%,
+,,,fig_8.1.3.csv,Chile,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,69%,
+,,,fig_8.1.3.csv,China,,I have a good understanding of what  artificial intelligence is ,72%,
+,,,fig_8.1.3.csv,China,,I know which types of products and  services use artificial intelligence ,81%,
+,,,fig_8.1.3.csv,China,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,78%,
+,,,fig_8.1.3.csv,China,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,86%,
+,,,fig_8.1.3.csv,China,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,76%,
+,,,fig_8.1.3.csv,China,,I trust that companies that use  artificial intelligence will protect  my personal data ,66%,
+,,,fig_8.1.3.csv,China,,Products and services using  artificial intelligence  make me excited,80%,
+,,,fig_8.1.3.csv,China,,Products and services using artificial intelligence make me nervous,34%,
+,,,fig_8.1.3.csv,Colombia,,I trust that companies that use  artificial intelligence will protect  my personal data ,50%,
+,,,fig_8.1.3.csv,Colombia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,77%,
+,,,fig_8.1.3.csv,Colombia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,55%,
+,,,fig_8.1.3.csv,Colombia,,I know which types of products and  services use artificial intelligence ,60%,
+,,,fig_8.1.3.csv,Colombia,,I have a good understanding of what  artificial intelligence is ,71%,
+,,,fig_8.1.3.csv,Colombia,,Products and services using  artificial intelligence  make me excited,63%,
+,,,fig_8.1.3.csv,Colombia,,Products and services using artificial intelligence make me nervous,48%,
+,,,fig_8.1.3.csv,Colombia,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,66%,
+,,,fig_8.1.3.csv,France,,I trust that companies that use  artificial intelligence will protect  my personal data ,35%,
+,,,fig_8.1.3.csv,France,,Products and services using artificial intelligence make me nervous,49%,
+,,,fig_8.1.3.csv,France,,Products and services using  artificial intelligence  make me excited,39%,
+,,,fig_8.1.3.csv,France,,I have a good understanding of what  artificial intelligence is ,61%,
+,,,fig_8.1.3.csv,France,,I know which types of products and  services use artificial intelligence ,41%,
+,,,fig_8.1.3.csv,France,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,35%,
+,,,fig_8.1.3.csv,France,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,57%,
+,,,fig_8.1.3.csv,France,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,41%,
+,,,fig_8.1.3.csv,Germany,,I know which types of products and  services use artificial intelligence ,41%,
+,,,fig_8.1.3.csv,Germany,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,39%,
+,,,fig_8.1.3.csv,Germany,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,59%,
+,,,fig_8.1.3.csv,Germany,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,48%,
+,,,fig_8.1.3.csv,Germany,,I trust that companies that use  artificial intelligence will protect  my personal data ,43%,
+,,,fig_8.1.3.csv,Germany,,I have a good understanding of what  artificial intelligence is ,60%,
+,,,fig_8.1.3.csv,Germany,,Products and services using artificial intelligence make me nervous,44%,
+,,,fig_8.1.3.csv,Germany,,Products and services using  artificial intelligence  make me excited,46%,
+,,,fig_8.1.3.csv,Great Britain,,Products and services using artificial intelligence make me nervous,64%,
+,,,fig_8.1.3.csv,Great Britain,,I have a good understanding of what  artificial intelligence is ,63%,
+,,,fig_8.1.3.csv,Great Britain,,I know which types of products and  services use artificial intelligence ,40%,
+,,,fig_8.1.3.csv,Great Britain,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,38%,
+,,,fig_8.1.3.csv,Great Britain,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,58%,
+,,,fig_8.1.3.csv,Great Britain,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,44%,
+,,,fig_8.1.3.csv,Great Britain,,I trust that companies that use  artificial intelligence will protect  my personal data ,41%,
+,,,fig_8.1.3.csv,Great Britain,,Products and services using  artificial intelligence  make me excited,38%,
+,,,fig_8.1.3.csv,Hungary,,I trust that companies that use  artificial intelligence will protect  my personal data ,64%,
+,,,fig_8.1.3.csv,Hungary,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,64%,
+,,,fig_8.1.3.csv,Hungary,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,64%,
+,,,fig_8.1.3.csv,Hungary,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,37%,
+,,,fig_8.1.3.csv,Hungary,,I know which types of products and  services use artificial intelligence ,41%,
+,,,fig_8.1.3.csv,Hungary,,I have a good understanding of what  artificial intelligence is ,75%,
+,,,fig_8.1.3.csv,Hungary,,Products and services using  artificial intelligence  make me excited,47%,
+,,,fig_8.1.3.csv,Hungary,,Products and services using artificial intelligence make me nervous,44%,
+,,,fig_8.1.3.csv,India,,Products and services using artificial intelligence make me nervous,51%,
+,,,fig_8.1.3.csv,India,,I know which types of products and  services use artificial intelligence ,62%,
+,,,fig_8.1.3.csv,India,,Products and services using  artificial intelligence  make me excited,63%,
+,,,fig_8.1.3.csv,India,,I trust that companies that use  artificial intelligence will protect  my personal data ,60%,
+,,,fig_8.1.3.csv,India,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,63%,
+,,,fig_8.1.3.csv,India,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,65%,
+,,,fig_8.1.3.csv,India,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,63%,
+,,,fig_8.1.3.csv,India,,I have a good understanding of what  artificial intelligence is ,64%,
+,,,fig_8.1.3.csv,Indonesia,,Products and services using artificial intelligence make me nervous,48%,
+,,,fig_8.1.3.csv,Indonesia,,Products and services using  artificial intelligence  make me excited,76%,
+,,,fig_8.1.3.csv,Indonesia,,I trust that companies that use  artificial intelligence will protect  my personal data ,66%,
+,,,fig_8.1.3.csv,Indonesia,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,68%,
+,,,fig_8.1.3.csv,Indonesia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,80%,
+,,,fig_8.1.3.csv,Indonesia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,71%,
+,,,fig_8.1.3.csv,Indonesia,,I know which types of products and  services use artificial intelligence ,80%,
+,,,fig_8.1.3.csv,Indonesia,,I have a good understanding of what  artificial intelligence is ,86%,
+,,,fig_8.1.3.csv,Ireland,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,42%,
+,,,fig_8.1.3.csv,Ireland,,Products and services using artificial intelligence make me nervous,67%,
+,,,fig_8.1.3.csv,Ireland,,Products and services using  artificial intelligence  make me excited,40%,
+,,,fig_8.1.3.csv,Ireland,,I have a good understanding of what  artificial intelligence is ,66%,
+,,,fig_8.1.3.csv,Ireland,,I know which types of products and  services use artificial intelligence ,40%,
+,,,fig_8.1.3.csv,Ireland,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,42%,
+,,,fig_8.1.3.csv,Ireland,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,59%,
+,,,fig_8.1.3.csv,Ireland,,I trust that companies that use  artificial intelligence will protect  my personal data ,42%,
+,,,fig_8.1.3.csv,Italy,,Products and services using artificial intelligence make me nervous,43%,
+,,,fig_8.1.3.csv,Italy,,I know which types of products and  services use artificial intelligence ,51%,
+,,,fig_8.1.3.csv,Italy,,I trust that companies that use  artificial intelligence will protect  my personal data ,58%,
+,,,fig_8.1.3.csv,Italy,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,61%,
+,,,fig_8.1.3.csv,Italy,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,60%,
+,,,fig_8.1.3.csv,Italy,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,40%,
+,,,fig_8.1.3.csv,Italy,,I have a good understanding of what  artificial intelligence is ,51%,
+,,,fig_8.1.3.csv,Italy,,Products and services using  artificial intelligence  make me excited,49%,
+,,,fig_8.1.3.csv,Japan,,Products and services using artificial intelligence make me nervous,25%,
+,,,fig_8.1.3.csv,Japan,,I have a good understanding of what  artificial intelligence is ,44%,
+,,,fig_8.1.3.csv,Japan,,I know which types of products and  services use artificial intelligence ,40%,
+,,,fig_8.1.3.csv,Japan,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,43%,
+,,,fig_8.1.3.csv,Japan,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,63%,
+,,,fig_8.1.3.csv,Japan,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,38%,
+,,,fig_8.1.3.csv,Japan,,I trust that companies that use  artificial intelligence will protect  my personal data ,27%,
+,,,fig_8.1.3.csv,Japan,,Products and services using  artificial intelligence  make me excited,47%,
+,,,fig_8.1.3.csv,Malaysia,,I trust that companies that use  artificial intelligence will protect  my personal data ,52%,
+,,,fig_8.1.3.csv,Malaysia,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,62%,
+,,,fig_8.1.3.csv,Malaysia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,71%,
+,,,fig_8.1.3.csv,Malaysia,,Products and services using artificial intelligence make me nervous,50%,
+,,,fig_8.1.3.csv,Malaysia,,I know which types of products and  services use artificial intelligence ,61%,
+,,,fig_8.1.3.csv,Malaysia,,I have a good understanding of what  artificial intelligence is ,61%,
+,,,fig_8.1.3.csv,Malaysia,,Products and services using  artificial intelligence  make me excited,68%,
+,,,fig_8.1.3.csv,Malaysia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,64%,
+,,,fig_8.1.3.csv,Mexico,,I have a good understanding of what  artificial intelligence is ,80%,
+,,,fig_8.1.3.csv,Mexico,,I know which types of products and  services use artificial intelligence ,65%,
+,,,fig_8.1.3.csv,Mexico,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,69%,
+,,,fig_8.1.3.csv,Mexico,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,76%,
+,,,fig_8.1.3.csv,Mexico,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,76%,
+,,,fig_8.1.3.csv,Mexico,,I trust that companies that use  artificial intelligence will protect  my personal data ,64%,
+,,,fig_8.1.3.csv,Mexico,,Products and services using  artificial intelligence  make me excited,70%,
+,,,fig_8.1.3.csv,Mexico,,Products and services using artificial intelligence make me nervous,48%,
+,,,fig_8.1.3.csv,Netherlands,,Products and services using artificial intelligence make me nervous,49%,
+,,,fig_8.1.3.csv,Netherlands,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,32%,
+,,,fig_8.1.3.csv,Netherlands,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,63%,
+,,,fig_8.1.3.csv,Netherlands,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,38%,
+,,,fig_8.1.3.csv,Netherlands,,I trust that companies that use  artificial intelligence will protect  my personal data ,44%,
+,,,fig_8.1.3.csv,Netherlands,,Products and services using  artificial intelligence  make me excited,40%,
+,,,fig_8.1.3.csv,Netherlands,,I know which types of products and  services use artificial intelligence ,37%,
+,,,fig_8.1.3.csv,Netherlands,,I have a good understanding of what  artificial intelligence is ,70%,
+,,,fig_8.1.3.csv,New Zealand,,I have a good understanding of what  artificial intelligence is ,69%,
+,,,fig_8.1.3.csv,New Zealand,,Products and services using artificial intelligence make me nervous,66%,
+,,,fig_8.1.3.csv,New Zealand,,Products and services using  artificial intelligence  make me excited,43%,
+,,,fig_8.1.3.csv,New Zealand,,I trust that companies that use  artificial intelligence will protect  my personal data ,39%,
+,,,fig_8.1.3.csv,New Zealand,,I know which types of products and  services use artificial intelligence ,40%,
+,,,fig_8.1.3.csv,New Zealand,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,64%,
+,,,fig_8.1.3.csv,New Zealand,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,37%,
+,,,fig_8.1.3.csv,New Zealand,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,43%,
+,,,fig_8.1.3.csv,Peru,,Products and services using  artificial intelligence  make me excited,67%,
+,,,fig_8.1.3.csv,Peru,,Products and services using artificial intelligence make me nervous,50%,
+,,,fig_8.1.3.csv,Peru,,I trust that companies that use  artificial intelligence will protect  my personal data ,62%,
+,,,fig_8.1.3.csv,Peru,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,74%,
+,,,fig_8.1.3.csv,Peru,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,76%,
+,,,fig_8.1.3.csv,Peru,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,66%,
+,,,fig_8.1.3.csv,Peru,,I know which types of products and  services use artificial intelligence ,65%,
+,,,fig_8.1.3.csv,Peru,,I have a good understanding of what  artificial intelligence is ,79%,
+,,,fig_8.1.3.csv,Poland,,I know which types of products and  services use artificial intelligence ,47%,
+,,,fig_8.1.3.csv,Poland,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,41%,
+,,,fig_8.1.3.csv,Poland,,I have a good understanding of what  artificial intelligence is ,67%,
+,,,fig_8.1.3.csv,Poland,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,56%,
+,,,fig_8.1.3.csv,Poland,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,53%,
+,,,fig_8.1.3.csv,Poland,,I trust that companies that use  artificial intelligence will protect  my personal data ,45%,
+,,,fig_8.1.3.csv,Poland,,Products and services using  artificial intelligence  make me excited,44%,
+,,,fig_8.1.3.csv,Poland,,Products and services using artificial intelligence make me nervous,37%,
+,,,fig_8.1.3.csv,Singapore,,I have a good understanding of what  artificial intelligence is ,67%,
+,,,fig_8.1.3.csv,Singapore,,I know which types of products and  services use artificial intelligence ,56%,
+,,,fig_8.1.3.csv,Singapore,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,68%,
+,,,fig_8.1.3.csv,Singapore,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,79%,
+,,,fig_8.1.3.csv,Singapore,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,60%,
+,,,fig_8.1.3.csv,Singapore,,I trust that companies that use  artificial intelligence will protect  my personal data ,56%,
+,,,fig_8.1.3.csv,Singapore,,Products and services using  artificial intelligence  make me excited,64%,
+,,,fig_8.1.3.csv,Singapore,,Products and services using artificial intelligence make me nervous,56%,
+,,,fig_8.1.3.csv,South Africa,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,76%,
+,,,fig_8.1.3.csv,South Africa,,Products and services using  artificial intelligence  make me excited,61%,
+,,,fig_8.1.3.csv,South Africa,,I trust that companies that use  artificial intelligence will protect  my personal data ,62%,
+,,,fig_8.1.3.csv,South Africa,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,72%,
+,,,fig_8.1.3.csv,South Africa,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,63%,
+,,,fig_8.1.3.csv,South Africa,,Products and services using artificial intelligence make me nervous,54%,
+,,,fig_8.1.3.csv,South Africa,,I have a good understanding of what  artificial intelligence is ,76%,
+,,,fig_8.1.3.csv,South Africa,,I know which types of products and  services use artificial intelligence ,64%,
+,,,fig_8.1.3.csv,South Korea,,I have a good understanding of what  artificial intelligence is ,72%,
+,,,fig_8.1.3.csv,South Korea,,I know which types of products and  services use artificial intelligence ,65%,
+,,,fig_8.1.3.csv,South Korea,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,71%,
+,,,fig_8.1.3.csv,South Korea,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,79%,
+,,,fig_8.1.3.csv,South Korea,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,51%,
+,,,fig_8.1.3.csv,South Korea,,I trust that companies that use  artificial intelligence will protect  my personal data ,37%,
+,,,fig_8.1.3.csv,South Korea,,Products and services using  artificial intelligence  make me excited,73%,
+,,,fig_8.1.3.csv,South Korea,,Products and services using artificial intelligence make me nervous,40%,
+,,,fig_8.1.3.csv,Spain,,I have a good understanding of what  artificial intelligence is ,65%,
+,,,fig_8.1.3.csv,Spain,,I trust that companies that use  artificial intelligence will protect  my personal data ,48%,
+,,,fig_8.1.3.csv,Spain,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,52%,
+,,,fig_8.1.3.csv,Spain,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,43%,
+,,,fig_8.1.3.csv,Spain,,Products and services using artificial intelligence make me nervous,48%,
+,,,fig_8.1.3.csv,Spain,,I know which types of products and  services use artificial intelligence ,46%,
+,,,fig_8.1.3.csv,Spain,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,59%,
+,,,fig_8.1.3.csv,Spain,,Products and services using  artificial intelligence  make me excited,45%,
+,,,fig_8.1.3.csv,Sweden,,I have a good understanding of what  artificial intelligence is ,65%,
+,,,fig_8.1.3.csv,Sweden,,I know which types of products and  services use artificial intelligence ,39%,
+,,,fig_8.1.3.csv,Sweden,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,31%,
+,,,fig_8.1.3.csv,Sweden,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,52%,
+,,,fig_8.1.3.csv,Sweden,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,33%,
+,,,fig_8.1.3.csv,Sweden,,I trust that companies that use  artificial intelligence will protect  my personal data ,35%,
+,,,fig_8.1.3.csv,Sweden,,Products and services using artificial intelligence make me nervous,56%,
+,,,fig_8.1.3.csv,Sweden,,Products and services using  artificial intelligence  make me excited,36%,
+,,,fig_8.1.3.csv,Switzerland,,I know which types of products and  services use artificial intelligence ,42%,
+,,,fig_8.1.3.csv,Switzerland,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,38%,
+,,,fig_8.1.3.csv,Switzerland,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,55%,
+,,,fig_8.1.3.csv,Switzerland,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,43%,
+,,,fig_8.1.3.csv,Switzerland,,I trust that companies that use  artificial intelligence will protect  my personal data ,43%,
+,,,fig_8.1.3.csv,Switzerland,,Products and services using artificial intelligence make me nervous,51%,
+,,,fig_8.1.3.csv,Switzerland,,I have a good understanding of what  artificial intelligence is ,57%,
+,,,fig_8.1.3.csv,Switzerland,,Products and services using  artificial intelligence  make me excited,42%,
+,,,fig_8.1.3.csv,Thailand,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,73%,
+,,,fig_8.1.3.csv,Thailand,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,78%,
+,,,fig_8.1.3.csv,Thailand,,I have a good understanding of what  artificial intelligence is ,75%,
+,,,fig_8.1.3.csv,Thailand,,I trust that companies that use  artificial intelligence will protect  my personal data ,68%,
+,,,fig_8.1.3.csv,Thailand,,Products and services using  artificial intelligence  make me excited,76%,
+,,,fig_8.1.3.csv,Thailand,,Products and services using artificial intelligence make me nervous,52%,
+,,,fig_8.1.3.csv,Thailand,,I know which types of products and  services use artificial intelligence ,69%,
+,,,fig_8.1.3.csv,Thailand,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,73%,
+,,,fig_8.1.3.csv,Turkey,,Products and services using  artificial intelligence  make me excited,70%,
+,,,fig_8.1.3.csv,Turkey,,Products and services using artificial intelligence make me nervous,53%,
+,,,fig_8.1.3.csv,Turkey,,I trust that companies that use  artificial intelligence will protect  my personal data ,46%,
+,,,fig_8.1.3.csv,Turkey,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,61%,
+,,,fig_8.1.3.csv,Turkey,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,76%,
+,,,fig_8.1.3.csv,Turkey,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,61%,
+,,,fig_8.1.3.csv,Turkey,,I know which types of products and  services use artificial intelligence ,67%,
+,,,fig_8.1.3.csv,Turkey,,I have a good understanding of what  artificial intelligence is ,74%,
+,,,fig_8.1.3.csv,United States,,I have a good understanding of what  artificial intelligence is ,68%,
+,,,fig_8.1.3.csv,United States,,I know which types of products and  services use artificial intelligence ,39%,
+,,,fig_8.1.3.csv,United States,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,37%,
+,,,fig_8.1.3.csv,United States,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,58%,
+,,,fig_8.1.3.csv,United States,,I trust artificial intelligence to not  discriminate or show bias towards  any group of people  ,41%,
+,,,fig_8.1.3.csv,United States,,I trust that companies that use  artificial intelligence will protect  my personal data ,33%,
+,,,fig_8.1.3.csv,United States,,Products and services using artificial intelligence make me nervous,64%,
+,,,fig_8.1.3.csv,United States,,Products and services using  artificial intelligence  make me excited,34%,
+,,,fig_8.1.4.csv,Global,53%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Global,50%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,China,80%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,China,34%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Indonesia,76%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Indonesia,48%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Thailand,76%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Thailand,52%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Mexico,70%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Mexico,48%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Peru,67%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Peru,50%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,South Africa,61%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,South Africa,54%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Turkey,70%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Turkey,53%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Singapore,64%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Singapore,56%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,South Korea,73%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,South Korea,40%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Colombia,63%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Colombia,48%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,India,63%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,India,51%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Malaysia,68%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Malaysia,50%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Argentina,52%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Argentina,47%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Brazil,56%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Brazil,47%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Hungary,47%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Hungary,44%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Chile,46%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Chile,51%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Italy,49%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Italy,43%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Spain,45%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Spain,48%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Poland,44%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Poland,37%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Germany,46%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Germany,44%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,New Zealand,43%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,New Zealand,67%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Ireland,40%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Ireland,67%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Netherlands,40%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Netherlands,49%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Great Britain,38%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Great Britain,64%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Switzerland,42%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Switzerland,51%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Australia,39%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Australia,64%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,United States,34%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,United States,64%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,France,39%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,France,49%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Belgium,33%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Belgium,51%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Japan,47%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Japan,25%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Canada,37%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Canada,63%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.4.csv,Sweden,36%,Products and services using  artificial intelligence  make me excited,,
+,,,fig_8.1.4.csv,Sweden,56%,Products and services using artificial intelligence make me nervous,,
+,,,fig_8.1.5.csv,Global,,I have a good understanding of what  artificial intelligence is ,,0%
+,,,fig_8.1.5.csv,Global,,I know which types of products and  services use artificial intelligence ,,1%
+,,,fig_8.1.5.csv,Global,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,1%
+,,,fig_8.1.5.csv,Global,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,0%
+,,,fig_8.1.5.csv,Global,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-2%
+,,,fig_8.1.5.csv,Global,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-3%
+,,,fig_8.1.5.csv,Global,,Products and services using  artificial intelligence  make me excited ,,-1%
+,,,fig_8.1.5.csv,Global,,Products and services using artificial  intelligence make me nervous ,,-2%
+,,,fig_8.1.5.csv,Argentina,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,Argentina,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,3%
+,,,fig_8.1.5.csv,Argentina,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-1%
+,,,fig_8.1.5.csv,Argentina,,I trust that companies that use  artificial intelligence will protect  my personal data ,,1%
+,,,fig_8.1.5.csv,Argentina,,Products and services using  artificial intelligence  make me excited ,,6%
+,,,fig_8.1.5.csv,Argentina,,Products and services using artificial  intelligence make me nervous ,,0%
+,,,fig_8.1.5.csv,Argentina,,I know which types of products and  services use artificial intelligence ,,7%
+,,,fig_8.1.5.csv,Argentina,,I have a good understanding of what  artificial intelligence is ,,4%
+,,,fig_8.1.5.csv,Australia,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-2%
+,,,fig_8.1.5.csv,Australia,,I have a good understanding of what  artificial intelligence is ,,4%
+,,,fig_8.1.5.csv,Australia,,I know which types of products and  services use artificial intelligence ,,0%
+,,,fig_8.1.5.csv,Australia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,0%
+,,,fig_8.1.5.csv,Australia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-1%
+,,,fig_8.1.5.csv,Australia,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-6%
+,,,fig_8.1.5.csv,Australia,,Products and services using  artificial intelligence  make me excited ,,-1%
+,,,fig_8.1.5.csv,Australia,,Products and services using artificial  intelligence make me nervous ,,-4%
+,,,fig_8.1.5.csv,Belgium,,Products and services using artificial  intelligence make me nervous ,,1%
+,,,fig_8.1.5.csv,Belgium,,I know which types of products and  services use artificial intelligence ,,2%
+,,,fig_8.1.5.csv,Belgium,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,3%
+,,,fig_8.1.5.csv,Belgium,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,8%
+,,,fig_8.1.5.csv,Belgium,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-3%
+,,,fig_8.1.5.csv,Belgium,,I trust that companies that use  artificial intelligence will protect  my personal data ,,0%
+,,,fig_8.1.5.csv,Belgium,,Products and services using  artificial intelligence  make me excited ,,-1%
+,,,fig_8.1.5.csv,Belgium,,I have a good understanding of what  artificial intelligence is ,,8%
+,,,fig_8.1.5.csv,Brazil,,I have a good understanding of what  artificial intelligence is ,,-9%
+,,,fig_8.1.5.csv,Brazil,,I know which types of products and  services use artificial intelligence ,,-5%
+,,,fig_8.1.5.csv,Brazil,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-9%
+,,,fig_8.1.5.csv,Brazil,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-7%
+,,,fig_8.1.5.csv,Brazil,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-9%
+,,,fig_8.1.5.csv,Brazil,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-11%
+,,,fig_8.1.5.csv,Brazil,,Products and services using  artificial intelligence  make me excited ,,-9%
+,,,fig_8.1.5.csv,Brazil,,Products and services using artificial  intelligence make me nervous ,,-4%
+,,,fig_8.1.5.csv,Canada,,I have a good understanding of what  artificial intelligence is ,,6%
+,,,fig_8.1.5.csv,Canada,,I know which types of products and  services use artificial intelligence ,,-2%
+,,,fig_8.1.5.csv,Canada,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,Canada,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,6%
+,,,fig_8.1.5.csv,Canada,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-3%
+,,,fig_8.1.5.csv,Canada,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-6%
+,,,fig_8.1.5.csv,Canada,,Products and services using  artificial intelligence  make me excited ,,0%
+,,,fig_8.1.5.csv,Canada,,Products and services using artificial  intelligence make me nervous ,,0%
+,,,fig_8.1.5.csv,Chile,,I know which types of products and  services use artificial intelligence ,,-4%
+,,,fig_8.1.5.csv,Chile,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-3%
+,,,fig_8.1.5.csv,Chile,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-1%
+,,,fig_8.1.5.csv,Chile,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Chile,,Products and services using artificial  intelligence make me nervous ,,-3%
+,,,fig_8.1.5.csv,Chile,,I have a good understanding of what  artificial intelligence is ,,-4%
+,,,fig_8.1.5.csv,Chile,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-1%
+,,,fig_8.1.5.csv,Chile,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-2%
+,,,fig_8.1.5.csv,Colombia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,9%
+,,,fig_8.1.5.csv,Colombia,,Products and services using artificial  intelligence make me nervous ,,2%
+,,,fig_8.1.5.csv,Colombia,,Products and services using  artificial intelligence  make me excited ,,1%
+,,,fig_8.1.5.csv,Colombia,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-3%
+,,,fig_8.1.5.csv,Colombia,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,5%
+,,,fig_8.1.5.csv,Colombia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,1%
+,,,fig_8.1.5.csv,Colombia,,I know which types of products and  services use artificial intelligence ,,6%
+,,,fig_8.1.5.csv,Colombia,,I have a good understanding of what  artificial intelligence is ,,-2%
+,,,fig_8.1.5.csv,France,,I trust that companies that use  artificial intelligence will protect  my personal data ,,2%
+,,,fig_8.1.5.csv,France,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,3%
+,,,fig_8.1.5.csv,France,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,5%
+,,,fig_8.1.5.csv,France,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,France,,I know which types of products and  services use artificial intelligence ,,3%
+,,,fig_8.1.5.csv,France,,I have a good understanding of what  artificial intelligence is ,,3%
+,,,fig_8.1.5.csv,France,,Products and services using  artificial intelligence  make me excited ,,3%
+,,,fig_8.1.5.csv,France,,Products and services using artificial  intelligence make me nervous ,,-3%
+,,,fig_8.1.5.csv,Germany,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-1%
+,,,fig_8.1.5.csv,Germany,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,2%
+,,,fig_8.1.5.csv,Germany,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,6%
+,,,fig_8.1.5.csv,Germany,,I know which types of products and  services use artificial intelligence ,,1%
+,,,fig_8.1.5.csv,Germany,,I have a good understanding of what  artificial intelligence is ,,-1%
+,,,fig_8.1.5.csv,Germany,,Products and services using  artificial intelligence  make me excited ,,3%
+,,,fig_8.1.5.csv,Germany,,Products and services using artificial  intelligence make me nervous ,,-2%
+,,,fig_8.1.5.csv,Germany,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,1%
+,,,fig_8.1.5.csv,Great Britain,,I have a good understanding of what  artificial intelligence is ,,-1%
+,,,fig_8.1.5.csv,Great Britain,,Products and services using artificial  intelligence make me nervous ,,-1%
+,,,fig_8.1.5.csv,Great Britain,,I know which types of products and  services use artificial intelligence ,,-2%
+,,,fig_8.1.5.csv,Great Britain,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,3%
+,,,fig_8.1.5.csv,Great Britain,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,0%
+,,,fig_8.1.5.csv,Great Britain,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-2%
+,,,fig_8.1.5.csv,Great Britain,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-1%
+,,,fig_8.1.5.csv,Great Britain,,Products and services using  artificial intelligence  make me excited ,,-3%
+,,,fig_8.1.5.csv,Hungary,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,2%
+,,,fig_8.1.5.csv,Hungary,,Products and services using  artificial intelligence  make me excited ,,1%
+,,,fig_8.1.5.csv,Hungary,,I know which types of products and  services use artificial intelligence ,,3%
+,,,fig_8.1.5.csv,Hungary,,I have a good understanding of what  artificial intelligence is ,,2%
+,,,fig_8.1.5.csv,Hungary,,I trust that companies that use  artificial intelligence will protect  my personal data ,,4%
+,,,fig_8.1.5.csv,Hungary,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-2%
+,,,fig_8.1.5.csv,Hungary,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,1%
+,,,fig_8.1.5.csv,Hungary,,Products and services using artificial  intelligence make me nervous ,,-2%
+,,,fig_8.1.5.csv,India,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,0%
+,,,fig_8.1.5.csv,India,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,0%
+,,,fig_8.1.5.csv,India,,I know which types of products and  services use artificial intelligence ,,0%
+,,,fig_8.1.5.csv,India,,I have a good understanding of what  artificial intelligence is ,,0%
+,,,fig_8.1.5.csv,India,,Products and services using  artificial intelligence  make me excited ,,-3%
+,,,fig_8.1.5.csv,India,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-4%
+,,,fig_8.1.5.csv,India,,Products and services using artificial  intelligence make me nervous ,,-6%
+,,,fig_8.1.5.csv,India,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-3%
+,,,fig_8.1.5.csv,Indonesia,,Products and services using  artificial intelligence  make me excited ,,1%
+,,,fig_8.1.5.csv,Indonesia,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-7%
+,,,fig_8.1.5.csv,Indonesia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,1%
+,,,fig_8.1.5.csv,Indonesia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-1%
+,,,fig_8.1.5.csv,Indonesia,,I know which types of products and  services use artificial intelligence ,,4%
+,,,fig_8.1.5.csv,Indonesia,,I have a good understanding of what  artificial intelligence is ,,2%
+,,,fig_8.1.5.csv,Indonesia,,Products and services using artificial  intelligence make me nervous ,,0%
+,,,fig_8.1.5.csv,Indonesia,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-2%
+,,,fig_8.1.5.csv,Ireland,,I trust that companies that use  artificial intelligence will protect  my personal data ,,3%
+,,,fig_8.1.5.csv,Ireland,,Products and services using artificial  intelligence make me nervous ,,5%
+,,,fig_8.1.5.csv,Ireland,,Products and services using  artificial intelligence  make me excited ,,2%
+,,,fig_8.1.5.csv,Ireland,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,1%
+,,,fig_8.1.5.csv,Ireland,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,5%
+,,,fig_8.1.5.csv,Ireland,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,10%
+,,,fig_8.1.5.csv,Ireland,,I have a good understanding of what  artificial intelligence is ,,8%
+,,,fig_8.1.5.csv,Ireland,,I know which types of products and  services use artificial intelligence ,,4%
+,,,fig_8.1.5.csv,Italy,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-3%
+,,,fig_8.1.5.csv,Italy,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-3%
+,,,fig_8.1.5.csv,Italy,,I know which types of products and  services use artificial intelligence ,,1%
+,,,fig_8.1.5.csv,Italy,,I have a good understanding of what  artificial intelligence is ,,-2%
+,,,fig_8.1.5.csv,Italy,,Products and services using  artificial intelligence  make me excited ,,-1%
+,,,fig_8.1.5.csv,Italy,,Products and services using artificial  intelligence make me nervous ,,-7%
+,,,fig_8.1.5.csv,Italy,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,2%
+,,,fig_8.1.5.csv,Italy,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-1%
+,,,fig_8.1.5.csv,Japan,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,7%
+,,,fig_8.1.5.csv,Japan,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-2%
+,,,fig_8.1.5.csv,Japan,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-4%
+,,,fig_8.1.5.csv,Japan,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-4%
+,,,fig_8.1.5.csv,Japan,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Japan,,Products and services using artificial  intelligence make me nervous ,,1%
+,,,fig_8.1.5.csv,Japan,,I have a good understanding of what  artificial intelligence is ,,1%
+,,,fig_8.1.5.csv,Japan,,I know which types of products and  services use artificial intelligence ,,2%
+,,,fig_8.1.5.csv,Malaysia,,Products and services using  artificial intelligence  make me excited ,,-5%
+,,,fig_8.1.5.csv,Malaysia,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-8%
+,,,fig_8.1.5.csv,Malaysia,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-6%
+,,,fig_8.1.5.csv,Malaysia,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-7%
+,,,fig_8.1.5.csv,Malaysia,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-6%
+,,,fig_8.1.5.csv,Malaysia,,I know which types of products and  services use artificial intelligence ,,-7%
+,,,fig_8.1.5.csv,Malaysia,,I have a good understanding of what  artificial intelligence is ,,-4%
+,,,fig_8.1.5.csv,Malaysia,,Products and services using artificial  intelligence make me nervous ,,-5%
+,,,fig_8.1.5.csv,Mexico,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,5%
+,,,fig_8.1.5.csv,Mexico,,I have a good understanding of what  artificial intelligence is ,,5%
+,,,fig_8.1.5.csv,Mexico,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,Mexico,,I know which types of products and  services use artificial intelligence ,,4%
+,,,fig_8.1.5.csv,Mexico,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-2%
+,,,fig_8.1.5.csv,Mexico,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Mexico,,Products and services using artificial  intelligence make me nervous ,,0%
+,,,fig_8.1.5.csv,Mexico,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,4%
+,,,fig_8.1.5.csv,Netherlands,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-2%
+,,,fig_8.1.5.csv,Netherlands,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-3%
+,,,fig_8.1.5.csv,Netherlands,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,0%
+,,,fig_8.1.5.csv,Netherlands,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-3%
+,,,fig_8.1.5.csv,Netherlands,,I know which types of products and  services use artificial intelligence ,,-4%
+,,,fig_8.1.5.csv,Netherlands,,I have a good understanding of what  artificial intelligence is ,,-1%
+,,,fig_8.1.5.csv,Netherlands,,Products and services using artificial  intelligence make me nervous ,,-1%
+,,,fig_8.1.5.csv,Netherlands,,Products and services using  artificial intelligence  make me excited ,,-1%
+,,,fig_8.1.5.csv,New Zealand,,Products and services using artificial  intelligence make me nervous ,,3%
+,,,fig_8.1.5.csv,New Zealand,,I have a good understanding of what  artificial intelligence is ,,6%
+,,,fig_8.1.5.csv,New Zealand,,I know which types of products and  services use artificial intelligence ,,5%
+,,,fig_8.1.5.csv,New Zealand,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,New Zealand,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,3%
+,,,fig_8.1.5.csv,New Zealand,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-2%
+,,,fig_8.1.5.csv,New Zealand,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-2%
+,,,fig_8.1.5.csv,New Zealand,,Products and services using  artificial intelligence  make me excited ,,0%
+,,,fig_8.1.5.csv,Peru,,I know which types of products and  services use artificial intelligence ,,0%
+,,,fig_8.1.5.csv,Peru,,I have a good understanding of what  artificial intelligence is ,,6%
+,,,fig_8.1.5.csv,Peru,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,2%
+,,,fig_8.1.5.csv,Peru,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,0%
+,,,fig_8.1.5.csv,Peru,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Peru,,Products and services using artificial  intelligence make me nervous ,,3%
+,,,fig_8.1.5.csv,Peru,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,1%
+,,,fig_8.1.5.csv,Peru,,I trust that companies that use  artificial intelligence will protect  my personal data ,,2%
+,,,fig_8.1.5.csv,Poland,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-10%
+,,,fig_8.1.5.csv,Poland,,I know which types of products and  services use artificial intelligence ,,0%
+,,,fig_8.1.5.csv,Poland,,Products and services using  artificial intelligence  make me excited ,,-6%
+,,,fig_8.1.5.csv,Poland,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-5%
+,,,fig_8.1.5.csv,Poland,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-2%
+,,,fig_8.1.5.csv,Poland,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-5%
+,,,fig_8.1.5.csv,Poland,,I have a good understanding of what  artificial intelligence is ,,-1%
+,,,fig_8.1.5.csv,Poland,,Products and services using artificial  intelligence make me nervous ,,-1%
+,,,fig_8.1.5.csv,Singapore,,I have a good understanding of what  artificial intelligence is ,,0%
+,,,fig_8.1.5.csv,Singapore,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,1%
+,,,fig_8.1.5.csv,Singapore,,I know which types of products and  services use artificial intelligence ,,0%
+,,,fig_8.1.5.csv,Singapore,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-3%
+,,,fig_8.1.5.csv,Singapore,,I trust that companies that use  artificial intelligence will protect  my personal data ,,2%
+,,,fig_8.1.5.csv,Singapore,,Products and services using artificial  intelligence make me nervous ,,3%
+,,,fig_8.1.5.csv,Singapore,,Products and services using  artificial intelligence  make me excited ,,-1%
+,,,fig_8.1.5.csv,Singapore,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,4%
+,,,fig_8.1.5.csv,South Africa,,Products and services using  artificial intelligence  make me excited ,,2%
+,,,fig_8.1.5.csv,South Africa,,Products and services using artificial  intelligence make me nervous ,,1%
+,,,fig_8.1.5.csv,South Africa,,I trust that companies that use  artificial intelligence will protect  my personal data ,,4%
+,,,fig_8.1.5.csv,South Africa,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,6%
+,,,fig_8.1.5.csv,South Africa,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,6%
+,,,fig_8.1.5.csv,South Africa,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,6%
+,,,fig_8.1.5.csv,South Africa,,I have a good understanding of what  artificial intelligence is ,,-2%
+,,,fig_8.1.5.csv,South Africa,,I know which types of products and  services use artificial intelligence ,,4%
+,,,fig_8.1.5.csv,South Korea,,I have a good understanding of what  artificial intelligence is ,,-4%
+,,,fig_8.1.5.csv,South Korea,,I know which types of products and  services use artificial intelligence ,,-3%
+,,,fig_8.1.5.csv,South Korea,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-2%
+,,,fig_8.1.5.csv,South Korea,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-2%
+,,,fig_8.1.5.csv,South Korea,,Products and services using  artificial intelligence  make me excited ,,-3%
+,,,fig_8.1.5.csv,South Korea,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-4%
+,,,fig_8.1.5.csv,South Korea,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-3%
+,,,fig_8.1.5.csv,South Korea,,Products and services using artificial  intelligence make me nervous ,,-3%
+,,,fig_8.1.5.csv,Spain,,Products and services using artificial  intelligence make me nervous ,,-3%
+,,,fig_8.1.5.csv,Spain,,I have a good understanding of what  artificial intelligence is ,,-1%
+,,,fig_8.1.5.csv,Spain,,I know which types of products and  services use artificial intelligence ,,0%
+,,,fig_8.1.5.csv,Spain,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,Spain,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-2%
+,,,fig_8.1.5.csv,Spain,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,1%
+,,,fig_8.1.5.csv,Spain,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-1%
+,,,fig_8.1.5.csv,Spain,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Sweden,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,0%
+,,,fig_8.1.5.csv,Sweden,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-3%
+,,,fig_8.1.5.csv,Sweden,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,0%
+,,,fig_8.1.5.csv,Sweden,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-4%
+,,,fig_8.1.5.csv,Sweden,,I have a good understanding of what  artificial intelligence is ,,-2%
+,,,fig_8.1.5.csv,Sweden,,I know which types of products and  services use artificial intelligence ,,3%
+,,,fig_8.1.5.csv,Sweden,,Products and services using artificial  intelligence make me nervous ,,3%
+,,,fig_8.1.5.csv,Sweden,,Products and services using  artificial intelligence  make me excited ,,3%
+,,,fig_8.1.5.csv,Thailand,,I have a good understanding of what  artificial intelligence is ,,-3%
+,,,fig_8.1.5.csv,Thailand,,I know which types of products and  services use artificial intelligence ,,-4%
+,,,fig_8.1.5.csv,Thailand,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Thailand,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-3%
+,,,fig_8.1.5.csv,Thailand,,Products and services using artificial  intelligence make me nervous ,,-4%
+,,,fig_8.1.5.csv,Thailand,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-1%
+,,,fig_8.1.5.csv,Thailand,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-9%
+,,,fig_8.1.5.csv,Thailand,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,1%
+,,,fig_8.1.5.csv,Turkey,,Products and services using  artificial intelligence  make me excited ,,-4%
+,,,fig_8.1.5.csv,Turkey,,I have a good understanding of what  artificial intelligence is ,,1%
+,,,fig_8.1.5.csv,Turkey,,I know which types of products and  services use artificial intelligence ,,-3%
+,,,fig_8.1.5.csv,Turkey,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,-5%
+,,,fig_8.1.5.csv,Turkey,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,-2%
+,,,fig_8.1.5.csv,Turkey,,I trust that companies that use  artificial intelligence will protect  my personal data ,,-10%
+,,,fig_8.1.5.csv,Turkey,,Products and services using artificial  intelligence make me nervous ,,-1%
+,,,fig_8.1.5.csv,Turkey,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,-2%
+,,,fig_8.1.5.csv,United States,,Products and services using artificial  intelligence make me nervous ,,1%
+,,,fig_8.1.5.csv,United States,,I trust that companies that use  artificial intelligence will protect  my personal data ,,1%
+,,,fig_8.1.5.csv,United States,,I trust artificial intelligence to not  discriminate or show bias toward  any group of people ,,2%
+,,,fig_8.1.5.csv,United States,,Products and services using artificial  intelligence will profoundly change  my daily life in the next 3–5 years ,,1%
+,,,fig_8.1.5.csv,United States,,Products and services using artificial  intelligence have profoundly changed  my daily life in the past 3–5 years ,,2%
+,,,fig_8.1.5.csv,United States,,I know which types of products and  services use artificial intelligence ,,4%
+,,,fig_8.1.5.csv,United States,,I have a good understanding of what  artificial intelligence is ,,1%
+,,,fig_8.1.5.csv,United States,,Products and services using  artificial intelligence  make me excited ,,-1%
