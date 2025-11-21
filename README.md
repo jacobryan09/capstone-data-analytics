@@ -54,13 +54,6 @@ capstone-data-analytics/
 │
 └── README.md                # You’re reading this file
 
-Got you, Jake — here is a clean, professional, portfolio-ready README written specifically for your capstone project.
-It looks great on GitHub and matches real-world data analyst standards.
-
-⸻
-
-✅ Copy & Paste This Entire README into Your GitHub README.md
-
 # 📊 AI Adoption, Job Automation Risk & Socioeconomic Vulnerability  
 ### Final Capstone Project – Data Analytics Program  
 **Author:** Jake Rianne Gapusan  
