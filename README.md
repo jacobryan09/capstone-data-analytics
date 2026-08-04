@@ -2,6 +2,7 @@
 ### Final Capstone Project – Data Analytics Program  
 **Author:** Jake Rianne Gapusan  
 **Course:** CIS 480 – Capstone  
+Link to Video: https://youtu.be/b1tbff7Xrbg
 
 ---
 
