@@ -1,128 +1,64 @@
-# 📊 AI Adoption, Job Automation Risk & Socioeconomic Vulnerability  
-### Final Capstone Project – Data Analytics Program  
-**Author:** Jake Rianne Gapusan  
-**Course:** CIS 480 – Capstone  
-Link to Video: https://youtu.be/b1tbff7Xrbg
+# AI Adoption, Job Automation Risk & Socioeconomic Vulnerability
 
----
+End-to-end data science analysis of AI adoption and automation risk using  
+Python, Power BI, public opinion data, labor-market data, and U.S. county-level socioeconomic indicators.
 
-## 🚀 **Project Overview**
+This project examines the rapid growth of artificial intelligence from multiple perspectives, including ChatGPT adoption, occupational exposure to automation, public trust in AI, and socioeconomic vulnerability across U.S. counties. The goal is to combine multiple datasets into a single analysis that shows where AI adoption is growing, which jobs may be most affected, and which communities could face the greatest challenges as automation expands.
 
-This capstone project investigates how **AI adoption** is accelerating, how it affects the **job market**, and how AI-related risks intersect with **socioeconomic factors across U.S. counties**.  
-Using Python, Power BI, and public datasets, the project explores:
+## 📊 Power BI Dashboard
 
-- 📈 Growth of AI usage globally (ChatGPT usage trends)  
-- 🤖 Job roles most at-risk of automation  
-- 🧠 Public trust and opinions toward AI  
-- 🗺️ County-level socioeconomic vulnerability (income, education, unemployment)  
-- 🎯 A combined **AI Vulnerability Score** highlighting at-risk regions  
+### AI Adoption Overview
 
-This repository contains all scripts, data, visualizations, and final documentation for the project.
+The AI Adoption Overview page tracks ChatGPT user growth and website activity over time. It compares annual and monthly usage patterns and includes a 12-month forecast to illustrate the continued expansion of public engagement with generative AI.
 
----
+<img width="2557" height="1370" alt="AI Adoption Overview" src="assets/dashboard/ai-adoption-overview.png" />
 
-## 🧠 **Key Research Questions**
+### Job-Threat Index
 
-1. **Is AI adoption accelerating globally?**  
-2. **Which jobs face the highest risk of AI replacement?**  
-3. **How do people feel about AI across different statements?**  
-4. **Are counties with lower income & higher unemployment more vulnerable to AI automation impacts?**  
-5. **How can AI-driven insights support workforce planning & policy?**
+This page examines occupational exposure to AI-driven automation. It compares jobs with the highest and lowest estimated replacement risk, identifies industries with the greatest exposure, and explores the relationship between task complexity, workload, and automation risk.
 
-Each hypothesis and statistical result is detailed in the final report.
+<img width="2551" height="1364" alt="Job-Threat Index Dashboard" src="assets/dashboard/job-threat-dashboard.png" />
 
-## 🛠️ **Tools & Technologies Used**
+### Public Opinion & AI Trust
 
-| Tool | Purpose |
-|------|---------|
-| **Python (Pandas, NumPy, Matplotlib, Seaborn)** | Data cleaning, analysis, model creation |
-| **Power BI** | Dashboard creation & interactive visualizations |
-| **GitHub** | Version control & project hosting |
-| **Excel / CSV** | Dataset storage & preprocessing |
-| **Jupyter Notebook / VS Code** | Development environment |
+This page explores public attitudes toward artificial intelligence across survey statements and countries. It combines agreement measures, geographic patterns, sentiment analysis, and a word cloud built from ChatGPT user reviews to highlight both optimism and ongoing concerns about AI.
 
----
+<img width="2545" height="1363" alt="Public Opinion and AI Trust Dashboard" src="assets/dashboard/public-opinion-and-trust.png" />
 
-## 📌 **Highlights of the Analysis**
+### Socioeconomic Vulnerability
 
-### 📈 **1. AI Adoption Overview (Power BI Page 1)**
-- ChatGPT users increased from **100M → 400M** in two years.  
-- Monthly visits show strong engagement and seasonality.  
-- Forecasting model predicts continued growth into 2026.
+This page analyzes county-level income and unemployment indicators to identify communities that may be more vulnerable to AI-related labor disruption. A custom AI Vulnerability Score combines socioeconomic factors into a single measure for comparing risk across U.S. counties.
 
-### 🤖 **2. Job-Threat Index Dashboard (Page 2)**
-- Most automatable jobs include:
-  - Data Entry
-  - Admin tasks
-  - Mail clerks  
-- Least at-risk jobs include:
-  - Teachers
-  - Healthcare support
-  - Counselors
+<img width="2551" height="1363" alt="Socioeconomic Vulnerability Map" src="assets/dashboard/socioeconomic-vulnerability-map.png" />
 
-### 👥 **3. Public Opinion & AI Trust (Page 3)**
-- Majority of respondents agree that AI is useful but still express concerns.
-- Word cloud built from ChatGPT user reviews shows themes like:
-  **“helpful”, “useful”, “fast”, “amazing”, “learning tool”**.
+### Summary
 
-### 🗺️ **4. Socioeconomic Vulnerability Map (Page 4)**
-- Counties with low income & high unemployment cluster mainly in:
-  **Southern states, parts of the Midwest, Puerto Rico, and rural areas.**
-- Produced a **custom AI Vulnerability Score (0–1 scale)**:
-  - High-risk counties include Allendale (SC), East Carroll (LA), Issaquena (MS).
+The Summary page brings together the major findings from the analysis, connecting AI adoption growth, job automation exposure, public sentiment, and socioeconomic vulnerability. It also highlights the importance of workforce preparation, digital readiness, and support for communities most exposed to economic disruption.
 
-### 📘 **5. Summary Page (Page 5)**
-- Consolidates project insights and reflects on implications for:
-  - Workforce development  
-  - Education policy  
-  - Economic planning  
-  - Ethical AI adoption  
+<img width="2554" height="1369" alt="AI Adoption Project Summary" src="assets/dashboard/summary.png" />
 
----
+➡️ [View Full Project Report (PDF)](documentation/FinalCapstone_Document_JakeGapusan.pdf)
 
-## 📖 **How to Reproduce This Project**
+➡️ [Watch Video Presentation](https://youtu.be/b1tbff7Xrbg)
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/jacobryan09/capstone-data-analytics.git
+## Tools & Technologies
 
-2️⃣ Open the Python script
+- Python: Pandas, NumPy, Matplotlib, and Seaborn
+- Power BI
+- Jupyter Notebook and VS Code
+- Excel and CSV datasets
+- GitHub
 
-File:
-/scripts/Final_CapstoneProject_JakeGapusan.py
+## Project Files
 
-Run it in:
-	•	VS Code
-	•	Jupyter Notebook
-	•	Any Python 3 IDE
+- [Python Analysis Script](scripts/Final_CapstoneProject_JakeGapusan.py)
+- [Jupyter Notebook](scripts/CapstoneProject_JakeGapusan.ipynb)
+- [Power BI Dashboard](visualizations/FinalCapstone_PowerBI_JakeGapusan.pbix)
+- [Raw and Processed Datasets](datasets)
+- [Final Project Report](documentation/FinalCapstone_Document_JakeGapusan.pdf)
 
-3️⃣ Open the Power BI Dashboard
+## Author
 
-File:
-/visualizations/FinalCapstone_PowerBI_JakeGapusan.pbix
+Jake Rianne Gapusan
 
-Ensure all datasets are located in the datasets/ folder.
-
-⸻
-
-🌍 Real-World Impact
-
-This project provides actionable insights for:
-	•	Government agencies preparing workforce reskilling programs
-	•	Businesses anticipating automation changes
-	•	Educators understanding future skill demands
-	•	Policymakers evaluating AI readiness across regions
-
-⸻
-
-📬 Contact
-
-Author: Jake Rianne Gapusan
-For questions or collaboration:
-📧 (jacobryan0913@gmail.com)
-
-⸻
-
-⭐ If you found this helpful, feel free to star the repository!
-
----
+CIS 480 – Data Analytics Capstone
